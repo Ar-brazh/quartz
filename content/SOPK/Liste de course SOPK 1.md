@@ -1,0 +1,37 @@
+- [ ] avoine
+- [ ] graines de chia
+ - [ ] concombre 
+ - [ ] kefir
+ - [ ] tomates cerise 
+ - [ ] pates corail
+ - [ ] riz complet 
+ - [ ] feta 
+ - [ ] mozzerala
+ - [ ] menthe
+ - [ ] piments 
+ - [ ] sauce piment
+ - [ ] basilic
+ - [ ] oignon
+ - [ ] lentilles
+ - [ ] poulet/dinde
+ - [ ] haricots rouges 
+ - [ ] pois chiches
+ - [ ] quinoa
+ - [ ] avocat
+ - [ ] poivron
+ - [ ] epinards
+ - [ ] carottes
+ - [ ] boilloun de volaille
+ - [ ] puree de tomates
+ - [ ] noix
+ - [ ] oeufs
+ - [ ] petits poissons
+ - [ ] vianigre de cidre
+ - [ ] patate douce
+ - [ ] lait d'amande/soja
+ - [ ] berries
+ - [ ] brocolli
+ - [ ] pates completes
+ - [ ] kimchi
+ - [ ] kombucha
+ 

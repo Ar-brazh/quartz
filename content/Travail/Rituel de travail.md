@@ -1,0 +1,14 @@
+- Programmation (2h30)
+- Littérature (1h)
+	- Update fusion d'images 
+	- IA traitement d'images
+	- Notes thèmes pertinents sur lesquels se renseigner
+	- Fiche bases langages info
+	- Eléments du C-PETRUS
+		- Robot UR3E et sujets de robotique 
+		- Échographie, Aixplorer et sondes
+		- Fantôme compatible US, TEP et physiologiquement réaliste
+		- Correction de mouvement ECG
+- Impression 3D (30 min)
+- Mission principale (2-3h)
+- Autres impératifs (1h)

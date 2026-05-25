@@ -1,5 +1,5 @@
-- ==**Renseignement sur formation avantageuse pour recevoir chomage**== 
-	
+- ==**Renseignement sur formation avantageuse pour recevoir chômage**== 
+		
 - Lien avec candidature : 
 	- Trouver offres pour [[Entreprises ou labos intéressants]]
 	- Voir ce qui manque à mon profil 

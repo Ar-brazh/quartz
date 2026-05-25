@@ -17,11 +17,11 @@
 9. [ ] [[Acheter tenue anniv Eno]] 🔼 
 
 10. [ ] Rappels actualisation France travail 🔼 
+ 
+11. [ ] Trains 🔁 every day 
 
-11. [ ] Trains
+12. [ ] Sport 🔁 every day 
 
-12. [ ] Sport
+13. [ ] Savoir quand arrive papa et maman dépendance 🏁 
 
-13. [ ] Savoir quand arrive papa et maman dépendance
-
-14. [ ] Appel Mme Eon
+14. [ ] Appel Mme Eon 🔽 

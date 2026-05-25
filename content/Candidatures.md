@@ -1,6 +1,6 @@
 Dossier ARE : 
 
-- Tableau avec toutes les offres, date de soumission, intitulé du poste, coherence avec mon parcours 
+- Tableau avec toutes les offres, date de soumission, intitulé du poste, coherence avec mon parcours, reponse ou non
 - Faire MOOC
 - Refaire capture d'écran pour inclure la date sur les mails 
 

@@ -23,6 +23,12 @@ Offres de thèse CNRS :
 - Resigner sur conditions pour contrat doctoral dans ma situation 
 
 Candidatures à faire :
+
+- Favoris Chrome
 - Favoris CNRS
 - GE Healthcare
 - Dassault
+
+Complément utile :
+
+- 

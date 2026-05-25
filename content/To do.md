@@ -1,6 +1,6 @@
-1. [ ] Candidatures 📅 2026-06-02⏫ [[Candidatures]]
+1. [ ] [[Candidatures]] 📅 2026-06-02⏫ 
 
-2. [ ]  [[Site web - Notes]]
+2. [ ]  [[Site web - Notes]] 
 
 3. [ ] [[Relancer groupes vacances]]
 

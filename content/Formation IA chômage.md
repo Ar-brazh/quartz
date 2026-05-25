@@ -1,9 +1,5 @@
 - ==**Renseignement sur formation avantageuse pour recevoir chômage**== 
 
-**Oui, c'est possible** même sans ARE. Voici les dispositifs accessibles dans votre situation :
-
----
-
 ### Dispositifs disponibles sans allocation chômage
 
 La condition clé dans tous les cas : **être inscrit comme demandeur d'emploi à France Travail** (même sans indemnisation).

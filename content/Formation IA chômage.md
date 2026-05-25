@@ -61,6 +61,11 @@ Pour maximiser vos chances d'obtenir le financement, ciblez des formations **cer
 - **Titre RNCP** Développeur IA / Data Scientist
 - Formations OpenClassrooms, DataScientest, Jedha (toutes Qualiopi)
 - Simplon.co (souvent 100% financé pour demandeurs d'emploi)
+
+
+
+
+
 		
 - Lien avec candidature : 
 	- Trouver offres pour [[Entreprises ou labos intéressants]]

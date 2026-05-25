@@ -62,7 +62,7 @@ Pour maximiser vos chances d'obtenir le financement, ciblez des formations **cer
 - Formations OpenClassrooms, DataScientest, Jedha (toutes Qualiopi)
 - Simplon.co (souvent 100% financé pour demandeurs d'emploi)
 
-
+https://openclassrooms.com/fr/paths/topics/31-data
 
 
 

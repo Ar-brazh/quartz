@@ -3,6 +3,10 @@ Dossier ARE :
 - Faire MOOC
 - Refaire capture d'écran pour inclure la date sur les mails 
 
+Refaire CV ? :
+
+- Checker ATS 
+
 Formation complémentaire : 
 
 - Trouver offres pour [[Entreprises ou labos intéressants]]

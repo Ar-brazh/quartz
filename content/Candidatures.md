@@ -1,3 +1,7 @@
+Dossier ARE : 
+
+- Refaire capture d'écran pour inclure la date sur les mails 
+
 Formation complémentaire : 
 - Trouver offres pour [[Entreprises ou labos intéressants]]
 - Voir ce qui manque à mon profil 

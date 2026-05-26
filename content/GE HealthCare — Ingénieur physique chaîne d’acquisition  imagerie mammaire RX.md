@@ -1,0 +1,23 @@
+# Lettre de motivation — Ingénieur physique chaîne d’acquisition — GE HealthCare
+
+Goulwen Le Bras  
+goulwen.le-bras@outlook.fr  
++33 7 68 25 07 30  
+
+Madame, Monsieur,
+
+Je vous adresse ma candidature pour le poste d’ingénieur en physique de la chaîne d’acquisition au sein de GE HealthCare. Titulaire d’un diplôme d’ingénieur en génie biomédical de l’UTC, j’ai acquis une expérience concrète en imagerie médicale, développement logiciel scientifique, modélisation et validation expérimentale dans des environnements de recherche clinique.
+
+Ce qui m’attire particulièrement dans ce poste est la finalité directe du travail : comprendre, modéliser et optimiser les composants de la chaîne image afin d’améliorer la qualité des images fournies au radiologue. Le lien entre physique d’acquisition, traitement d’image, validation expérimentale et impact clinique correspond exactement au type de problématique que je souhaite approfondir.
+
+Mon expérience la plus directement pertinente est celle menée au PARCC – Inserm, où j’ai été responsable du développement du système C-PETRUS, une plateforme d’imagerie multimodale combinant CT, TEP et échographie robotisée. J’y ai développé des outils de traitement d’images, de recalage multimodal et de visualisation de volumes cliniques, tout en contribuant à la conception de fantômes d’imagerie compatibles CT, TEP et ultrasons pour la validation expérimentale du système. Cette expérience m’a appris à travailler à l’interface entre contraintes physiques, besoins cliniques, développement logiciel et validation sur données réelles.
+
+J’ai également développé une application Python/PyQt5 d’analyse d’images échographiques microflow, dont les résultats font l’objet d’une publication dans QIMS, ainsi qu’un modèle de simulation de signaux HD-sEMG en Python lors de mon stage au laboratoire BMBI. Ces expériences m’ont donné une pratique solide de la modélisation, du traitement de données et de la validation d’algorithmes dans des contextes biomédicaux exigeants.
+
+Je n’ai pas encore d’expérience spécifique en mammographie ou en imagerie par rayons X, et je le précise clairement. En revanche, ma formation en imagerie médicale, mon expérience pratique sur des systèmes multimodaux, ma maîtrise de Python/MATLAB et mon habitude de travailler avec des cliniciens me donnent confiance dans ma capacité à monter rapidement en compétence sur les problématiques propres à l’imagerie du sein.
+
+Je serais ravi d’échanger avec vous sur la manière dont mon profil pourrait contribuer aux développements de votre équipe qualité image.
+
+Cordialement,  
+
+Goulwen Le Bras

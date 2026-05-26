@@ -64,3 +64,6 @@
 64. CNRS
 65. Inserm
 66. CEA
+67. Pasteur
+68. Institut curie 
+69. 

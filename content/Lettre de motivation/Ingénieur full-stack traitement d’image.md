@@ -1,4 +1,3 @@
-
 # Lettre de motivation — Ingénieur développement logiciel full-stack en traitement d’image — MAP / Meshroom
 
 Goulwen Le Bras  
@@ -7,18 +6,18 @@ goulwen.le-bras@outlook.fr
 
 Madame, Monsieur,
 
-Je vous adresse ma candidature pour le poste d’ingénieur en développement logiciel full-stack en traitement d’image au sein du laboratoire Modèles et simulations pour l’Architecture et le Patrimoine. Le projet autour de Meshroom, de l’intégration de greffons spécialisés et de l’automatisation de pipelines d’analyse d’images m’intéresse particulièrement, car il associe développement logiciel scientifique, traitement d’image, architecture modulaire et diffusion d’outils open source.
+Je vous adresse ma candidature pour le poste d’ingénieur en développement logiciel full-stack en traitement d’image au sein du laboratoire Modèles et simulations pour l’Architecture et le Patrimoine.
 
-Mon parcours s’est construit autour du développement d’outils logiciels pour l’imagerie et les systèmes complexes. Au PARCC – Inserm, j’ai été responsable du développement de C-PETRUS, une plateforme d’imagerie multimodale combinant CT, TEP et échographie robotisée. J’y ai conçu une interface logicielle centralisant le contrôle robotique, le traitement d’images, le recalage multimodal et la visualisation de volumes cliniques. Cette expérience m’a appris à intégrer plusieurs briques hétérogènes dans un environnement utilisable par des chercheurs, médecins et ingénieurs.
+Ingénieur biomédical diplômé de l’UTC, j’ai construit mon parcours autour du développement logiciel scientifique, du traitement d’images, de l’intégration de briques hétérogènes et de la validation expérimentale. Ce qui m’intéresse particulièrement dans votre offre, c’est le développement d’outils modulaires autour de Meshroom, capables d’intégrer des greffons spécialisés, d’automatiser des pipelines d’analyse d’images et de rendre des méthodes de recherche utilisables par une communauté plus large.
 
-Cette logique me semble proche des enjeux de votre projet : orchestrer des prototypes issus de la recherche dans l’environnement graphique de Meshroom, assurer leur interopérabilité, automatiser les traitements et documenter les outils pour favoriser leur appropriation. J’ai déjà été confronté à des problématiques similaires d’architecture logicielle, de structuration de données, de validation expérimentale, de traçabilité et de documentation utilisateur.
+Au PARCC-Inserm, j’ai travaillé sur le développement de C-PETRUS, une plateforme d’imagerie multimodale associant tomodensitométrie, TEP et échographie robotisée. Ce projet m’a donné une expérience complète d’un système d’imagerie et de traitement de données. J’ai notamment développé une interface MATLAB centralisant le pilotage robotique, le traitement d’images et de données, le recalage multimodal, la visualisation de volumes reconstruits et l’évaluation d’erreurs. J’ai également participé à la conception de fantômes d’imagerie, à la validation expérimentale, à la documentation utilisateur et réglementaire, et à l’encadrement de stagiaires.
 
-J’ai également développé une application Python/PyQt5 d’analyse d’images échographiques microflow, ainsi qu’une interface Python/PyQt5 et ROS pour le contrôle robotique lors de mon stage au Zeiss Innovation Hub. Ces expériences m’ont donné une pratique concrète du développement d’outils scientifiques orientés utilisateur, avec une attention particulière portée à la robustesse, à la clarté de l’interface et à la maintenabilité.
+Cette expérience m’a surtout appris à intégrer plusieurs briques dans un outil cohérent, utilisable par des chercheurs, médecins et ingénieurs. Elle me semble proche des enjeux de votre projet : orchestrer des prototypes issus de la recherche, assurer leur interopérabilité, automatiser les traitements, documenter les workflows et favoriser leur appropriation.
 
-Je n’ai pas encore d’expérience directe avec Meshroom, MicMac, la photogrammétrie patrimoniale ou les standards du web sémantique. En revanche, je maîtrise Python, MATLAB, C++, Git et le développement de pipelines de traitement d’images. Je suis motivé à transférer ces compétences vers la modélisation basée image, la reconstruction 3D et la valorisation du patrimoine.
+J’ai également développé une application Python/PyQt5 d’analyse d’images échographiques microflow, ainsi qu’une interface Python/PyQt5 et ROS pour le contrôle robotique lors de mon stage au Zeiss Innovation Hub. Ces expériences m’ont donné une pratique concrète du développement d’outils scientifiques orientés utilisateur, avec une attention portée à la robustesse, à la clarté de l’interface et à la maintenabilité.
 
-Je serais heureux de contribuer au projet COCORICO et au développement d’une boîte à outils libre, modulaire et utile aux communautés scientifiques et patrimoniales.
+Je n’ai pas encore d’expérience directe avec Meshroom, MicMac, la photogrammétrie patrimoniale ou les standards du web sémantique. En revanche, je maîtrise Python, MATLAB, C++, Git et le développement de pipelines de traitement d’images. Je serais heureux de mettre ces compétences au service du projet COCORICO et du développement d’une boîte à outils libre, modulaire et utile aux communautés scientifiques et patrimoniales.
 
-Cordialement,  
+Cordialement,
 
 Goulwen Le Bras

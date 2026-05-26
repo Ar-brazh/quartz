@@ -1,4 +1,3 @@
-
 # Lettre de motivation — Responsable évaluation clinique dispositifs médicaux logiciels — GE HealthCare
 
 Goulwen Le Bras  
@@ -7,18 +6,18 @@ goulwen.le-bras@outlook.fr
 
 Madame, Monsieur,
 
-Je vous adresse ma candidature pour le poste de responsable évaluation clinique de dispositifs médicaux logiciels au sein de GE HealthCare. Mon parcours d’ingénieur biomédical m’a permis de développer une double sensibilité : d’une part pour les technologies d’imagerie médicale et le développement logiciel, d’autre part pour la documentation, la traçabilité, la validation et les exigences réglementaires associées aux dispositifs médicaux.
+Je vous adresse ma candidature pour le poste de responsable évaluation clinique de dispositifs médicaux logiciels au sein de GE HealthCare.
 
-Au PARCC – Inserm, j’ai été responsable du développement de C-PETRUS, une plateforme d’imagerie multimodale combinant CT, TEP et échographie robotisée, avec une ambition de transfert clinique. Dans ce cadre, j’ai participé à la définition des exigences techniques, à la conception de l’architecture logicielle, à la validation expérimentale sur fantômes et à la rédaction de documents structurants, dont un manuel utilisateur et une brochure investigateur pour une demande d’investigation clinique à l’ANSM.
+Ingénieur biomédical diplômé de l’UTC, j’ai construit mon parcours autour de l’imagerie médicale, du développement logiciel scientifique, de la validation expérimentale et de la documentation technique associée aux dispositifs médicaux. Ce qui m’intéresse particulièrement dans votre offre, c’est la possibilité de relier les performances d’un logiciel médical à son bénéfice clinique, à sa documentation réglementaire et à son suivi dans le temps.
 
-Cette expérience m’a donné une vision concrète du lien entre développement technologique, bénéfice clinique attendu, analyse de risques, documentation qualité et exigences de mise en œuvre dans un environnement médical. Elle m’a également habitué à travailler avec des médecins, ingénieurs, chercheurs et techniciens, en assurant la cohérence entre contraintes scientifiques, besoins utilisateurs et livrables documentaires.
+Au PARCC-Inserm, j’ai travaillé sur le développement de C-PETRUS, une plateforme d’imagerie multimodale associant tomodensitométrie, TEP et échographie robotisée, avec une ambition de transfert clinique. Ce projet m’a donné une expérience complète d’un système d’imagerie médicale. J’ai notamment participé à la définition des exigences techniques, au développement logiciel, à la validation expérimentale sur fantômes, à la rédaction d’un manuel utilisateur et à la préparation de documents pour une demande d’investigation clinique à l’ANSM.
 
-J’ai aussi contribué à un projet d’analyse d’images échographiques microflow, mené en collaboration clinique, dont les résultats font l’objet d’une publication dans QIMS. Cette expérience a renforcé mon intérêt pour l’évaluation des performances d’outils d’imagerie et pour la manière dont les résultats techniques peuvent être reliés à une question médicale.
+Cette expérience m’a surtout appris à faire le lien entre des contraintes très différentes : le besoin clinique, les limites physiques des modalités d’imagerie, la qualité des données obtenues, la robustesse des outils logiciels, la traçabilité documentaire et la nécessité de valider chaque étape de manière rigoureuse. Elle m’a également habitué à travailler avec des médecins, chercheurs, ingénieurs et techniciens, en assurant la cohérence entre objectifs scientifiques, exigences utilisateurs et livrables réglementaires.
 
-Je n’ai pas encore occupé un poste exclusivement dédié à l’évaluation clinique ou à la réglementation des dispositifs médicaux logiciels. En revanche, j’ai déjà contribué à des livrables réglementaires, à la documentation technique et à la validation d’un système d’imagerie en contexte clinique. Je suis rigoureux, synthétique, à l’aise en anglais et motivé à approfondir les exigences MDR, les rapports d’évaluation clinique et les activités post-market.
+En parallèle, j’ai contribué à un projet d’analyse d’images échographiques microflow, mené en collaboration clinique, dont les résultats sont valorisés dans un article en cours de publication dans QIMS. Ce projet a renforcé mon intérêt pour l’évaluation des performances d’outils d’imagerie et pour la manière dont des résultats techniques peuvent être reliés à une question médicale concrète.
 
-Je serais heureux de mettre mes compétences en imagerie médicale, documentation et coordination technique au service de vos équipes.
+Je n’ai pas encore occupé un poste exclusivement dédié à l’évaluation clinique ou à la réglementation des dispositifs médicaux logiciels. En revanche, j’ai déjà contribué à des livrables réglementaires, à la documentation technique et à la validation d’un système d’imagerie en contexte clinique. Je serais heureux de mettre mes compétences en imagerie médicale, documentation, analyse et coordination technique au service de vos équipes.
 
-Cordialement,  
+Cordialement,
 
 Goulwen Le Bras

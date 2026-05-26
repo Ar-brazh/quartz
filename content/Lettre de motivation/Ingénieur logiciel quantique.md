@@ -6,18 +6,18 @@ goulwen.le-bras@outlook.fr
 
 Madame, Monsieur,
 
-Je vous adresse ma candidature pour le poste d’ingénieur de recherche logiciel au sein de l’équipe QAT d’Inria Paris. Mon profil est celui d’un ingénieur scientifique spécialisé en développement logiciel, avec une expérience en prototypage, structuration d’outils de recherche, interfaces, documentation et validation dans des environnements pluridisciplinaires.
+Je vous adresse ma candidature pour le poste d’ingénieur de recherche logiciel au sein de l’équipe QAT d’Inria Paris.
 
-Ce qui m’attire dans ce poste est la volonté de construire des bibliothèques robustes, modulaires et réutilisables pour soutenir des travaux de recherche dans un domaine en évolution rapide. Cette logique de développement logiciel au service de la recherche correspond fortement à mon parcours, même si mon domaine d’application principal jusqu’ici a été l’imagerie biomédicale plutôt que les technologies quantiques.
+Ingénieur biomédical diplômé de l’UTC, j’ai construit mon parcours autour du développement logiciel scientifique, du prototypage, de la structuration d’outils de recherche, de la documentation et de la validation. Ce qui m’intéresse particulièrement dans votre offre, c’est la construction de bibliothèques robustes, modulaires et réutilisables pour soutenir des travaux de recherche dans un domaine en évolution rapide.
 
-Au PARCC – Inserm, j’ai été responsable du développement de C-PETRUS, une plateforme d’imagerie multimodale combinant CT, TEP et échographie robotisée. J’y ai conçu une architecture logicielle, développé une interface de contrôle et de visualisation, structuré les traitements d’images, mis en place une stratégie de tests et rédigé une documentation technique et utilisateur. Cette expérience m’a appris à développer des outils scientifiques destinés à être utilisés, maintenus et compris par une équipe de recherche.
+Au PARCC-Inserm, j’ai travaillé sur le développement de C-PETRUS, une plateforme d’imagerie multimodale associant tomodensitométrie, TEP et échographie robotisée. Ce projet m’a donné une expérience complète d’un outil scientifique développé pour une équipe de recherche. J’ai notamment conçu une interface MATLAB centralisant le pilotage robotique, le traitement d’images et de données, le recalage multimodal, la visualisation de volumes reconstruits et l’évaluation d’erreurs. J’ai aussi structuré les tests, rédigé la documentation utilisateur et réglementaire, et contribué à la validation expérimentale du système.
 
-J’ai également travaillé au Zeiss Innovation Hub à Karlsruhe sur une interface Python/PyQt5 et ROS pour le contrôle robotique dans un contexte chirurgical, et au laboratoire BMBI sur un modèle de simulation de signaux physiologiques en Python. Ces expériences m’ont donné une pratique de Python, C++, Git, du développement collaboratif, de la documentation et de la validation.
+Cette expérience m’a appris à développer des outils destinés à être utilisés, maintenus et compris par d’autres personnes que leur développeur initial. Elle m’a aussi habitué à organiser le code, documenter les choix techniques, valider les comportements et travailler avec des profils scientifiques variés.
 
-Je n’ai pas encore d’expérience opérationnelle en calcul quantique, Qiskit, NetSQUID ou SquidASM, et je le précise clairement. En revanche, je suis motivé à construire les bases nécessaires en mécanique quantique appliquée et en simulation logicielle. L’environnement Inria, centré sur la qualité scientifique, la reproductibilité et le développement open source, représente pour moi un cadre idéal pour cette montée en compétence.
+J’ai également travaillé au Zeiss Innovation Hub à Karlsruhe sur une interface Python/PyQt5 et ROS pour le contrôle robotique dans un contexte chirurgical, ainsi qu’au laboratoire BMBI sur un modèle de simulation de signaux physiologiques en Python. Ces projets m’ont donné une pratique de Python, C++, Git, du développement collaboratif, de la documentation et de la validation.
 
-Je serais heureux d’échanger avec vous sur la manière dont mon expérience en développement logiciel scientifique pourrait contribuer aux projets de l’équipe QAT.
+Je n’ai pas encore d’expérience opérationnelle en calcul quantique, Qiskit, NetSQUID ou SquidASM, et je le précise clairement. En revanche, je suis motivé à construire les bases nécessaires en mécanique quantique appliquée et en simulation logicielle. Je serais heureux de pouvoir échanger avec vous sur la manière dont mon expérience en développement logiciel scientifique pourrait contribuer aux projets de l’équipe QAT.
 
-Cordialement,  
+Cordialement,
 
 Goulwen Le Bras

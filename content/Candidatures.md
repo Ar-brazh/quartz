@@ -1,34 +1,34 @@
-Dossier ARE : 
+- [ ] Dossier ARE :  📅 2026-06-02 
 
-- Tableau avec toutes les offres, date de soumission, intitulé du poste, coherence avec mon parcours, reponse ou non
-- Faire MOOC
-- Refaire capture d'écran pour inclure la date sur les mails 
+	- [ ] Tableau avec toutes les offres, date de soumission, intitulé du poste, coherence avec mon parcours, reponse ou non
+	- [ ] Faire MOOC
+	- [ ] Refaire capture d'écran pour inclure la date sur les mails 
 
-Refaire CV ? :
+- [ ] Refaire CV ? :
 
-- Checker [[ATS ]]
+	- [ ] Checker [[ATS ]]
 
-Formation complémentaire : 
+- [ ] Formation complémentaire : 
 
-- Trouver offres pour [[Entreprises ou labos intéressants]]
-- Voir ce qui manque à mon profil 
-- Récup contacts Recruteurs ou ingénieurs dans boite médicale intéressante
-- Demander Formation recherché
+	- [ ] Trouver offres pour [[Entreprises ou labos intéressants]]
+	- [ ] Voir ce qui manque à mon profil 
+	- [ ] Récup contacts Recruteurs ou ingénieurs dans boite médicale intéressante
+	- [ ] Demander Formation recherché
 
-Centraliser annonces offres : 
-- Plan pour scrapping et centralisation offres sur une meme interface 
+- [ ] Centraliser annonces offres : 
+	- [ ] Plan pour scrapping et centralisation offres sur une meme interface 
 
-Offres de thèse CNRS :
-- Adapter CV et recuperer releve de notes ?
-- Resigner sur conditions pour contrat doctoral dans ma situation 
+- [ ] Offres de thèse CNRS :
+	- [ ] Adapter CV et recuperer releve de notes ?
+	- [ ] Resigner sur conditions pour contrat doctoral dans ma situation 
 
-Candidatures à faire :
+- [ ] Candidatures à faire :
 
-- Favoris Chrome
-- Favoris CNRS
-- GE Healthcare
-- Dassault
+	- [ ] Favoris Chrome
+	- [ ] Favoris CNRS
+	- [ ] GE Healthcare
+	- [ ] Dassault
 
-Complément utile :
+- [ ] Complément utile :
 
-- LinkedIn Premium
+	- [ ] LinkedIn Premium

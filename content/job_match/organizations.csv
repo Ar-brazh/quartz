@@ -1,67 +1,67 @@
-enabled,name,type,location_hint,direct_url,extra_keywords
-yes,Stryker,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://careers.stryker.com/fr,
-yes,GE Healthcare,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Philips,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Japet,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Axorus,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,HypnoVR,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Zimmer Biomet,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Medes,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Ortho Clinical Diagnostics,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Alcon,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Laboratoire M2S,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,CorWave,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Volta Medical,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,EPFL,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Clinatec,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Carmat,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,NeuroRestore,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,UMATEM,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,LBMC,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Proteor,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,ISIR,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,General Electric,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Packaero,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,CEA,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,UPEC LISSI,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,University of Waterloo,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,ULB,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Robotex,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Microsoft Research,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Cisteo,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Keri Medical,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Medtronic,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Abbott,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Merck,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Biotronik,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Zeiss,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Align Technology,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Cardinal Health,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Hamilton Medical,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,MSD Merck Sharp & Dohme,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,TRUMPF,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Wandercraft,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Johnson & Johnson,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Boston Scientific,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Sysnav,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Affluent Medical,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Stago,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Siemens Healthineers,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Distalmotion,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Swiss Medical Network,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Intuitive Surgical,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Eyesoft,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Artedrone,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Project CETI,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Alatyr Space,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,ESA,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Wyss Institute,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,ARTORG,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Physique pour la médecine,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Institut du Cerveau,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Lunaphore,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,CNRS,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Inserm,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Institut Pasteur,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Institut Curie,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
-yes,Iconeus,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,
+enabled,name,type,location_hint,direct_url,extra_keywords,url_status,url_note,checked_on
+yes,Stryker,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://careers.stryker.com/jobs,,verified_official,Official Stryker careers job search.,2026-05-27
+yes,GE Healthcare,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://careers.gehealthcare.com/global/en/search-results,,verified_official,Official GE HealthCare search results.,2026-05-27
+yes,Philips,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.careers.philips.com/emea/en/search-results,,verified_official,Official Philips careers search results.,2026-05-27
+yes,Japet,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,,not_found,No reliable jobs/careers page found; monitor website and LinkedIn manually.,2026-05-27
+yes,Axorus,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.axorus.com/,,verified_official_landing,Official site contains Careers section with jobs@axorus.com rather than a job board.,2026-05-27
+yes,HypnoVR,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://fr.linkedin.com/company/hypno-vr/jobs,,linkedin_fallback,No official job board found; LinkedIn fallback.,2026-05-27
+yes,Zimmer Biomet,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://careers.zimmerbiomet.com/fr/fr/search-results,,verified_official,Official Zimmer Biomet careers search results.,2026-05-27
+yes,Medes,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.medes.fr/le-groupe/recrutement/,,verified_official,Official MEDES recruitment page.,2026-05-27
+yes,Ortho Clinical Diagnostics,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.quidelortho.com/global/en/careers/careers-home,,verified_official,Ortho Clinical Diagnostics is now QuidelOrtho; official careers home.,2026-05-27
+yes,Alcon,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://alcon.wd5.myworkdayjobs.com/careers_alcon,,verified_official_ats,Official Alcon Workday careers site.,2026-05-27
+yes,Laboratoire M2S,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.univ-rennes2.fr/structure/m2s,"""Mouvement Sport Santé"" Rennes",official_labo_page_no_jobs,Lab page found; no dedicated jobs page found.,2026-05-27
+yes,CorWave,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://apply.workable.com/corwave-1/,,verified_official_ats,Official Workable job board linked from CorWave careers.,2026-05-27
+yes,Volta Medical,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://jobs.eu.lever.co/volta-medical,,verified_official_ats,Official Lever job board for Volta Medical.,2026-05-27
+yes,EPFL,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.epfl.ch/about/working/working-at-epfl/job-openings/,,verified_official,Official EPFL job opportunities page.,2026-05-27
+yes,Clinatec,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://fonds-clinatec.fr/en/careers/,,verified_official,Official Clinatec/Fonds Clinatec careers page.,2026-05-27
+yes,Carmat,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.carmatsa.com/en/careers/,,verified_official,Official Carmat careers page.,2026-05-27
+yes,NeuroRestore,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.neurorestore.swiss/open-position,,verified_official,Official NeuroRestore open positions page.,2026-05-27
+yes,UMATEM,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,,not_found,No reliable jobs/careers page found.,2026-05-27
+yes,LBMC,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://lbmc.univ-gustave-eiffel.fr/nous-rejoindre,,verified_official_labo,Official LBMC join-us page.,2026-05-27
+yes,Proteor,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://fr.proteor.com/postes/,,verified_official,Official PROTEOR positions page.,2026-05-27
+yes,ISIR,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.isir.upmc.fr/join-us/opportunities/?lang=en,,verified_official_labo,Official ISIR opportunities page.,2026-05-27
+yes,General Electric,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.gecareers.com/global/en,,verified_official,Official GE careers site.,2026-05-27
+yes,Packaero,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.aeroemploiformation.com/Emploi-Pack-Aero,"""Pack Aero"" aéronautique recrutement",third_party_fallback,No official Packaero jobs page found; aerospace job-board fallback.,2026-05-27
+yes,CEA,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.emploi.cea.fr/homepage.aspx,,verified_official,Official CEA career portal.,2026-05-27
+yes,UPEC LISSI,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.u-pec.fr/fr/universite/recrutement,"LISSI ""Laboratoire Images Signaux et Systèmes Intelligents""",verified_official_university,UPEC official recruitment page; add LISSI keywords in searches.,2026-05-27
+yes,University of Waterloo,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://uwaterloo.wd3.myworkdayjobs.com/uw_careers,,verified_official_ats,Official Waterloo Workday careers portal.,2026-05-27
+yes,ULB,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.ulb.be/fr/travailler-et-collaborer/offres-d-emploi,,verified_official_university,Official ULB job offers page.,2026-05-27
+yes,Robotex,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,"""Robotex"" robotics jobs",not_found,Ambiguous organization name; no reliable careers page identified.,2026-05-27
+yes,Microsoft Research,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.microsoft.com/en-us/research/careers/open-positions/,,verified_official,Official Microsoft Research open positions page.,2026-05-27
+yes,Cisteo,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.cisteomedical.com/en/career/,,verified_official,Official Cisteo Medical career page.,2026-05-27
+yes,Keri Medical,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.kerimedical.com/en/careers/,,verified_official,Official KeriMedical careers page.,2026-05-27
+yes,Medtronic,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.medtronic.com/fr-fr/notre-entreprise/carrieres.html,,verified_official,Official Medtronic France careers page.,2026-05-27
+yes,Abbott,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.jobs.abbott/global/en,,verified_official,Official Abbott jobs portal.,2026-05-27
+yes,Merck,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://careers.merckgroup.com/global/en/search-results,,verified_official,Merck Group careers search results.,2026-05-27
+yes,Biotronik,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.biotronik.com/en-int/careers/careers-biotronik,,verified_official,Official BIOTRONIK careers page.,2026-05-27
+yes,Zeiss,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.zeiss.com/career/en/job-search.html,,verified_official,Official ZEISS job search.,2026-05-27
+yes,Align Technology,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://jobs.aligntech.com/search-job,,verified_official,Official Align Technology job search.,2026-05-27
+yes,Cardinal Health,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://jobs.cardinalhealth.com/,,verified_official,Official Cardinal Health jobs portal.,2026-05-27
+yes,Hamilton Medical,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://jobs.hamilton.ch/en/,,verified_official,Official Hamilton careers/jobs portal.,2026-05-27
+yes,MSD Merck Sharp & Dohme,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://jobs.msd.com/fr/fr/france,,verified_official,Official MSD France careers page.,2026-05-27
+yes,TRUMPF,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.trumpf.com/en_INT/careers/vacancies/,,verified_official,Official TRUMPF vacancies page.,2026-05-27
+yes,Wandercraft,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://wandercraft.welcomekit.co/,,verified_official_ats,Official WelcomeKit job board for Wandercraft.,2026-05-27
+yes,Johnson & Johnson,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.careers.jnj.com/en/locations/emea/france/,,verified_official,Official J&J careers in France page.,2026-05-27
+yes,Boston Scientific,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://jobs.bostonscientific.com/,,verified_official,Official Boston Scientific jobs portal.,2026-05-27
+yes,Sysnav,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://sysnav.welcomekit.co/,,verified_official_ats,Official WelcomeKit job board for Sysnav.,2026-05-27
+yes,Affluent Medical,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.emploi.leem.org/company/2087,,sector_jobboard_fallback,No official career page found; Leem employer page fallback.,2026-05-27
+yes,Stago,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.stago.fr/carrieres/offres-demploi/#page-search---index---lang---fr_FR/,,verified_official,Official Stago job offers page.,2026-05-27
+yes,Siemens Healthineers,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://careers.siemens-healthineers.com/,,verified_official,Official Siemens Healthineers careers portal.,2026-05-27
+yes,Distalmotion,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://apply.workable.com/distalmotion/,,verified_official_ats,Official Workable board for Distalmotion.,2026-05-27
+yes,Swiss Medical Network,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.swissmedical.net/en/career/job-offers,,verified_official,Official Swiss Medical Network job offers.,2026-05-27
+yes,Intuitive Surgical,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://careers.intuitive.com/en/jobs/,,verified_official,Official Intuitive jobs page.,2026-05-27
+yes,Eyesoft,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,,"""Eyesoft"" ophthalmology software jobs",not_found,Ambiguous organization name; no reliable careers page identified.,2026-05-27
+yes,Artedrone,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://fr.linkedin.com/company/artedrone/jobs,Artedrone micro-cathéter recrutement,linkedin_fallback,No official careers page found; LinkedIn company jobs fallback.,2026-05-27
+yes,Project CETI,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.projectceti.org/get-involved,"""Cetacean Translation Initiative"" Schmidt Marine",verified_official_non_jobboard,Official get-involved page; some roles also appear on Schmidt Marine.,2026-05-27
+yes,Alatyr Space,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.alatyr.space/careers,,verified_official,Official Alatyr careers page.,2026-05-27
+yes,ESA,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://jobs.esa.int/,,verified_official,Official European Space Agency recruiting site.,2026-05-27
+yes,Wyss Institute,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://wyss.harvard.edu/careers/,,verified_official,Official Wyss Institute careers page.,2026-05-27
+yes,ARTORG,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.artorg.unibe.ch/about_us/jobs/index_eng.html,,verified_official,Official ARTORG jobs page.,2026-05-27
+yes,Physique pour la médecine,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://www.physicsformedicine.espci.fr/,"""Physics for Medicine"" ESPCI CNRS Inserm",official_labo_page_no_jobs,Official institute page; no dedicated jobs page found.,2026-05-27
+yes,Institut du Cerveau,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://offres.institutducerveau-icm.org/,,verified_official,Official Institut du Cerveau offers portal.,2026-05-27
+yes,Lunaphore,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://lunaphore.com/careers/,,verified_official_redirect,Official page redirects candidates to Bio-Techne careers.,2026-05-27
+yes,CNRS,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://emploi.cnrs.fr/,,verified_official,Official CNRS employment portal.,2026-05-27
+yes,Inserm,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://pro.inserm.fr/rubriques/nous-rejoindre/offres-demploi,,verified_official,Official Inserm job offers page.,2026-05-27
+yes,Institut Pasteur,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://emploi.pasteur.fr/offre-de-emploi/liste-offres.aspx,,verified_official,Official Institut Pasteur job offers.,2026-05-27
+yes,Institut Curie,labo,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://curie.fr/offres-emploi,,verified_official,Official Institut Curie job offers.,2026-05-27
+yes,Iconeus,entreprise,France OR Paris OR Europe OR Suisse OR Switzerland OR remote,https://iconeus.com/about-us/careers/,,verified_official,Official Iconeus careers page.,2026-05-27

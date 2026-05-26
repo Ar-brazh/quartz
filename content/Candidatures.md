@@ -8,7 +8,7 @@
 
 	- [ ] Checker [[ATS ]]
 
-- [ ] Formation complémentaire : 
+- [ ] Formation complémentaire :  📅 2026-06-02 
 
 	- [ ] Trouver offres pour [[Entreprises ou labos intéressants]]
 	- [ ] Voir ce qui manque à mon profil 
@@ -22,13 +22,13 @@
 	- [ ] Adapter CV et recuperer releve de notes ?
 	- [ ] Resigner sur conditions pour contrat doctoral dans ma situation 
 
-- [ ] Candidatures à faire :
+- [ ] Candidatures à faire : 📅 2026-06-02 
 
 	- [ ] Favoris Chrome
 	- [ ] Favoris CNRS
 	- [ ] GE Healthcare
 	- [ ] Dassault
 
-- [ ] Complément utile :
+- [ ] Complément utile : 📅 2026-06-02 
 
 	- [ ] LinkedIn Premium

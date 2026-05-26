@@ -1,5 +1,4 @@
 ****
-endees 2024 délires géniaux
 Tu saurais me faire ça  
 Gus sur son porno  
 Le trou a Mr freeze  
@@ -37,5 +36,3 @@ Pisse tireuse dans un verra a ricard
 Le trou a sperme  
 Pour le lore  
 Pet qui a tué Eno
-
-*Created at: 22/05/2025 15:24*

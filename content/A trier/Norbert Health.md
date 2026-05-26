@@ -1,5 +1,4 @@
 ****
-orbert Health
 
 Dear Hiring Team,  
 
@@ -16,5 +15,3 @@ While I am still building experience in video-based vital sign extraction, I hav
 Thank you for your consideration. I would be happy to discuss my application further.  
 
 Best regards, Goulwen Le Bras
-
-*Created at: 07/04/2026 17:54*

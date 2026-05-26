@@ -1,4 +1,3 @@
-
 1. Finir un projet info perso (microcontrôleur ou non) -> Construire un robot from scratch
 2. Créer modèle IA 
 3. Faire un semi-marathon -> Faire un marathon ->Faire un half ou full ironman
@@ -22,4 +21,4 @@
 21. Apprendre à être concis/ enrichir vocabulaire français et anglais 
 22. Reprendre le sport en récréatif 
 23. Reprendre la prospection
-24. Voir des aurores boréales 
+24. Voir des aurores boréales

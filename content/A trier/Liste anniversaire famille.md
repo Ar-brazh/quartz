@@ -1,5 +1,4 @@
 ****
-iste anniversaire famille
 
 Janvier :  
 21 <u>Clea</u>  
@@ -44,5 +43,3 @@ Novembre :
 Decembre :  
 1 Richard  
 3 Erwan
-
-*Created at: 15/05/2026 12:25*

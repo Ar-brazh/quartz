@@ -1,5 +1,4 @@
 ****
-ypes activités payantes
 Escape Games  
 Salons  
 Concerts  
@@ -22,5 +21,3 @@ Parc aquatique
 Cinéma en plein air ou salles avec tarif étudiant  
 Jeux de société en cafés ludiques  
 Quizz Boxing
-
-*Created at: 15/10/2024 21:53*

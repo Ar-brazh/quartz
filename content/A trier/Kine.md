@@ -23,5 +23,3 @@ Squat
 Fente  
 Chaise  
 Freinage de marche
-
-*Created at: 29/01/2026 17:03*

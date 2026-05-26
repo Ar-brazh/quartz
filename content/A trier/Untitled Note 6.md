@@ -1,6 +1,3 @@
 ****
-ntitled Note
 "Jai vu des parties de ta mère que ta jamais vu"  
 Gus a jimmy le 14/03/26/ 19h00
-
-*Created at: 05/04/2026 23:18*

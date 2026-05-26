@@ -15,7 +15,6 @@ IMPORTANT: If no YouTube video context is found, remind the user to:
 Generate the note with this exact structure:
 
 ---
-title: "<video title>"
 description: "<first 200 chars of description>"
 channel: "<channel name>"
 url: "<video url>"

@@ -1,5 +1,2 @@
 ****
-ntitled Note
 Pitié Salpêtrière rovot
-
-*Created at: 05/05/2026 22:09*

@@ -1,5 +1,4 @@
 ****
-nstitut du cerveau
 
 I am writing to express my interest in a PhD or Research Engineer position at the Institut du Cerveau. I hold an engineering degree in biomedical engineering from UTC and have practical experience in multimodal imaging, robotics, and scientific software development for medical applications.  
 
@@ -26,5 +25,3 @@ What attracts me to the Institut du Cerveau is the combination of serious resear
 
 Thank you for your consideration.  
 Sincerely, Goulwen Le Bras
-
-*Created at: 14/04/2026 18:39*

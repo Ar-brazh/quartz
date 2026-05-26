@@ -1,3 +1,1 @@
-
-
 Bonjour, je suis ingénieur biomédical spécialisé en développement logiciel scientifique, imagerie médicale et validation expérimentale. J’ai travaillé sur une plateforme CT-TEP-échographie robotisée et je souhaite m’orienter vers l’innovation médicale liée au cerveau, notamment neuroimagerie, fUS ou neurotechnologies. Auriez-vous 15–20 minutes pour me conseiller sur les compétences ou formations à renforcer pour accéder à ce type de poste ?

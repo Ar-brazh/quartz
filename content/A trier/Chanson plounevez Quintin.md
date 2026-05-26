@@ -1,5 +1,4 @@
 ****
-hanson plounevez Quintin
 Foot  
 Femme  
 Cidre sistr  
@@ -16,5 +15,3 @@ Gouarec
 Rostronen  
 Gyimguamp  
 Kergrist moelou
-
-*Created at: 26/07/2023 15:54*

@@ -1,5 +1,4 @@
 ****
-endee 2023 délires géniaux
 Chistole  
 On est pas dans la merde  jeune  
 Tu t'infliges ce qu'aucun de tes ennemis même les plus féroces  
@@ -35,5 +34,3 @@ MMr Gras
 Je sais pas j'y étais pas  
 Il veut pas quitter le quartier  
 Lampe sur le téléphone
-
-*Created at: 23/08/2023 18:17*

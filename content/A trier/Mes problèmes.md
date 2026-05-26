@@ -1,5 +1,4 @@
 ****
-es problèmes
 Discipline  
 
 Peur de s'engager  
@@ -65,5 +64,3 @@ La météo affecte beaucoup trop mon mental à mon impression
 J'ai beaucoup de mal à réussir mon permis de conduire et ça m'affecte  
 
 Je réfléchis en boucle au même problématique et j'arrive souvent aux mêmes conclusions mais je continues a boucler dessus
-
-*Created at: 09/04/2025 16:12*

@@ -10,5 +10,3 @@ Mensurations :
 
 Cocktail pref :  
 Moscow Mule
-
-*Created at: 04/08/2024 21:51*

@@ -1,5 +1,3 @@
-
-
 Ta meilleure stratégie serait de te positionner ainsi :
 
 **“Ingénieur biomédical R&D spécialisé en logiciel scientifique, imagerie médicale multimodale et validation expérimentale, souhaitant évoluer vers la neuroimagerie, les ultrasons fonctionnels et les neurotechnologies.”**

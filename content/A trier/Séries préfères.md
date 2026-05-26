@@ -1,5 +1,4 @@
 ****
-éries préfères
 Peaky blinders  
 New girl  
 Lost  
@@ -26,5 +25,3 @@ Succession
 The wire  
 The sopranos  
 The gentlemen
-
-*Created at: 27/04/2026 22:56*

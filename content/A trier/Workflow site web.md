@@ -1,5 +1,4 @@
 ****
-orkflow site web
 L'idée c'est de pouvoir centraliser mes notes, idées et de pouvoir écrire plus, être plus actif.  
 En plus ça serait cool d'apprendre à coder en HTML par exemple  
 Donc j'ai besoin qu'il soit accessible :  
@@ -18,5 +17,3 @@ Quartz
 GitHub  
 Varcel  
 Acheter obsidian vault
-
-*Created at: 20/05/2026 22:13*

@@ -1,5 +1,4 @@
 ****
-hez moi idéal
 Machine à café avec très bon café  
 Thermomix  
 Mixeur grand pour faire des smoothies  
@@ -15,5 +14,3 @@ Plantes
 Salle pour sport à la maison  
 Aspirateur robot  
 Tondeuse robot
-
-*Created at: 16/08/2024 20:14*

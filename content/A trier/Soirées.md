@@ -1,5 +1,4 @@
 ****
-oirées
 
 **<u>Jeux de cartes </u>**  
 
@@ -78,5 +77,3 @@ Potato game (jeu discussion)
 N'oubliez pas les paroles  
 Headphone game  
 Nerf bandeau
-
-*Created at: 22/04/2026 12:46*

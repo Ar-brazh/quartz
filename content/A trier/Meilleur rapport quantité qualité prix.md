@@ -1,5 +1,4 @@
 ****
-eilleur rapport quantité qualité prix
 
 Sangria lidl  
 Soupe  
@@ -15,5 +14,3 @@ Cereales
 Carottes râpées  
 <u>Houmouss</u>  
 Semoule
-
-*Created at: 26/10/2024 00:28*

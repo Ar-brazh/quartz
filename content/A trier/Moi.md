@@ -25,5 +25,3 @@ Couteau dexter
 Cluebox (escaperoom dans une boîte)  
 Verre en cuivre Moscow mule  
 Plantes pour rebord fenêtre
-
-*Created at: 05/03/2026 15:19*

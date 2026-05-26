@@ -13,4 +13,4 @@
 13. [ ] Sport 🔁 every day 
 14. [ ] Ranger appart ⏳ 2026-06-01 
 15. [x] Savoir quand arrive papa et maman dépendance 🏁 ✅ 2026-05-26  : le 03 juin
-16. [ ] Appel Mme Eon 🔽 
+16. [ ] Appel Mme Eon 🔽

@@ -9,4 +9,4 @@ tchequie
 
 amerique centrale
 amerique du sud 
-afrique du sud 
+afrique du sud

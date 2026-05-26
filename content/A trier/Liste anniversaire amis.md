@@ -1,5 +1,4 @@
 ****
-iste anniversaire amis
 Janvier :  
 25 Gus  
 
@@ -54,5 +53,3 @@ Novembre :
 
 Décembre :  
 19 Baptiste
-
-*Created at: 21/05/2026 22:13*

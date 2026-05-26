@@ -1,5 +1,2 @@
 ****
-ntitled Note
 Cite des sciences
-
-*Created at: 04/05/2025 21:31*

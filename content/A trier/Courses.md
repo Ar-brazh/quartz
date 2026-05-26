@@ -1,5 +1,4 @@
 ****
-ourses
 
 - [ ] pâtes complètes
 - [ ] Yaourt nature
@@ -83,5 +82,3 @@ ourses
 - [ ] menthe
 - [x] pomme
 - [x] poire
-
-*Created at: 22/04/2025 19:38*

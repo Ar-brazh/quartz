@@ -1,4 +1,3 @@
-
 DMAIC  
 
 Ishikawa

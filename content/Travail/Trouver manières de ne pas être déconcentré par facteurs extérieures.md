@@ -11,4 +11,3 @@
 			  Est ce que j'arriverais à avoir des infos claire sur les plaques avec méthodes actuelles ? 
 			  -> Solution pour répondre à ce problème : Tester meilleures scans possibles US, TEP CT avec meilleure config du fantôme actuelle et voir ce qu'on obtient 
 			  Pour ça besoin [[Arbre de développement éléments C-PETRUS]]
-			  

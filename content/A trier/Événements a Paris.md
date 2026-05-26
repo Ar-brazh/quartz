@@ -1,5 +1,4 @@
 ****
-vénements a Paris
 Salon du Livre et de la Presse Jeunesse (novembre-décembre 2024)  
 Festival du Cinéma Télérama (janvier 2025)  
 Fashion Week (janvier et juin 2025)  
@@ -16,5 +15,3 @@ Tour de France (juillet 2025)
 Cinéma en plein air à La Villette (juillet-août 2025)  
 Paris Plages (juillet-août 2025)  
 Rock en Seine (août 2025)
-
-*Created at: 12/06/2024 00:45*

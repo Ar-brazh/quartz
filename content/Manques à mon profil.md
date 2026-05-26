@@ -1,4 +1,3 @@
-
 Ton profil est déjà bien positionné pour des postes **R&D biomédicale, imagerie médicale, logiciel scientifique, validation, application engineering et dispositifs médicaux innovants**. Pour viser plus spécifiquement les innovations liées au cerveau, il te manque surtout quatre briques.
 
 ### Priorité 1 — Neuroimagerie avancée

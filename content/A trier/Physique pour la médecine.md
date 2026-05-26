@@ -1,5 +1,4 @@
 ****
-hysique pour la médecine
 
 Dear Sir or Madam,  
 
@@ -15,5 +14,3 @@ Please find attached my CV and a letter of recommendation from Dr. Guillaume Gou
 Sincerely,  
 **Goulwen Le Bras**  
 Goulwen.le-bras@outlook.fr · +33 07 68 25 07 30
-
-*Created at: 17/04/2026 14:00*

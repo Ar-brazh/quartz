@@ -1,5 +1,4 @@
 ****
-E Healthcare
 
 Je vous adresse ma candidature pour le poste d'ingénieur traitement d'image au sein du département Qualité image Mammographie de GE HealthCare. Titulaire d'un diplôme d'ingénieur en génie biomédical de l'UTC, j'ai acquis une expérience concrète en traitement d'images médicales, développement d'algorithmes et intégration dans des contextes de recherche clinique.  
 
@@ -16,5 +15,3 @@ Je développe également en parallèle mes compétences en machine et deep learn
 Je serais ravi d'échanger sur la manière dont mon profil pourrait contribuer à votre équipe.  
 
 Cordialement, Goulwen Le Bras
-
-*Created at: 17/04/2026 12:23*

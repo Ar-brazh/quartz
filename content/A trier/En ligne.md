@@ -1,5 +1,4 @@
 ****
-n ligne
 
 **<u>Minimum 2 </u>**  
 Framed  
@@ -35,5 +34,3 @@ Make it meme
 Gartic phone  
 Among us  
 Loup garou
-
-*Created at: 22/04/2026 12:43*

@@ -1,5 +1,4 @@
 ****
-ui passer voir
 
 Nantes :  
 
@@ -33,5 +32,3 @@ Rennes:
 Redon:  
 
 - La mif
-
-*Created at: 05/04/2026 23:16*

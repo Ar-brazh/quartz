@@ -1,5 +1,4 @@
 ****
-garnison
 Ur plac’h yaouank diwar ar maez  
 E garnison Lannuon  
 Ur plac'h yaouank diwar ar maez  
@@ -52,5 +51,3 @@ Ne oar ket piv ez eo e dad
 
 E dad ne oar ket piv ez eo  
 M'hen dar' ar miliner e ve"
-
-*Created at: 19/01/2026 22:30*

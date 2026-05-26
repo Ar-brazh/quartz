@@ -1,5 +1,2 @@
 ****
-ntitled Note
 Les pépites de cyril
-
-*Created at: 27/03/2026 14:11*

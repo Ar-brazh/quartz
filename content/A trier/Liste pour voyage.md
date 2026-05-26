@@ -1,5 +1,4 @@
 ****
-iste pour voyage
 
 - [ ] Porte monnaie
 - [x] Serviettes
@@ -81,5 +80,3 @@ iste pour voyage
 - [x] chaussures de <u>sport</u>
 - [x] chuassure rando
 - [x] Truc en bois qui tiens téléphone
-
-*Created at: 18/04/2026 17:20*

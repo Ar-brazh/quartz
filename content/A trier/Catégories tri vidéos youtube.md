@@ -1,5 +1,3 @@
-
-
 - Savoir/educatif/instructif/technique
 
 - (Sport)
@@ -14,4 +12,4 @@
 
 - Construction/renovation/survie
 
-- 
+-

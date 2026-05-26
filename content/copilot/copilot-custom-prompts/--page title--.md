@@ -16,7 +16,6 @@ IMPORTANT: If no web page context is found, remind the user to:
 Generate the note with this exact structure:
 
 ---
-title: "<page title>"
 source: "<page url>"
 description: "<brief description>"
 tags:

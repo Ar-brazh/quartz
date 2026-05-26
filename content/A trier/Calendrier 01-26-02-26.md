@@ -1,5 +1,4 @@
 ****
-alendrier 01/26-02/26
 Janvier :  
 31/12 - 07/01 : Nouvel an Redon + aller retour déménagement AR  
 08/01 - 11/01 : Paris aller retour AR  
@@ -19,5 +18,3 @@ Février :
 16/02 - 19/02 : Redon aides et orga  
 20/02- 23/02 : Paris Potes prépa, INSERM, Simon, vacances  
 **23/02 - 26/02 : Redon France travail + Orga**
-
-*Created at: 05/04/2026 23:59*

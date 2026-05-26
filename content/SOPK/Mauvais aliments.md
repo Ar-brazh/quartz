@@ -1,4 +1,3 @@
-
 - **Sucres raffinés et produits transformés**
     
     - Provoquent des pics de glycémie et aggravent la résistance à l'insuline.

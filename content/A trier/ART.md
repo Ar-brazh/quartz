@@ -21,5 +21,3 @@ Cordialement,
 Goulwen Le Bras  
 
 +33 07 68 25 07 30 | Goulwen.le-bras@outlook.fr
-
-*Created at: 13/05/2026 17:42*

@@ -1,5 +1,4 @@
 ****
-otation Sitcom
 Brooklyn 99  
 Friends  
 HIMYM  
@@ -15,5 +14,3 @@ Arrested Development
 Bojack  
 Inside job  
 Scrubs
-
-*Created at: 05/07/2024 23:39*

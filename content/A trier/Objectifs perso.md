@@ -1,4 +1,3 @@
-
 Réussir recalage au boulot 
 
 Lister matériel nécessaires a mon confort et possible investissements plaisir et conditions
@@ -14,5 +13,3 @@ Objectif 25-26 ans
 Ou je serais en septembre ? 
 
 [[Bucket list à niveaux]]
-
-

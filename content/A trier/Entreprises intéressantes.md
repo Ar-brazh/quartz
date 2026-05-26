@@ -1,5 +1,4 @@
 ****
-ntreprises intéressantes
 Stryker  
 Gehealthcare  
 Phillips  
@@ -63,5 +62,3 @@ Physique pour la médecine
 Institut du Cerveau  
 Lunaphore  
 Distalmotion
-
-*Created at: 09/04/2026 23:06*

@@ -1,5 +1,4 @@
 ****
-aleur-Limites-Besoins
 Une valeur : ce qui est important pour nous et ce vers quoi on veut tendre.  
 
 Honnêteté  
@@ -39,5 +38,3 @@ L'écoute : lorsqu'on m'a entendu mais pas écouté, pas pris en compte les chos
 Le respect  
 Confiance en moi  
 Calme-Non agressivité
-
-*Created at: 09/01/2026 20:59*

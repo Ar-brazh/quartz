@@ -1,5 +1,4 @@
 ****
-un facts de gougou
 Les Français savent pas dire squirell  
 Les Anglais savent pas dire écureuil  
 
@@ -16,5 +15,3 @@ Quelle est la page Wikipédia la plus vue
 Pirates des Caraïbes à été basé sur l'attraction de disney  
 
 Le pamplemousse contre médicament bipolaire
-
-*Created at: 29/12/2023 21:30*

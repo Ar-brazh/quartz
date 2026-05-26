@@ -1,5 +1,2 @@
 ****
-ntitled Note
 Apprendre à mieux calculer mentalement
-
-*Created at: 21/05/2026 22:13*

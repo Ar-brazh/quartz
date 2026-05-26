@@ -1,5 +1,4 @@
 ****
-rogramme Week-end 2025
 Janvier :  
 04/01 - 05/01 : Paris AR  
 11/01 - 12/01 : Bordeaux Annaël et Momo AR  
@@ -74,5 +73,3 @@ Décembre :
 20/12 - 21/12 : Charlotte à Paris AR  
 22/12 - 26/12 : Noël Bordeaux AR  
 27/12 - 31/12 : Noël Redon AR
-
-*Created at: 29/01/2026 15:49*

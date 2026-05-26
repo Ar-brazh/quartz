@@ -1,5 +1,4 @@
 ****
-ecettes healthy
 
 **Carrés chocolat-noisette sans cuisson**  
 ### Ingrédients :
@@ -188,5 +187,3 @@ sauce piment
 piment vert  
 menthe  
 feta
-
-*Created at: 05/01/2026 01:25*

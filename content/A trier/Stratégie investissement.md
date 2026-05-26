@@ -1,5 +1,3 @@
-
-
 PEA-ETF :
 
 MSCI world emerging countries 

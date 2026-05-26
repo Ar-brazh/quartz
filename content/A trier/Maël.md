@@ -1,5 +1,3 @@
 ****
 aël
 Booster pokemon
-
-*Created at: 04/01/2025 09:11*

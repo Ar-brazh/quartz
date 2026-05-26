@@ -1,5 +1,4 @@
 ****
-itations copains
 Gus qui marque mon nom en mayonnaise  
 "Il est mort puceau" Jimmy en parlant de Christian  
 "T'as vu son trou a Mr freeze" Moi ( je me permets)  
@@ -11,5 +10,3 @@ Gus qui marque mon nom en mayonnaise
 "Revenez j'ai faim" Jimmy après avoir entendu des meufs crié depuis leur voiture  
 "Jai vu des parties de ta mère que ta jamais vu"  
 Gus a jimmy le 14/03/26/ 19h00
-
-*Created at: 09/04/2026 22:48*

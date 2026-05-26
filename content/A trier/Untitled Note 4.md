@@ -1,5 +1,2 @@
 ****
-ntitled Note
 Catégories : lister les trucs chiant que j'ai eu pour être reconnaissant de plus les avoir et pour garder traces (psoriasis, maladie, ect...)
-
-*Created at: 03/05/2026 22:05*

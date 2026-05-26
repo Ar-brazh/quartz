@@ -2,5 +2,3 @@
 éa
 Siégé en mousse petit  
 Noix et fruits secs
-
-*Created at: 14/04/2026 00:12*

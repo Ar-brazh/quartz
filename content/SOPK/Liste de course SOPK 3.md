@@ -34,4 +34,3 @@
  - [ ] pates completes
  - [ ] kimchi
  - [ ] kombucha
- 

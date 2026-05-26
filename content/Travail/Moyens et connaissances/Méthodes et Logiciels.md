@@ -1,5 +1,3 @@
-
-
 1. M & L maitrisés 
 	1. Méthodes 
 	2. Logiciels

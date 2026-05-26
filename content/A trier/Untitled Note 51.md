@@ -1,5 +1,2 @@
 ****
-ntitled Note
 Seul pays qui n'a pas d'hymne : chypre
-
-*Created at: 29/11/2025 10:55*

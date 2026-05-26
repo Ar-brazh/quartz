@@ -1,4 +1,3 @@
-
 Dates Situation sensation dans le corps émotions 
 
 23/10/25 / Discussion sur le faite que elle va potentiellement prendre un autre appartement 
@@ -17,4 +16,3 @@ Dates Situation sensation dans le corps émotions
 14/11/25/  Scénarios sexuelles incontrôlés  avec d'autres femmes / Poids dans le corps, difficile de quitter le lit/ Culpabilité, dégout, plaisir, honte
 
 14/11/25/ Instabilité sur mes sentiments et mon désir d'être en couple avec Elise / Brouillard dans la tête, poids dans la poitrine, sueurs froides / Peur, Confusion, Enervement, Désespoir
-

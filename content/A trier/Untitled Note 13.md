@@ -1,5 +1,2 @@
 ****
-ntitled Note
 5 valles Victor
-
-*Created at: 08/05/2026 03:11*

@@ -1,5 +1,4 @@
 ****
-V français
 corriger angliscisme modifier la syntaxe pour plus de coherence.  
 
 Inlure equipe 2 bertrand tavitiandans intuilé poste au PARCC  
@@ -49,5 +48,3 @@ Espagnol : niveau A2
 Breton : bases solides  
 **Intérêts**  
 Sports collectifs : Rugby, Football, Handball
-
-*Created at: 13/05/2026 15:07*

@@ -1,5 +1,4 @@
 ****
-élires géniaux Vendée 2025
 Baston au bar  
 Première et dernière fois, après j'appelle les gars de saint jean  
 En amont  
@@ -34,5 +33,3 @@ Gou ; "on a des rillettes" gus : " on a pas de pain gou: " on a des cuillères "
 Jeu d'alcool : Centurion  
 Jeu de la Vendée : ttmc  
 Chanson de la Vendée : Appelle ta copine/ciel
-
-*Created at: 16/07/2025 13:57*

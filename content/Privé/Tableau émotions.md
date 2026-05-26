@@ -1,4 +1,3 @@
-
 Dates Situation sensation dans le corps émotions 
 
 23/10/25 / Discussion sur le faite que elle va potentiellement prendre un autre appartement 
@@ -26,5 +25,4 @@ Dates Situation sensation dans le corps émotions
 
 22/11/25/ Etat surprenant apres discussio rupture avec Elise, senation de liberte, de pods qui s'en va 
 
-24/11/25/ Je remets en question ma position sur mon futur avec Elise, j'ai l'impression de passer a cote de qqchose de solide et de beau, culpabilité que le porno pese dans la balance de la decision, peur de regretter mon choix, peur de ne pas trouver une connexion aussi forte, peur de ne pas avoir de femme ni d'enfants/ faiblesse, peu de perspective, tout est plus noir 
-
+24/11/25/ Je remets en question ma position sur mon futur avec Elise, j'ai l'impression de passer a cote de qqchose de solide et de beau, culpabilité que le porno pese dans la balance de la decision, peur de regretter mon choix, peur de ne pas trouver une connexion aussi forte, peur de ne pas avoir de femme ni d'enfants/ faiblesse, peu de perspective, tout est plus noir

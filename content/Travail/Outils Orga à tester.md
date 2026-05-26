@@ -1,4 +1,3 @@
-
 Todoist ? 
 
 tick tick
@@ -33,4 +32,4 @@ perplexity
 
 exercism.com 
 
-SOP 
+SOP

@@ -1,5 +1,4 @@
 ****
-iste de ce que je sais faire
 
 - Programmation Matlab, Python
 - Méthodes de traitement d'image
@@ -69,5 +68,3 @@ ACTTIVITES HORS DU CADRE PRO
 
 Formation à l'IA via Kaggle.com  
 Application des connaissances acquises dans le dévellopement d'un modèle prédictif de score de Rolland Garros basés sur 30 ans de données.
-
-*Created at: 13/05/2026 13:47*

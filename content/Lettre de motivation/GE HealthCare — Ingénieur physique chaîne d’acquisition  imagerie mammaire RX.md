@@ -14,7 +14,9 @@ Mon expérience la plus directement pertinente est celle menée au PARCC – Ins
 
 J’ai également développé une application Python/PyQt5 d’analyse d’images échographiques microflow, dont les résultats font l’objet d’une publication dans QIMS, ainsi qu’un modèle de simulation de signaux HD-sEMG en Python lors de mon stage au laboratoire BMBI. Ces expériences m’ont donné une pratique solide de la modélisation, du traitement de données et de la validation d’algorithmes dans des contextes biomédicaux exigeants.
 
-Je n’ai pas encore d’expérience spécifique en mammographie ou en imagerie par rayons X, et je le précise clairement. En revanche, ma formation en imagerie médicale, mon expérience pratique sur des systèmes multimodaux, ma maîtrise de Python/MATLAB et mon habitude de travailler avec des cliniciens me donnent confiance dans ma capacité à monter rapidement en compétence sur les problématiques propres à l’imagerie du sein.
+Mon expérience sur C-PETRUS m’a également permis de travailler sur une plateforme intégrant l’imagerie CT, dont les principes physiques et les problématiques de qualité image présentent des liens directs avec l’imagerie par rayons X. Cette proximité, associée à ma formation en imagerie médicale, à ma maîtrise de Python/MATLAB et à mon expérience de validation expérimentale sur fantômes, me donne une base solide pour contribuer aux problématiques propres à l’imagerie du sein.
+
+Je suis par ailleurs très intéressé par l’innovation médicale surtout lorsqu’elle répond à un enjeu clinique majeur. Le cancer du sein reste l’un des cancers les plus répandus et représente encore un défi important en matière de dépistage, de diagnostic précoce et d’accompagnement thérapeutique. Contribuer au développement d’outils permettant d’améliorer la qualité des images et de faciliter le travail du radiologue donnerait donc un sens très concret à mon engagement technique.
 
 Je serais ravi d’échanger avec vous sur la manière dont mon profil pourrait contribuer aux développements de votre équipe qualité image.
 

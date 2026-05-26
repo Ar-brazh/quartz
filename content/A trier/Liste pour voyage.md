@@ -1,0 +1,85 @@
+****
+iste pour voyage
+
+- [ ] Porte monnaie
+- [x] Serviettes
+- [x] Savon
+- [x] parfum
+- [x] enceinte
+- [x] Sandwich
+- [x] Batterie portable
+- [x] Chqrgeur batterie
+- [ ] lunettes
+- [ ] lentille
+- [ ] casque
+- [x] Ordi chargeur siuris
+- [x] Livre
+- [x] mots croise
+- [x] carnet
+- [x] crayons
+- [ ] Dragets à la menthe
+- [ ] Brosse à dents
+- [ ] Dentifirce
+- [ ] Mouchoirs
+- [ ] Ecouteurs
+- [x] produit pour lentilles
+- [x] bouteille d'eau
+- [x] Maillot de bain
+- [x] Creme solaire
+- [x] Elsatique
+- [x] Sac de couchage
+- [x] Chargeur
+- [x] ecouteurs filaires
+- [x] Poche de glace + pompe
+- [x] Arnigel
+- [x] Écouteurs
+- [x] Creme hydratante
+- [x] Gel hydroalcoolique
+- [x] Love letters
+- [x] declic
+- [x] Ttmc
+- [x] Gourdr
+- [x] Argent liquide
+- [x] Manette switch
+- [x] Switch
+- [x] Short de sport
+- [x] Sandwichs
+- [x] Chaussettzs
+- [x] Bannane
+- [x] Bieres
+- [x] Vêtements
+- [x] Cacahuetes
+- [x] Cafe
+- [x] Cadeaux
+- [x] Ds
+- [x] Préservatifs
+- [x] Pansements
+- [x] Bandage
+- [x] Sac de couchage
+- [x] Bequille
+- [x] Glace
+- [x] antidouleur
+- [x] Ecocup
+- [x] matelas
+- [x] cigarettes
+- [x] briquette
+- [x] drap
+- [x] Mouchoirs
+- [x] clé maison
+- [x] jeux de société
+- [x] Frigo trucs qui vont périmé
+- [x] Oreiller voyage
+- [x] Ordi Travai
+- [x] diffuseur eau
+- [x] Rasoir
+- [x] Mousse à raser
+- [x] sacoche
+- [x] à ma'ger
+- [x] glacière
+- [x] à boire
+- [x] affaires de sport
+- [x] chaussures de <u>sport</u>
+- [x] chuassure rando
+- [x] Truc en bois qui tiens téléphone
+
+*Created at: 18/04/2026 17:20*

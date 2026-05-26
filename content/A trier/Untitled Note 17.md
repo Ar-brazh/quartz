@@ -1,0 +1,5 @@
+****
+ntitled Note
+Infinite craft
+
+*Created at: 13/05/2026 00:02*

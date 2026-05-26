@@ -1,0 +1,87 @@
+****
+ourses
+
+- [ ] pâtes complètes
+- [ ] Yaourt nature
+- [x] riz
+- [x] purée
+- [ ] blé
+- [ ] Haricot rouge
+- [ ] Wraps
+- [ ] Jalapenos
+- [ ] poulet/dinde
+- [x] sriracha
+- [ ] oeufs
+- [ ] lait
+- [x] céréales
+- [ ] banane
+- [x] pois chiche
+- [ ] thon
+- [ ] fêta
+- [ ] ciboulettz
+- [x] fruit de saison
+- [x] légume de saison
+- [x] compote
+- [ ] carotte
+- [x] lentille
+- [ ] soupe
+- [ ] concombre
+- [ ] oignon
+- [ ] poivron
+- [ ] arrabiata
+- [x] pesto
+- [x] viande ou poisson pas chère
+- [x] poivre
+- [ ] lasagnes
+- [x] curry
+- [x] autres epices
+- [x] huile d'olive
+- [x] crème fraîche
+- [x] éponges
+- [x] vinaigre blanc
+- [x] harissa
+- [x] café
+- [ ] semoule
+- [x] barre de céréales
+- [ ] patates
+- [x] liquide vaisselle
+- [x] savon
+- [x] papier toilettes
+- [x] dentifrice
+- [x] savon pour les mains
+- [x] shampoing pas de clavitie
+- [x] papier alu
+- [x] tisane
+- [x] the
+- [ ] haricot rouges
+- [x] sauce au poivre
+- [x] sauce chasseur
+- [x] sauce en poudre autre
+- [x] beurre
+- [x] moutarde
+- [x] galette
+- [x] jambon
+- [x] gruyere/parmesan
+- [x] savon de Marseille
+- [ ] jalapenos
+- [x] salopin
+- [x] mouchoir
+- [ ] trucs à emporter pour manger snack
+- [x] lentille corail
+- [x] Coulis ou concassé de tomates
+- [x] ail
+- [x] farine
+- [x] Levure chimique
+- [x] pomme de terre
+- [x] houmouss
+- [x] tsatsiki
+- [x] câpres
+- [x] fromage
+- [ ] sauce soja
+- [x] gel hydroalcoolique
+- [x] lait de coco
+- [ ] menthe
+- [x] pomme
+- [x] poire
+
+*Created at: 22/04/2025 19:38*

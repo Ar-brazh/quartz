@@ -1,0 +1,5 @@
+
+
+Ingénieur R&D imagerie médicale, ingénieur logiciel scientifique, ingénieur traitement d’images médicales, ingénieur neuroimagerie, research engineer neurotechnology, ingénieur application imagerie, ingénieur validation dispositifs médicaux, ingénieur système dispositifs médicaux, ingénieur logiciel médical, ingénieur R&D ultrasons / fUS, ingénieur robotique médicale, ingénieur support avancé imagerie, clinical application engineer imagerie, ingénieur innovation medtech.
+
+Les postes les plus naturels pour toi à court terme sont **ingénieur R&D imagerie**, **ingénieur logiciel scientifique**, **ingénieur application imagerie**, **ingénieur validation/qualité image** et **ingénieur système medtech**. Les postes plus ambitieux mais atteignables avec complément de formation sont **ingénieur neuroimagerie**, **software engineer SaMD**, **research engineer neurotechnology** et **ingénieur IA médicale**.

@@ -3,4 +3,4 @@
 
 - Trouver moyen de regrouper notes similaires 
 
-- 
+- Centralisation offres d'emplois, de sites d'offres, sites d'entreprises, labo ect..  

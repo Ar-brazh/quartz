@@ -1,5 +1,4 @@
 ****
-RT
 Madame Nguyen,  
 
 Je vous adresse ma candidature pour le poste d'Ingénieur de Recherche en conception de dispositifs biomédicauxau sein de l'ART Ultrasons Biomédicaux de l'Institut Physique pour la Médecine. J'ai eu l'opportunité d'assister à une présentation des travaux de votre équipe par le Dr Mickael Tanter sur l'imagerie cérébrale fonctionnelle par ultrasons, lors de la conférence Interfaces Cœur-Cerveau du 4 novembre 2024 au PARCC. La résolution spatiale et temporelle atteinte avec la fUS, ainsi que la façon dont votre équipe articule physique des ondes fondamentale et applications cliniques en neurosciences, médecine cardiovasculaire et oncologie, m'ont particulièrement marqué et ont motivé cette candidature.  

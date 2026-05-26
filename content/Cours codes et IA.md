@@ -1,1 +1,1 @@
-Autour de la compreh codes que j'utilises déja 
+Autour de la compréhension de codes que j'utilises déjà ou de projets que je souhaite commencer 

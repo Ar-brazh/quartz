@@ -11,5 +11,6 @@
 11. [ ] Rappels actualisation France travail 🔼 
 12. [ ] Trains 🔁 every day 
 13. [ ] Sport 🔁 every day 
-14. [ ] Savoir quand arrive papa et maman dépendance 🏁 
-15. [ ] Appel Mme Eon 🔽 
+14. [ ] Ranger appart ⏳ 2026-06-01 
+15. [x] Savoir quand arrive papa et maman dépendance 🏁 ✅ 2026-05-26  : le 03 juin
+16. [ ] Appel Mme Eon 🔽 

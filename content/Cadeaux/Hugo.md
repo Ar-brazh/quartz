@@ -1,3 +1,3 @@
 ****
-ugo
+
 Maillot de Nantes

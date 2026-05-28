@@ -14,21 +14,21 @@
 - [ ] Ordi chargeur siuris
 - [x] Livre
 - [x] mots croise
-- [x] carnet
-- [x] crayons
+- [ ] carnet
+- [ ] crayons
 - [ ] Dragets à la menthe
 - [ ] Brosse à dents
 - [ ] Dentifirce
 - [ ] Mouchoirs
 - [ ] Ecouteurs
-- [x] produit pour lentilles
+- [ ] produit pour lentilles
 - [x] bouteille d'eau
 - [x] Maillot de bain
-- [x] Creme solaire
+- [ ] Creme solaire
 - [x] Elsatique
 - [x] Sac de couchage
-- [x] Chargeur
-- [x] ecouteurs filaires
+- [ ] Chargeur
+- [ ] ecouteurs filaires
 - [x] Poche de glace + pompe
 - [x] Arnigel
 - [x] Écouteurs

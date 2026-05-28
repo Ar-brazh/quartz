@@ -29,11 +29,10 @@
 - [x] Sac de couchage
 - [ ] Chargeur
 - [ ] ecouteurs filaires
-- [x] Poche de glace + pompe
-- [x] Arnigel
-- [x] Écouteurs
+- [ ] Poche de glace
+- [ ] Arnigel
 - [x] Creme hydratante
-- [x] Gel hydroalcoolique
+- [ ] Gel hydroalcoolique
 - [x] Love letters
 - [x] declic
 - [x] Ttmc
@@ -42,27 +41,25 @@
 - [x] Manette switch
 - [x] Switch
 - [x] Short de sport
-- [x] Sandwichs
 - [x] Chaussettzs
 - [x] Bannane
 - [x] Bieres
-- [x] Vêtements
+- [ ] Vêtements
 - [x] Cacahuetes
-- [x] Cafe
+- [ ] Cafe
 - [x] Cadeaux
 - [x] Ds
 - [x] Préservatifs
 - [x] Pansements
 - [x] Bandage
-- [x] Sac de couchage
 - [x] Bequille
 - [x] Glace
-- [x] antidouleur
+- [ ] antidouleur
 - [x] Ecocup
 - [x] matelas
-- [x] cigarettes
+- [ ] cigarettes
 - [x] briquette
-- [x] drap
+- [ ] drap
 - [x] Mouchoirs
 - [x] clé maison
 - [x] jeux de société

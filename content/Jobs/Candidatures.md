@@ -13,7 +13,7 @@
 
 	- [ ] Trouver métier utiles et sympa dans domaine connexe au mien ⏫ 
 	
-	- [ ] Entreprises et labos liées à ces postes -> Remplir liste entreprise et labo intéressant⏫ 
+	- [ ] Entreprises et labos liées à ces postes -> Remplir liste entreprise et labo intéressants⏫ 
 	
 	- [ ] Trouver offres pour [[Entreprises ou labos intéressants]]
 

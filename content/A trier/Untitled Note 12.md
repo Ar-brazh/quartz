@@ -1,2 +1,0 @@
-****
-Serious games Alzheimer

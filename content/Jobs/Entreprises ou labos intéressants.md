@@ -2,7 +2,7 @@
 2. Gehealthcare
 3. Phillips
 4. Japet
-5. Axorus
+5. Axorus (Candidature spontanée)
 6. HypnoOr
 7. Biomet
 8. Medes
@@ -67,3 +67,4 @@
 67. Pasteur
 68. Institut curie 
 69. Iconeus
+70. Inria

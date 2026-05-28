@@ -1,2 +1,0 @@
-****
-https://latabledessavoirs.fr

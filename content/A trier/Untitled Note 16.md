@@ -1,2 +1,0 @@
-****
-Voyage en groupe

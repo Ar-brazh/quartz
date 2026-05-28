@@ -1,2 +1,0 @@
-****
-Huit et demi

@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: Tableau
+  - type: cards
+    name: Vue
+  - type: list
+    name: Vue 2
+    markers: number

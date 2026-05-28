@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\GOULWEN\Documents\Second_brain\quartz\content\job_watch\.venv
+set VIRTUAL_ENV=C:\Users\GOULWEN\Documents\Second_brain\quartz\job_watch\.venv
 
 if not defined PROMPT set PROMPT=$P$G
 

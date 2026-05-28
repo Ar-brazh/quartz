@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\GOULWEN\Documents\Second_brain\quartz\content\job_watch\.venv"
+VIRTUAL_ENV="C:\Users\GOULWEN\Documents\Second_brain\quartz\job_watch\.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

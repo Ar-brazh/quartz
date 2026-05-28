@@ -16,11 +16,10 @@
 	- [ ] Entreprises et labos liées à ces postes -> Remplir liste entreprise et labo intéressants⏫ 
 	
 	- [ ] Trouver offres pour [[Entreprises ou labos intéressants]]
+	- [ ] Voir ce qui manque à mon profil 
 
 - [ ] Formation complémentaire :  📅 2026-06-02 
 
-	- [ ] 
-	- [ ] Voir ce qui manque à mon profil 
 	- [ ] Récup contacts Recruteurs ou ingénieurs dans boite médicale intéressante
 	- [ ] Demander Formation recherché
 

@@ -9,23 +9,21 @@
 
 	- [ ] Checker [[ATS ]]
 
-- [ ]  Métier idéal : ⏫ 
+- [ ]  Métier idéal et formation complémentaire : ⏫  📅 2026-06-02 
 
 	- [ ] Trouver métier utiles et sympa dans domaine connexe au mien ⏫ 
 	
 	- [ ] Entreprises et labos liées à ces postes -> Remplir liste entreprise et labo intéressants⏫ 
 	
 	- [ ] Trouver offres pour [[Entreprises ou labos intéressants]]
+	
 	- [ ] Voir ce qui manque à mon profil 
 
-- [ ] Formation complémentaire :  📅 2026-06-02 
-
 	- [ ] Récup contacts Recruteurs ou ingénieurs dans boite médicale intéressante
+	
 	- [ ] Demander Formation recherché
 
-- [ ] Centraliser annonces offres : 
-	
-	- [ ] Plan pour scrapping et centralisation offres sur une meme interface 
+- [ ] Centraliser annonces offres : Scrapping et
 
 - [ ] Offres de thèse CNRS :
 	- [ ] Adapter CV et recuperer releve de notes ?

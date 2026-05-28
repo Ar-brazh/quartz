@@ -12,12 +12,14 @@
 - [ ]  Métier idéal : ⏫ 
 
 	- [ ] Trouver métier utiles et sympa dans domaine connexe au mien ⏫ 
-	- [ ] Entreprises et labos liées à ces postes ⏫ 
-	- [ ] 
-- [ ] Formation complémentaire :  📅 2026-06-02 
-
+	
+	- [ ] Entreprises et labos liées à ces postes -> Remplir liste entreprise et labo intéressant⏫ 
 	
 	- [ ] Trouver offres pour [[Entreprises ou labos intéressants]]
+
+- [ ] Formation complémentaire :  📅 2026-06-02 
+
+	- [ ] 
 	- [ ] Voir ce qui manque à mon profil 
 	- [ ] Récup contacts Recruteurs ou ingénieurs dans boite médicale intéressante
 	- [ ] Demander Formation recherché

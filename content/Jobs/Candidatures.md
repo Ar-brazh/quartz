@@ -5,10 +5,6 @@
 	- [x] Refaire capture d'écran pour inclure la date sur les mails ✅ 2026-05-28
 	- [ ] Formation machine learning et deep learning open clasrooms
 
-- [ ] Refaire CV ? :
-
-	- [ ] Checker [[ATS ]]
-
 - [ ]  Métier idéal et formation complémentaire : ⏫  📅 2026-06-02 
 
 	- [ ] Trouver métier utiles et sympa dans domaine connexe au mien ⏫ 
@@ -23,12 +19,10 @@
 	
 	- [ ] Demander Formation recherché
 
-- [ ] Centraliser annonces offres : Scrapping et
-
-- [ ] Offres de thèse CNRS :
-	- [ ] Adapter CV et recuperer releve de notes ?
-	- [ ] Resigner sur conditions pour contrat doctoral dans ma situation 
-
+	- [ ] Centraliser annonces offres 
+		- [ ] Scrapping python 
+		- [ ] Alertes
+		
 - [ ] Candidatures à faire : 📅 2026-06-02 
 
 	- [ ] Modifier et envoyer lettres de motivations deja faite 
@@ -36,3 +30,13 @@
 - [ ] Complément utile : 📅 2026-06-02 
 
 	- [ ] Savoir comment utiliser LinkedIn premium 
+	
+- [ ] Offres de thèse CNRS :
+	- [ ] Adapter CV et recuperer releve de notes ?
+	- [ ] Resigner sur conditions pour contrat doctoral dans ma situation 
+
+
+
+- [ ] Refaire CV ? :
+
+	- [ ] Checker [[ATS ]]

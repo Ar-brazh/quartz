@@ -9,9 +9,11 @@
 
 	- [ ] Checker [[ATS ]]
 
+- [ ]  Métier idéal : ⏫ 
+	- [ ] Trouver métier utiles et sympa dans domaine connexe au mien ⏫ 
 - [ ] Formation complémentaire :  📅 2026-06-02 
 
-	- [ ] Trouver métier utiles et sympa dans domaine connexe au mien ⏫ 
+	
 	- [ ] Trouver offres pour [[Entreprises ou labos intéressants]]
 	- [ ] Voir ce qui manque à mon profil 
 	- [ ] Récup contacts Recruteurs ou ingénieurs dans boite médicale intéressante

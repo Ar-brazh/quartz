@@ -1,5 +1,4 @@
 ****
-ine
 Extension-Flexion :  
 
 Extension complète  

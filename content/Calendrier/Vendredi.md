@@ -1,7 +1,3 @@
-Faire sac : 
- - Tenue de sport pour kiné -> short 
- - Deux bouteilles de cidre 
- - drap 
 
 Kiné 12h30 
 Recup pull chez eno

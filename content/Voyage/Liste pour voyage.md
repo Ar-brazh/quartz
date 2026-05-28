@@ -5,6 +5,7 @@
 - [ ] Savon
 - [ ] parfum
 - [ ] enceinte
+- [ ] Cidre
 - [x] Sandwich
 - [ ] Batterie portable
 - [ ] Chqrgeur batterie
@@ -60,12 +61,10 @@
 - [ ] cigarettes
 - [x] briquette
 - [ ] drap
-- [x] Mouchoirs
-- [x] clé maison
+- [ ] clé maison
 - [x] jeux de société
 - [x] Frigo trucs qui vont périmé
 - [x] Oreiller voyage
-- [x] Ordi Travai
 - [x] diffuseur eau
 - [x] Rasoir
 - [x] Mousse à raser

@@ -1,17 +1,17 @@
 ****
 
 - [ ] Porte monnaie
-- [x] Serviettes
-- [x] Savon
-- [x] parfum
-- [x] enceinte
+- [ ] Serviettes
+- [ ] Savon
+- [ ] parfum
+- [ ] enceinte
 - [x] Sandwich
-- [x] Batterie portable
-- [x] Chqrgeur batterie
+- [ ] Batterie portable
+- [ ] Chqrgeur batterie
 - [ ] lunettes
 - [ ] lentille
 - [ ] casque
-- [x] Ordi chargeur siuris
+- [ ] Ordi chargeur siuris
 - [x] Livre
 - [x] mots croise
 - [x] carnet

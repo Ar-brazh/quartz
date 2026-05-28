@@ -6,7 +6,7 @@
 3. Avoir un salaire
 4. RDV psychiatre TDAH
 5. Finir article C-PETRUS 
-6. 
+6. Automatisme cools 
 
 ++
 

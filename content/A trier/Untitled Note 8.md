@@ -1,2 +1,0 @@
-****
-Pitié Salpêtrière rovot

@@ -1,8 +1,8 @@
 - [ ] Dossier ARE :  📅 2026-06-02 
 
-	- [ ] Tableau avec toutes les offres, date de soumission, intitulé du poste, coherence avec mon parcours, reponse ou non
+	- [x] Tableau avec toutes les offres, date de soumission, intitulé du poste, coherence avec mon parcours, reponse ou non ✅ 2026-05-28
 	- [x] Faire MOOC ✅ 2026-05-27
-	- [ ] Refaire capture d'écran pour inclure la date sur les mails 
+	- [x] Refaire capture d'écran pour inclure la date sur les mails ✅ 2026-05-28
 	- [ ] Formation machine learning et deep learning open clasrooms
 
 - [ ] Refaire CV ? :

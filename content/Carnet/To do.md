@@ -3,7 +3,7 @@
 3. [ ] Rdv psychiatre⏫ 
 4. [ ] [[Programme routine code/IA]] ⏫ 
 5. [ ]  [[Site web - Notes]] 🔼 
-6. [ ] [[Relancer groupes vacances]] 🔼 
+6. [ ] [[Relancer groupes vacances]] 🔼
 7. [ ] [[Gérer données ordi téléphone]] 🔽 
 8. [ ] [[Article C-PETRUS]] 🔼 
 9. [ ] Remplir Carnet 🔽 

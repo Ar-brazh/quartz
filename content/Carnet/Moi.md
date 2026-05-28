@@ -1,5 +1,5 @@
 ****
-oi
+
 ++  
 Manette PS5  
 Lunette soleil adapté à vue  

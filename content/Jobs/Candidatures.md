@@ -11,13 +11,15 @@
 
 - [ ] Formation complémentaire :  📅 2026-06-02 
 
-	- [ ] Trouver métier utiles et sympa dans domaine connexe au mien
+	- [ ] Trouver métier utiles et sympa dans domaine connexe au mien ⏫ 
 	- [ ] Trouver offres pour [[Entreprises ou labos intéressants]]
 	- [ ] Voir ce qui manque à mon profil 
 	- [ ] Récup contacts Recruteurs ou ingénieurs dans boite médicale intéressante
 	- [ ] Demander Formation recherché
 
 - [ ] Centraliser annonces offres : 
+	- [ ] Trouver métier utiles et sympa dans domaine connexe au mien ⏫ 
+	- [ ] Entreprises et labos liées à ces postes
 	- [ ] Plan pour scrapping et centralisation offres sur une meme interface 
 
 - [ ] Offres de thèse CNRS :

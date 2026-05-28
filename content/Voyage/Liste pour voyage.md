@@ -76,7 +76,7 @@
 - [x] à ma'ger
 - [x] glacière
 - [x] à boire
-- [x] affaires de sport
-- [x] chaussures de <u>sport</u>
+- [x] affaires de sport ✅ 2026-05-29
+- [x] chaussures de <u>sport</u> ✅ 2026-05-29
 - [x] chuassure rando
 - [x] Truc en bois qui tiens téléphone

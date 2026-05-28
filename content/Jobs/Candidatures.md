@@ -10,7 +10,10 @@
 	- [ ] Checker [[ATS ]]
 
 - [ ]  Métier idéal : ⏫ 
+
 	- [ ] Trouver métier utiles et sympa dans domaine connexe au mien ⏫ 
+	- [ ] Entreprises et labos liées à ces postes ⏫ 
+	- [ ] 
 - [ ] Formation complémentaire :  📅 2026-06-02 
 
 	
@@ -20,8 +23,7 @@
 	- [ ] Demander Formation recherché
 
 - [ ] Centraliser annonces offres : 
-	- [ ] Trouver métier utiles et sympa dans domaine connexe au mien ⏫ 
-	- [ ] Entreprises et labos liées à ces postes
+	
 	- [ ] Plan pour scrapping et centralisation offres sur une meme interface 
 
 - [ ] Offres de thèse CNRS :

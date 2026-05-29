@@ -26,5 +26,6 @@ https://fr.indeed.com/cmp/Keri-Medical-Sa/jobs
 
 Medtronic : 
 
-https://medtronic.wd1.myworkdayjobs.com/fr-FR/MedtronicCareers
+https://medtronic.wd1.myworkdayjobs.com/fr-FR/MedtronicCareers?locationCountry=54c5b6971ffb4bf0b116fe7651ec789a
+
 

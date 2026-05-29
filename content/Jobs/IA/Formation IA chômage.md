@@ -1,10 +1,7 @@
 - ==**Renseignement sur formation avantageuse pour recevoir chômage**== 
 
-### Dispositifs disponibles sans allocation chômage
 
-La condition clé dans tous les cas : **être inscrit comme demandeur d'emploi à France Travail** (même sans indemnisation).
-
----
+Possibilité financements : 
 
 #### 1. AIF — Aide Individuelle à la Formation ✅ Votre meilleure option
 

@@ -28,4 +28,6 @@ Medtronic :
 
 https://medtronic.wd1.myworkdayjobs.com/fr-FR/MedtronicCareers?locationCountry=54c5b6971ffb4bf0b116fe7651ec789a
 
+Abbot : 
 
+https://www.jobs.abbott/us/en/c/research-development-jobs

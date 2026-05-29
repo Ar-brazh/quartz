@@ -3,4 +3,5 @@
 - Filtrage date de publication 2026
 - Garder position PHD 
 - Revoir evaluation score
+- France et suisse
 - 

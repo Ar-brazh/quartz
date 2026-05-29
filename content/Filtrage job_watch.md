@@ -65,3 +65,9 @@ Stago :
 
 https://www.stago.fr/carrieres/offres-demploi/%23page-search---index---lang---fr_FR/#page-search---index
 
+Siemens:
+
+https://careers.siemens-healthineers.com/global/en/c/manufacturing-jobs
+
+https://careers.siemens-healthineers.com/global/en/c/clinical-jobs
+

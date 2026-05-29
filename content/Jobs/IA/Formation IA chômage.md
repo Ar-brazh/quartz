@@ -1,7 +1,7 @@
 - ==**Renseignement sur formation avantageuse pour recevoir chômage**== 
 
 
-Possibilité financements : 
+## Financements 
 
 #### 1. AIF — Aide Individuelle à la Formation ✅ Votre meilleure option
 

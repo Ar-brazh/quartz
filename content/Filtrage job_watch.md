@@ -71,3 +71,9 @@ https://careers.siemens-healthineers.com/global/en/c/manufacturing-jobs
 
 https://careers.siemens-healthineers.com/global/en/c/clinical-jobs
 
+
+Eyesoft :
+
+https://www.linkedin.com/company/eyesoftpro/jobs/
+
+

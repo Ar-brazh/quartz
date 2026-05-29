@@ -1,3 +1,5 @@
 [[Test Iso]]  15h
 Compte rendu test iso a Chloé 
-Candidatures + Formation 
+Dernières candidatures
+Finalisation dossier ARE
+Plus de rensignements sur formations

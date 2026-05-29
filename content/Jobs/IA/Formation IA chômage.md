@@ -51,15 +51,15 @@ Condition : avoir une **promesse d'embauche** d'une entreprise qui vous finance 
 
 ---
 
-### Formations IA éligibles reconnues
+## Formations 
 
-Pour maximiser vos chances d'obtenir le financement, ciblez des formations **certifiées Qualiopi** avec un titre reconnu :
+- Certfié Qualiopi
 
 - **Titre RNCP** Développeur IA / Data Scientist
 - Formations OpenClassrooms, DataScientest, Jedha (toutes Qualiopi)
 - Simplon.co (souvent 100% financé pour demandeurs d'emploi)
 
-https://openclassrooms.com/fr/paths/topics/31-data
+	https://openclassrooms.com/fr/paths/topics/31-data
 
 
 

@@ -61,3 +61,7 @@ Boston scientific :
 
 https://bostonscientific.eightfold.ai/careers?start=0&pid=563602812450716&sort_by=hot&filter_country=France
 
+Stago :
+
+https://www.stago.fr/carrieres/offres-demploi/%23page-search---index---lang---fr_FR/#page-search---index
+

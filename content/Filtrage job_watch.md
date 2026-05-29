@@ -20,3 +20,6 @@ ULB :
 
 https://www.ulb.be/fr/offres-d-emploi/offres-demploi-a-lulb-externes
 
+Kerimedical : 
+
+https://fr.indeed.com/cmp/Keri-Medical-Sa/jobs

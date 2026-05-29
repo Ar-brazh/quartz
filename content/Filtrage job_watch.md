@@ -53,3 +53,7 @@ Trumpf:
 
 https://trumpf.wd3.myworkdayjobs.com/en-US/TRUMPF_Graduates_and_Professionals
 
+Johnson and Johnson :
+
+https://www.careers.jnj.com/en/jobs/?orderby=0&pagesize=20&page=1&radius=100&country=France
+

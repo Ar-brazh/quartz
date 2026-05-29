@@ -53,11 +53,15 @@ Condition : avoir une **promesse d'embauche** d'une entreprise qui vous finance 
 
 - ==Certfié Qualiopi==
 
-- Formations OpenClassrooms, DataScientest, Jedha (toutes Qualiopi)
-	- https://openclassrooms.com/fr/paths/topics/31-data
-- Simplon.co (souvent 100% financé pour demandeurs d'emploi)
+- Quelle durée ? 
 
-- Alternance ? 
+- Idées 
+
+	- Formations OpenClassrooms, DataScientest, Jedha (toutes Qualiopi)
+		- https://openclassrooms.com/fr/paths/topics/31-data
+	- Simplon.co (souvent 100% financé pour demandeurs d'emploi)
+	
+	- Alternance
 
 		
 - Lien avec candidature : 

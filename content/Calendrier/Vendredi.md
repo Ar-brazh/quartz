@@ -1,12 +1,11 @@
 
 - [x] Kiné 12h30 ✅ 2026-05-29
 - [ ] Candidatures + Formation 
-	- [ ] Candidature envoyé à these Cifre 
-	- [ ] Job_watch updater 
-	- [ ] Reflexion sur ce que j'avais envie de faire 
-	- [ ] Reflexion sur formation (Apprentissage, openclassrooms)
-	- [ ] Préparation mail conseil formation 
-- [ ] Acheter pantalon avec chemise rose 
+	- [x] Candidature envoyé à these Cifre ✅ 2026-05-29
+	- [x] Job_watch updater ✅ 2026-05-29
+	- [x] Reflexion sur ce que j'avais envie de faire ✅ 2026-05-29
+	- [x] Reflexion sur formation (Apprentissage, openclassrooms) ✅ 2026-05-29
+	- [x] Préparation mail conseil/avis formation ✅ 2026-05-29
 - [ ] Trouver truc à paillette 
 - [ ] Dossier ARE
 - [x] Rdv psychiatre ✅ 2026-05-29 -> Mail envoyé à centre TDAH adultes Paris

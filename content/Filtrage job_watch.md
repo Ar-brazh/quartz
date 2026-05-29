@@ -31,3 +31,9 @@ https://medtronic.wd1.myworkdayjobs.com/fr-FR/MedtronicCareers?locationCountry=5
 Abbot : 
 
 https://www.jobs.abbott/us/en/c/research-development-jobs
+
+
+Merck :
+
+https://careers.merckgroup.com/global/en/search-results
+

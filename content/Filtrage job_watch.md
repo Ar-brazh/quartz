@@ -45,3 +45,7 @@ Hamilton :
 
 https://jobs.hamilton.ch/en/open-positions/
 
+MSD : 
+
+https://jobs.msd.com/fr/fr/search-results
+

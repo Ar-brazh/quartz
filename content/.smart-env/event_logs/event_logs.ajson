@@ -425,3 +425,4 @@
 "event_logs:sources:reimport_completed": {"key":"sources:reimport_completed","ct":196,"first_at":1779828173570,"last_at":1780053769076,"class_name":"EventLog","event_sources":{"run_re_import":196}},
 "event_logs:sources:created": {"key":"sources:created","ct":169,"first_at":1779828160250,"last_at":1780053775917,"class_name":"EventLog","event_sources":{"obsidian:vault.create":169}},
 "event_logs:sources:renamed": {"key":"sources:renamed","ct":250,"first_at":1779830468225,"last_at":1780053780285,"class_name":"EventLog","event_sources":{"obsidian:vault.rename":250}},
+"event_logs:sources:renamed": {"key":"sources:renamed","ct":251,"first_at":1779830468225,"last_at":1780053792261,"class_name":"EventLog","event_sources":{"obsidian:vault.rename":251}},

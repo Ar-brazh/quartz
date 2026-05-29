@@ -61,7 +61,7 @@ Condition : avoir une **promesse d'embauche** d'une entreprise qui vous finance 
 		- https://openclassrooms.com/fr/paths/topics/31-data
 	- Simplon.co (souvent 100% financé pour demandeurs d'emploi)
 	
-	- Alternance
+	- Alternance >M2
 
 		
 - Lien avec candidature : 

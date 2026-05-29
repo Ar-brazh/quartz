@@ -1,5 +1,5 @@
 
 
-4 sujets de thèses intéressants en IA/santé du même l
+4 sujets de thèses intéressants en IA/santé du même laboratoire 
 
-je voudrias ecrire un mail au portant de chaque sujet de thèse pour leur présenter ma candidature tout en etant conscient que mon experience en IA est faible que je me forme de mon côté sur kaggle.com et openclassrooms et que je voudrais avoir leur point de vue sur le type de formation et d'expérience complémentaire qu'ils me conseillerait 
+je voudrias ecrire un mail au portant de chaque sujet de thèse pour leur présenter ma candidature tout en etant conscient que mon experience en IA est faible que je me forme de mon côté sur kaggle.com et openclassrooms et que je voudrais avoir leur point de vue sur le type de formation et d'expérience complémentaire qu'ils me conseillerait vis a vis de mon profil (enresumant mon profil) Est ce qu'un profil avec un github contenant de sprojets en pytorch tesor flow, deep learning 

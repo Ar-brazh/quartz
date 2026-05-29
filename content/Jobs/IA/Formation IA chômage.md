@@ -1,5 +1,3 @@
-- ==**Renseignement sur formation avantageuse pour recevoir chômage**== 
-
 
 ## Financements 
 
@@ -53,15 +51,13 @@ Condition : avoir une **promesse d'embauche** d'une entreprise qui vous finance 
 
 ## Formations 
 
-- Certfié Qualiopi
+- ==Certfié Qualiopi==
 
-- **Titre RNCP** Développeur IA / Data Scientist
 - Formations OpenClassrooms, DataScientest, Jedha (toutes Qualiopi)
+	- https://openclassrooms.com/fr/paths/topics/31-data
 - Simplon.co (souvent 100% financé pour demandeurs d'emploi)
 
-	https://openclassrooms.com/fr/paths/topics/31-data
-
-
+- Alternance ? 
 
 		
 - Lien avec candidature : 

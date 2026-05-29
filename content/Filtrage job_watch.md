@@ -57,3 +57,7 @@ Johnson and Johnson :
 
 https://www.careers.jnj.com/en/jobs/?orderby=0&pagesize=20&page=1&radius=100&country=France
 
+Boston scientific :
+
+https://bostonscientific.eightfold.ai/careers?start=0&pid=563602812450716&sort_by=hot&filter_country=France
+

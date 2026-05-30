@@ -4,18 +4,20 @@
 - Pull léger
 - Caleçons
 - Sauce piquante de qualité
-- Jeux vidéo : Madden NFL, Collège football 25, F124 , Rugby 25
 - Imprimante 3D
-- Extracteur cire oreille
 - Dexter
 
 ++
 
 - Jeux de société
+- Rugby 25
+- Arracheur poil nez
+- Commande vocale Alexa ou GPT
 - Bon café moulu fin
 - Verre en cuivre Moscow mule
 - Cluebox (escaperoom dans une boîte)
 - Pull Quarter zip, 49ers ou Steelers, de Peace collective
+- Soins pour la peau 
 
 +
 

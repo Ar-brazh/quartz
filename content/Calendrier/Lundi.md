@@ -1,7 +1,8 @@
+Observer un peu plus thèse et envoyé potentiellement candidature 
+Si offre intéressante demandé relevé de notes à l'UTC
 Réparer portable
 acheter fleur pour maman
-Observer un peu plus thèse et envoyé potentiellement candidature 
-Envoyé message et mails à contacts sélectionnés 
 Plus de renseignements sur formations
+Envoyé message et mails à contacts sélectionnés 
 Ranger appart
 PRÉPARER TOUT CE QU'IL FAUT POUR TEST ISO

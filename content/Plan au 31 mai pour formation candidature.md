@@ -3,5 +3,5 @@
 
 - Lister formations en ligne que je peux suivre en IA santé 
 
-- Faire projet IA sur données mammographie 
-	- 
+- Faire projet [[Pythorch-Mammographie]] 
+- 

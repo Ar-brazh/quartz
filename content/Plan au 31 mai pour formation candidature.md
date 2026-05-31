@@ -3,5 +3,8 @@
 
 - Lister formations en ligne que je peux suivre en IA santé 
 
+- Envoyé message conseil à 
+
 - Faire projet [[Pythorch-Mammographie]] 
-- 
+
+- Envoyer mail pour candidature thèse mammographie télécom

@@ -1,5 +1,5 @@
 
-- [ ] Lister toutes les formations disponibles IA santé,d Alternance ou non que je peux intégré en Bac +4 avec prix, deadline d'inscription  ⏫  📅 2026-06-05 
+- [ ] Lister toutes les formations disponibles IA santé, dtsnaciel ou non, longue ou courte,  Alternance ou non que je peux intégré en Bac +4 (pour les longues) avec prix, deadline d'inscription  ⏫  📅 2026-06-05 
 
 - [ ] Envoyé message conseil à professionells/recuteurs/maitre de thèse en IA/santé en précisant que je suis en train de conduire un projet de IA 📅 2026-06-15 🔼 
 

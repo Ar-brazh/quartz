@@ -3,7 +3,7 @@
 
 - Lister formations en ligne que je peux suivre en IA santé 
 
-- Envoyé message conseil à 
+- Envoyé message conseil à professionells/recuteurs/maitre de thèse en IA/santéen précisant que je suis en train de conduire un projet de IA 
 
 - Faire projet [[Pythorch-Mammographie]] 
 

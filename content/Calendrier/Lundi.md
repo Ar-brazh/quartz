@@ -1,5 +1,5 @@
 acheter fleur pour maman
-Observer un peu plus these 
+Observer un peu plus these et envoye potentiellement candidature 
 Envoyé message et mails à contacts sélectionnés 
 Plus de rensignements sur formations
 Ranger appart

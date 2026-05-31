@@ -1,7 +1,7 @@
 
 Bonjour [Prénom],
 
-Je suis ingénieur biomédical en R&D, avec une expérience en imagerie médicale, robotique médicale et développement Python/MATLAB.
+Je suis ingénieur biomédical avec plus d’un an d’expérience en R&D. J’étais responsable du développement de C-PETRUS, une plateforme d’imagerie multimodale CT/TEP/échographie robotisée, avec des missions en développement Python/MATLAB, traitement d’images, recalage multimodal et contrôle robotique.
 
 Je souhaite me spécialiser en IA appliquée à la santé et j’hésite entre une formation complémentaire ou des projets GitHub orientés ML/imagerie médicale.
 

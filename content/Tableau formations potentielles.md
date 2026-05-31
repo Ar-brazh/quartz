@@ -14,4 +14,7 @@
 
 - Filtré le tableau, enlevé non pertinant 
 - Separation clair ente type de formation 
-- Meilleur connaisanc
+- Meilleur connaisance des diplomes 
+	- DU qu'est ce que c'est 
+	- CNAM ?
+	- Alternance possible juste une année en bac +4 ? 

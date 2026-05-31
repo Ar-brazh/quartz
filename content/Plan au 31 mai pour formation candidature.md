@@ -6,7 +6,7 @@
 - [ ] Envoyé message conseil à professionells/recuteurs/maitre de thèse en IA/santé en précisant que je suis en train de conduire un projet de IA 📅 2026-06-15 🔼 
 
 - [ ] RDV conseillère pole emploi 📅 ⏳ 2026-06-05 
-	- [ ] Lister formations potentielles et 
+	- [ ] Lister formations potentielles et discuter financement 
 
 - [ ] Faire projet [[Pythorch-Mammographie]]  📅 2026-06-15
 

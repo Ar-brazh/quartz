@@ -74,7 +74,7 @@
     
 - **Prix indicatif :** **4 800 € net**
     
-- **Deadline / candidature :** Session affichée **1 mars – 1 septembre 2027** ; candidature avec CV + lettre de motivation 
+- **Deadline / candidature :** Session affichée **1 mars – 1 septembre 2027** ; candidature avec CV + lettre de motivation  **automne 2026 / début janvier 2027**
     
 - **Avis :** Très bon format si tu veux rester employable et ajouter une brique IA santé crédible sans repartir pour 2 ans.
     

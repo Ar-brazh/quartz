@@ -64,7 +64,7 @@
 - **Avis :** Très bon en complément de ton profil, mais ne remplace pas une formation technique IA / deep learning. Utile pour la culture IA santé, la réglementation et la stratégie projet.
     
 
-### 5. **Certificat de spécialisation IA en Santé**
+# 5. **Certificat de spécialisation IA en Santé**
 
 - **Établissement :** Cnam Paris
     
@@ -78,7 +78,59 @@
     
 - **Avis :** Très bon format si tu veux rester employable et ajouter une brique IA santé crédible sans repartir pour 2 ans.
 
-Si mon AIF est acceptée pour le certificat IA en santé du Cnam, que se passe-t-il si je retrouve un emploi avant ou pendant la formation ? Le financement des frais pédagogiques est-il maintenu si je reste inscrit et que l’employeur accepte mes absences ?”
+## Cas 1 — Tu trouves un emploi **avant que l’AIF soit validée**
+
+Dans ce cas, le financement peut être **refusé ou annulé**, car l’AIF est destinée aux **demandeurs d’emploi inscrits à France Travail**, pour une formation nécessaire au retour à l’emploi. France Travail indique que l’AIF concerne les demandeurs d’emploi inscrits, indemnisés ou non.
+
+Donc si tu signes un CDI/CDD avant validation, il faut prévenir ton conseiller. Il pourra dire que le financement n’est plus justifié, sauf cas particulier où tu restes inscrit comme demandeur d’emploi, par exemple activité réduite ou emploi à temps partiel.
+
+## Cas 2 — L’AIF est validée, puis tu trouves un emploi **avant le début de la formation**
+
+C’est le cas le plus sensible. Tu dois déclarer ta reprise d’activité à France Travail. Si tu veux rester inscrit, tu dois déclarer la reprise d’emploi dans ton actualisation mensuelle ; si tu ne souhaites pas rester inscrit, tu dois signaler le changement dans ton espace personnel.
+
+Ensuite, France Travail peut réexaminer la situation. En pratique, il peut y avoir trois issues :
+
+|Situation|Conséquence probable|
+|---|---|
+|Ton emploi est compatible avec la formation et tu restes inscrit|Le financement peut parfois être maintenu, mais à valider avec ton conseiller|
+|Tu n’es plus inscrit comme demandeur d’emploi|Le financement AIF risque d’être annulé|
+|Ton employeur peut financer|Bascule possible vers financement entreprise / OPCO / plan de développement des compétences|
+
+## Cas 3 — Tu es déjà en formation financée par France Travail, puis tu trouves un emploi
+
+Là, il faut **déclarer la reprise d’activité** et continuer à déclarer ta situation chaque mois si tu restes inscrit. France Travail précise que l’actualisation mensuelle sert à renouveler ton inscription et doit intégrer les changements de situation.
+
+Deux points importants :
+
+1. **Le financement des frais pédagogiques** peut être maintenu si France Travail considère que la formation reste cohérente et que tu peux la suivre sérieusement.
+2. **Ta rémunération France Travail**, si tu en as une pendant la formation, peut changer ou s’arrêter selon ton salaire, ton statut et ton inscription.
+
+France Travail indique que le cumul allocation chômage + salaire est possible sous conditions, tant qu’il reste des droits ARE et que tu restes inscrit comme demandeur d’emploi.
+
+## Cas 4 — Tu signes un contrat à temps plein incompatible avec les 3 jours/mois
+
+Pour le certificat Cnam, le format est environ **3 jours consécutifs par mois**. Si ton nouvel employeur ne te libère pas, tu risques de ne pas pouvoir être assidu. Et l’assiduité est importante : les aides liées à la formation peuvent dépendre du suivi réel de la formation.
+
+Dans ce cas, il faut négocier avec l’entreprise avant signature ou pendant l’embauche :
+
+> “J’ai une formation déjà validée/financée par France Travail, à raison d’environ 3 jours par mois, qui renforce directement mes compétences IA santé. Est-ce compatible avec le poste ? Peut-on l’intégrer au plan de formation ou prévoir des autorisations d’absence ?”
+
+## Le risque principal
+
+Le risque n’est pas tellement de devoir “rembourser automatiquement” parce que tu as trouvé un emploi. Le risque principal, c’est plutôt :
+
+- que France Travail **annule le financement avant entrée en formation** ;
+- que ta **rémunération formation** s’arrête ou soit recalculée ;
+- que tu sois considéré non assidu si ton emploi t’empêche d’aller en formation ;
+- que le financement bascule vers ton employeur si ton statut change.
+
+## Ce que je te conseille
+
+Avant de lancer le dossier AIF, demande explicitement à ton conseiller France Travail :
+
+> “Si mon AIF est acceptée pour le certificat IA en santé du Cnam, que se passe-t-il si je retrouve un emploi avant ou pendant la formation ? Le financement des frais pédagogiques est-il maintenu si je reste inscrit et que l’employeur accepte mes absences ?”
+
+Et côté Cnam, demande aussi un devis avec mention du format **compatible salarié / formation continue**, car ça facilitera une éventuelle bascule vers un financement employeur ou OPCO.
     
 - Faire valider ton projet par ton conseiller France Travail.
 - Demander un devis au Cnam.
@@ -87,7 +139,7 @@ Si mon AIF est acceptée pour le certificat IA en santé du Cnam, que se passe-t
 - Ton conseiller étudie la cohérence avec ton retour à l’emploi.
 ## Trop tard
 
-### 6. **Master Ingénierie de la santé – parcours Artificial Intelligence & Digital Health**
+# 6. **Master Ingénierie de la santé – parcours Artificial Intelligence & Digital Health**
 
 - **Établissement :** PSL / ESPCI Paris-PSL
     
@@ -104,7 +156,7 @@ Si mon AIF est acceptée pour le certificat IA en santé du Cnam, que se passe-t
 
 ## Site non actualisé
 
-### 7. **DU IA en santé, du médicament au patient**
+# 7. **DU IA en santé, du médicament au patient**
 
 - **Établissement :** Université Paris-Saclay
     

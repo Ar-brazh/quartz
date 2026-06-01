@@ -68,7 +68,7 @@
 
 - **Établissement :** Cnam Paris
     
-- **Format :** 120 h, 6 mois, présentiel / distanciel synchrone
+- **Format :** 120 h, 6 mois, présentiel / distanciel synchrone, 3 jours consécutifs présentiel par mois
     
 - **Intégration:** Oui, très adapté à un profil ingénieur
     
@@ -77,6 +77,8 @@
 - **Deadline / candidature :** Session affichée **1 mars – 1 septembre 2027** ; candidature avec CV + lettre de motivation  **automne 2026 / début janvier 2027**
     
 - **Avis :** Très bon format si tu veux rester employable et ajouter une brique IA santé crédible sans repartir pour 2 ans.
+
+Si mon AIF est acceptée pour le certificat IA en santé du Cnam, que se passe-t-il si je retrouve un emploi avant ou pendant la formation ? Le financement des frais pédagogiques est-il maintenu si je reste inscrit et que l’employeur accepte mes absences ?”
     
 - Faire valider ton projet par ton conseiller France Travail.
 - Demander un devis au Cnam.

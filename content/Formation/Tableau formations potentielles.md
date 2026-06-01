@@ -78,7 +78,11 @@
     
 - **Avis :** Très bon format si tu veux rester employable et ajouter une brique IA santé crédible sans repartir pour 2 ans.
     
-
+- Faire valider ton projet par ton conseiller France Travail.
+- Demander un devis au Cnam.
+- Le Cnam transmet ou établit le devis en ligne.
+- Tu le valides depuis ton espace France Travail.
+- Ton conseiller étudie la cohérence avec ton retour à l’emploi.
 ## Trop tard
 
 ### 6. **Master Ingénierie de la santé – parcours Artificial Intelligence & Digital Health**

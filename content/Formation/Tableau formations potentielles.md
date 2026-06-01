@@ -14,6 +14,8 @@
 
 
 
+
+
 - Filtré le tableau, enlevé non pertinant 
 - Separation clair ente type de formation 
 - Meilleur connaisance des diplomes 

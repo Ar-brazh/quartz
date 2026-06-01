@@ -4,7 +4,7 @@
 
 - **M2 Méthodes et Outils pour les Données des Entrepôts en Santé** (26 juin 2026)
 - **M2 Informatique biomédicale** (26 juin 2026)
-- **M2 Machine Learning pour la Science des Données** 
+- **M2 Machine Learning pour la Science des Données** (30 juin 2026)
 - **M2 Statistique, modélisation et sciences des données en santé** ( Deadline inscription : **1ère campagne :** du 28 avril 2026 au 26 juin 2026, **2ème campagne :** du 01 septembre 2026 au 29 septembre 2026)
 
 - **Établissement :** Université Paris Cité

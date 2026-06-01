@@ -10,7 +10,7 @@
     
 - **Prix indicatif :** Public, environ 254 € + CVEC, hors formation continue
     
-- **Deadline / candidature :** Candidatures M1 trouvées du **17 février au 16 mars 2026** ; calendrier M2 à vérifier sur la fiche
+- **Deadline / candidature :** Candidatures M2 
     
 - **Avis :** Très bon si tu veux aller vers les **données de santé, entrepôts hospitaliers, SNDS, IA, NLP, biostatistiques**. Moins orienté imagerie, plus data santé.
     

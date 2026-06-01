@@ -1,11 +1,11 @@
-Observer un peu plus thèse et envoyé potentiellement candidature 
-Si offre intéressante demandé relevé de notes à l'UTC
-Message Killian pour demander avis sur plan d'attaque
-Réparer portable
-TGV MAX ANNAEL
-RDV COIFFEUR
-acheter fleur pour maman
-Plus de renseignements sur formations
-Envoyé message et mails à contacts sélectionnés 
-Ranger appart
-PRÉPARER TOUT CE QU'IL FAUT POUR TEST ISO
+- [ ] Observer un peu plus thèse et envoyé potentiellement candidature 
+- [x] Si offre intéressante demandé relevé de notes à l'UTC ✅ 2026-06-01
+- [ ] Message Killian pour demander avis sur plan d'attaque
+- [ ] Réparer portable
+- [x] TGV MAX ANNAEL ✅ 2026-06-01
+- [ ] RDV COIFFEUR
+- [ ] acheter fleur pour maman
+- [ ] Plus de renseignements sur formations
+- [ ] Envoyé message et mails à contacts sélectionnés 
+- [ ] Ranger appart
+- [ ] PRÉPARER TOUT CE QU'IL FAUT POUR TEST ISO

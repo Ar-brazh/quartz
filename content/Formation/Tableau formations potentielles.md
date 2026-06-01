@@ -141,7 +141,7 @@
 
 - **Établissement :** Cnam Paris
     
-- **Format :** 120 h, 6 mois, présentiel / distanciel synchrone, 3 jours consécutifs présentiel par mois
+- **Format :** 120 h, 6 mois, présentiel / distanciel synchrone, 3 jours consécutifs présentiel par mois, technique 
     
 - **Intégration:** Oui, très adapté à un profil ingénieur
     

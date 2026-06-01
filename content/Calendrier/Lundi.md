@@ -4,7 +4,12 @@
 	Message pour Killian :
 	
 	Salut Killian je voulais avoir ton avis sur ma stratégie de conseil formation et ma candidature à la thèse dont je t'ai parlé vendredi. 
-	Je compte envoyé ce message a des professionnels et recruteurs dans des domaines liés à l'IA et la
+	Je compte envoyé ce message a des professionnels et recruteurs dans des domaines liés à l'IA et la santé qui m'intéresse (par LinkedIn ou mail): 
+	
+	
+	Qu'est ce que t'en penses ?
+	
+	Pour la thèse qui m'interesse la limite de candidature est le 31 aout donc je vais prendre deux semaines pour faire un projet de deap
 - [x] TGV MAX ANNAEL ✅ 2026-06-01
 - [x] RDV COIFFEUR ✅ 2026-06-01
 - [x] acheter fleur pour maman ✅ 2026-06-01

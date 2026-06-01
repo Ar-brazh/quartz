@@ -77,22 +77,22 @@ C’est le plus technique des quatre. Il vise les métiers du **machine learning
 
 Formation orientée **biostatistique, science des données en santé, modélisation, essais cliniques, inférence causale, apprentissage statistique et recherche médicale**. Elle vise notamment des métiers de biostatisticien, méthodologiste, modélisateur ou data scientist en santé.
 
-| Cours                                            | Explication                                                                                                                     | 0/1 |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | --- |
-| **Modèles linéaires généralisés**                | Modèles statistiques pour données médicales variées : binaire, comptage, proportions. Base importante en biostatistique.        |     |
-| **Modèles de survie**                            | Étudier le temps avant un événement : décès, rechute, guérison, hospitalisation. Très utilisé en recherche clinique.            |     |
-| **Construction et validation de modèles**        | Apprendre à construire un modèle fiable et à vérifier ses performances. Très utile pour éviter les modèles IA non robustes.     |     |
-| **Statistique pour les essais cliniques**        | Méthodes statistiques utilisées dans les essais thérapeutiques. Très utile pour pharma, CRO, recherche clinique.                |     |
-| **Inférence causale**                            | Estimer l’effet réel d’une intervention ou d’un traitement à partir de données observationnelles. Très utile en santé publique. |     |
-| **Apprentissage et classification**              | Méthodes de machine learning/statistique pour classer ou prédire. Bon lien entre stats et IA.                                   |     |
-| **Modèles dynamiques**                           | Modéliser des phénomènes qui évoluent dans le temps : épidémies, progression de maladie, trajectoires patients.                 |     |
-| **Méthodes bayésiennes**                         | Statistiques avec probabilités et incertitude. Très puissant en santé quand les données sont limitées ou complexes.             |     |
-| **Données manquantes**                           | Gérer les valeurs absentes dans les bases de santé. Très important, car les données médicales sont rarement propres.            |     |
-| **Algorithmique et méthodes computationnelles**  | Outils de calcul pour implémenter les modèles statistiques. Utile pour devenir autonome techniquement.                          |     |
-| **Modèles de survie — UE avancée**               | Version plus poussée de l’analyse de survie. Intéressant si tu vises recherche clinique ou biostatistique.                      |     |
-| **Inférence causale — UE avancée**               | Approfondissement des méthodes causales. Très utile pour données réelles, santé publique, épidémiologie.                        |     |
-| **Apprentissage et classification — UE avancée** | Machine learning/statistique plus avancé. Intéressant si tu veux un profil data scientist santé.                                |     |
-| **Méthodes bayésiennes — UE avancée**            | Approfondissement des modèles bayésiens. Utile pour recherche, modélisation avancée, incertitude médicale.                      |     |
-| **Modèle d’équations structurelles**             | Modéliser des relations complexes entre variables observées et latentes. Utile en épidémiologie, psychologie, santé publique.   |     |
-| **Modélisation des maladies transmissibles**     | Modèles pour épidémies, infections, propagation. Très utile si tu t’intéresses à épidémiologie quantitative.                    |     |
-| **Stage**                                        | Application en laboratoire, hôpital, institut de recherche, pharma, CRO ou équipe data santé. Très important pour l’insertion.  |     |
+|Cours|Explication|0/1|
+|---|---|---|
+|**Modèles linéaires généralisés**|Modèles statistiques pour données médicales variées : binaire, comptage, proportions. Base importante en biostatistique.||
+|**Modèles de survie**|Étudier le temps avant un événement : décès, rechute, guérison, hospitalisation. Très utilisé en recherche clinique.||
+|**Construction et validation de modèles**|Apprendre à construire un modèle fiable et à vérifier ses performances. Très utile pour éviter les modèles IA non robustes.||
+|**Statistique pour les essais cliniques**|Méthodes statistiques utilisées dans les essais thérapeutiques. Très utile pour pharma, CRO, recherche clinique.||
+|**Inférence causale**|Estimer l’effet réel d’une intervention ou d’un traitement à partir de données observationnelles. Très utile en santé publique.||
+|**Apprentissage et classification**|Méthodes de machine learning/statistique pour classer ou prédire. Bon lien entre stats et IA.||
+|**Modèles dynamiques**|Modéliser des phénomènes qui évoluent dans le temps : épidémies, progression de maladie, trajectoires patients.||
+|**Méthodes bayésiennes**|Statistiques avec probabilités et incertitude. Très puissant en santé quand les données sont limitées ou complexes.||
+|**Données manquantes**|Gérer les valeurs absentes dans les bases de santé. Très important, car les données médicales sont rarement propres.||
+|**Algorithmique et méthodes computationnelles**|Outils de calcul pour implémenter les modèles statistiques. Utile pour devenir autonome techniquement.||
+|**Modèles de survie — UE avancée**|Version plus poussée de l’analyse de survie. Intéressant si tu vises recherche clinique ou biostatistique.||
+|**Inférence causale — UE avancée**|Approfondissement des méthodes causales. Très utile pour données réelles, santé publique, épidémiologie.||
+|**Apprentissage et classification — UE avancée**|Machine learning/statistique plus avancé. Intéressant si tu veux un profil data scientist santé.||
+|**Méthodes bayésiennes — UE avancée**|Approfondissement des modèles bayésiens. Utile pour recherche, modélisation avancée, incertitude médicale.||
+|**Modèle d’équations structurelles**|Modéliser des relations complexes entre variables observées et latentes. Utile en épidémiologie, psychologie, santé publique.||
+|**Modélisation des maladies transmissibles**|Modèles pour épidémies, infections, propagation. Très utile si tu t’intéresses à épidémiologie quantitative.||
+|**Stage**|Application en laboratoire, hôpital, institut de recherche, pharma, CRO ou équipe data santé. Très important pour l’insertion.||

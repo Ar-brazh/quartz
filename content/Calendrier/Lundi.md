@@ -9,7 +9,7 @@
 	
 	Qu'est ce que t'en penses ?
 	
-	Pour la thèse qui m'interesse la limite de candidature est le 31 aout donc je vais prendre deux semaines pour faire un projet de deap
+	Pour la thèse qui m'interesse la limite de candidature est le 31 aout donc je vais prendre deux semaines pour faire un projet de deep learning 
 - [x] TGV MAX ANNAEL ✅ 2026-06-01
 - [x] RDV COIFFEUR ✅ 2026-06-01
 - [x] acheter fleur pour maman ✅ 2026-06-01

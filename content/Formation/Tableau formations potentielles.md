@@ -30,7 +30,7 @@
 - **Avis :** Très intéressant si tu veux l’alternance. Mais comme tu as déjà un diplôme d’ingénieur, à évaluer : utile si tu veux un vrai repositionnement IA / data santé en entreprise.
     
 
-### 3. **MBA Santé, expertises IA & IoT**
+# 3. **MBA Santé, expertises IA & IoT**
 
 - **Établissement :** Epitech, Paris possible
     
@@ -49,7 +49,7 @@
 - **Avis :** Bon choix professionnalisant si tu veux une alternance en **santé numérique / IA / IoT**, mais moins académique / recherche qu’un master public.
     
 
-### 4. **DU Intelligence artificielle appliquée en santé**
+# 4. **DU Intelligence artificielle appliquée en santé**
 
 - **Établissement :** Université Paris Cité, site Cochin
     

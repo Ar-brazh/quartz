@@ -5,4 +5,4 @@ Compte rendu test iso a Chloé
 Dernières candidatures / formations
 Finalisation dossier ARE
 Plus de rensignements sur formations
-Envoi de 
+Envoi de messages 

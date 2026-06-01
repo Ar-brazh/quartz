@@ -35,6 +35,6 @@
 	- [ ] Besoin de plus de formations potentielles
 - [ ] Envoyé message et mails à contacts sélectionnés 
 
-- [ ] Ranger appart
-- [ ] TESTER REVEIL
-- [ ] PRÉPARER TOUT CE QU'IL FAUT POUR TEST ISO
+- [x] Ranger appart ✅ 2026-06-01
+- [x] TESTER REVEIL ✅ 2026-06-01
+- [x] PRÉPARER TOUT CE QU'IL FAUT POUR TEST ISO ✅ 2026-06-01

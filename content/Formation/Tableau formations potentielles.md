@@ -13,7 +13,7 @@
     
 - **Intégration bac+4 :** Oui, M2 après bac+4
     
-- **Prix indicatif :** Public, environ 254 € + CVEC, hors formation continue
+- **Prix indicatif :** Mail envoyé pour renseignement 
     
 - **Deadline / candidature :** Candidatures M2 
     

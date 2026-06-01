@@ -1,6 +1,6 @@
 
 
-### 1. **Master Santé publique de Paris cité
+### 1. [[Master Santé publique de Paris cité]]
 
 - **M2 Méthodes et Outils pour les Données des Entrepôts en Santé** (26 juin 2026)
 - **M2 Informatique biomédicale** (26 juin 2026)

@@ -62,7 +62,80 @@
 - **Deadline / candidature :** **16 septembre – 30 octobre 2026**, début **7 janvier 2027**
     
 - **Avis :** Très bon en complément de ton profil, mais ne remplace pas une formation technique IA / deep learning. Utile pour la culture IA santé, la réglementation et la stratégie projet.
-    
+
+**Module 1 : Démystifier l’IA en santé**
+
+- Introduction générale à l’IA en santé
+
+**Module 2 : Centres de données médicales**
+
+- Utiliser l’IA pour générer des bases de données structurées à partir de dossiers médicaux de vie réelle
+- Implications en santé publique (informatique médicale, épidémiologie, administration)
+
+**Module 3 : Comportements**
+
+- Utiliser l’IA pour analyser les comportements humains
+- Implications en santé/ spécialités : psychiatrie, toutes les spécialités.
+
+**Module 4 : Automédecine**
+
+- Utiliser l’IA pour évaluer et promouvoir la santé individuelle sans l’aide d’un médecin ; focus sur les devices, les applications , et les informations disponibles pour le grand public.
+- Implications en santé/spécialités : toutes les spécialités.
+
+**Module 5 : Databases Omic**
+
+- Utiliser l’IA pour analyser les données de très grande dimension ; explorer la structure des données ; lien entre les différentes omics et le devenir clinique
+- Implications en santé/spécialités : toutes les spécialités.
+
+**Module 6 : Veille sanitaire**
+
+- Comment l’IA peut améliorer la pharmacovigilance et la pharmacoépidémiologie
+- Implications en santé/spécialités : toutes les spécialités.
+
+**Module 7 : Avatar**
+
+- Utiliser la biologie de système pour modéliser les organes et l’organisme de chaque individu, avec optimisation des modèles à partir de ses données personnelles de santé.
+- Implications en santé/spécialités : toutes les spécialités.
+
+**Module 8 : Imagerie**
+
+- Utiliser l’IA pour analyser les images et vidéos
+- Implications en santé/spécialités : toutes les spécialités « morphologiques » (radiologie, anatomo-pathologie, ophtalmologie, endoscopie)
+
+**Module 9 : Inspection**
+
+- Utiliser l’IA pour analyser des images et des vidéos correspondant à ce qu’un médecin peut voir (inspection).
+- Implications en santé/spécialités : toutes les spécialités.
+
+ **Module 10 : Utilisation de données non médicales pour la Santé**
+
+- Utiliser l’IA pour capturer des informations ayant un impact sanitaire à partir de données publiques (réseaux sociaux, pollution, etc…)
+- Implications en santé/spécialités : santé publique (épidémiologie)
+
+**Module 11 : Robots**
+
+- Dans quelle mesure les robots peuvent être utilisés comme des effecteurs de l’IA en Santé ?
+- Implications en santé/spécialités : chirurgie, prise en charge de la dépendance, toutes les spécialités.
+
+**Module 12 : Télémédecine**
+
+- IA qui contribue à améliorer l’interaction à distance entre le patient et le médecin.
+- Implications en santé/spécialités : toutes les spécialités.
+
+**Module 13 : Médecine personnalisée**
+
+- Comment l’IA peut aider les médecins à choisir le meilleur traitement et la meilleure surveillance pour un patient donnée.
+- Implications en santé/spécialités : toutes les spécialités.
+
+**Module 14 : Organisation médicale**
+
+- Comment l’IA peut aider l’organisation sanitaire (gestion hospitalière des lits, des flux de patients…)
+- Implications en santé/spécialités : gestion hospitalière
+
+**Module 15 : Formation médicale**
+
+- Outils d’IA pour améliorer la formation médicale ; formation des futures médecins aux outils à base d’IA.
+- Implications en santé/spécialités : toutes les spécialités.
 
 # 5. **Certificat de spécialisation IA en Santé**
 

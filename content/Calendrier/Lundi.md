@@ -9,7 +9,7 @@
 	
 	Qu'est ce que t'en penses ?
 	
-	Pour la thèse (je t'ai joint le pdf si ça t'intéresse de regarder ) qui m'intéresse la limite de candidature est le 31 aout donc je vais prendre deux semaines pour faire un projet de deep learning pour le traitement d'images CT de mammographie (les données sur lesquels le doctorant est sensé travailler pour la thèse).  J'enverrais ensuite un mail précisant bien que j'ai une expérience en tant qu'ingénieur en    Tu penses que c'est une bonne stratégie ? 
+	Pour la thèse (je t'ai joint le pdf si ça t'intéresse de regarder ) qui m'intéresse la limite de candidature est le 31 aout donc je vais prendre deux semaines pour faire un projet de deep learning pour le traitement d'images CT de mammographie (les données sur lesquels le doctorant est sensé travailler pour la thèse).  J'enverrais ensuite un mail précisant bien que j'ai une expérience en tant qu'ingénieur en développement d'un système d'imagerie multimodale.  Tu penses que c'est une bonne stratégie ? 
 	
 	
 - [x] TGV MAX ANNAEL ✅ 2026-06-01

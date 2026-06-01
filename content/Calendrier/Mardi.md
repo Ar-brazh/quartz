@@ -1,8 +1,9 @@
-Réparer portable
-Verifier contact France Travail demande ARE
-[[Test Iso]]  15h
-Compte rendu test iso a Chloé 
-Dernières candidatures / formations
-Finalisation dossier ARE
-Plus de rensignements sur formations
-Envoi de messages 
+- [ ] Réparer portable
+- [ ] Verifier contact France Travail demande ARE
+- [ ] [[Test Iso]]  15h
+- [ ] Compte rendu test iso a Chloé 
+- [ ] Dernières candidatures / formations
+- [ ] Observer un peu plus thèse et envoyé potentiellement candidature 
+- [ ] Finalisation dossier ARE
+- [ ] Plus de rensignements sur formations
+- [ ] Envoi de messages 

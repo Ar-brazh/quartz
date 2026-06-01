@@ -17,8 +17,6 @@
     
 - **Deadline / candidature :** Candidatures M2 
     
-- **Avis :** Très bon si tu veux aller vers les **données de santé, entrepôts hospitaliers, SNDS, IA, NLP, biostatistiques**. Moins orienté imagerie, plus data santé.
-    
 
 ### 2. **Cycle ingénieur IA & Données de Santé**
 

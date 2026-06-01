@@ -11,6 +11,7 @@ Constat :
 - Genou plus sec que en février mais quand même gonflé quelques jours après exercice 
 - Gonflé facilement avec mauvais sommeil ou prise d'alcool également 
 - Parfois gonflement provoque bloquage de la jambe surtout difficile de passer de tendu à détendu 
+- Grosseur au niveau du tendon en dessous du genou
 - Test de la vague positif Vendredi
 - Prise d'anti-inflammatoires quelques jiurs mzis arrêt czr douleur estomac même si je prenais Omeprazole 
 - passage à crèmes anti-inflammatoire depuis 2 semaines peu de changement pour l'instant 

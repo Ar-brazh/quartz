@@ -4,6 +4,7 @@
 	- [x] Faire MOOC ✅ 2026-05-27
 	- [x] Refaire capture d'écran pour inclure la date sur les mails ✅ 2026-05-28
 	- [ ] Formation machine learning et deep learning open clasrooms
+	- [ ] Capture d'ecran rdv demande rensignement FT
 
 - [ ]  Métier idéal et formation complémentaire : ⏫  📅 2026-06-02 
 

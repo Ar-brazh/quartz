@@ -6,5 +6,7 @@
 - [x] acheter fleur pour maman ✅ 2026-06-01
 - [ ] Plus de renseignements sur formations
 - [ ] Envoyé message et mails à contacts sélectionnés 
+
 - [ ] Ranger appart
+- [ ] TESTER REVEIL
 - [ ] PRÉPARER TOUT CE QU'IL FAUT POUR TEST ISO

@@ -57,7 +57,7 @@
     
 - **Intégration bac+4 :** Oui, formation continue
     
-- **Prix indicatif :** Frais de dossier **300 €** ; frais de formation à vérifier sur fiche PDF complète
+- **Prix indicatif :** Frais de dossier **300 €**  + **1932 €**
     
 - **Deadline / candidature :** **16 septembre – 30 octobre 2026**, début **7 janvier 2027**
     

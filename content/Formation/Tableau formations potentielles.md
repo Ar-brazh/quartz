@@ -1,6 +1,11 @@
 
 
-### 1. **Master Santé publique – Méthodes et outils pour les données des entrepôts en santé**
+### 1. **Master Santé publique de Paris cité
+
+- **M2 Méthodes et Outils pour les Données des Entrepôts en Santé**
+- **M2 Informatique biomédicale**
+- **M2 Machine Learning pour la Science des Données**
+- **M2 Statistique, modélisation et sciences des données en santé**
 
 - **Établissement :** Université Paris Cité
     

@@ -12,3 +12,4 @@ Spécialisé pour entreprises :
 
 - Mentionner ce qui m'interesse dans les missions proposés
 - Etablir plan de mon apport en fonction des axes de travail de l'entreprise et de leurs besoins.
+Revoir dossier de compétences pour adapter les champs de compétences

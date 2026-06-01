@@ -3,7 +3,7 @@
 - [ ] Message Killian pour demander avis sur plan d'attaque
 - [ ] Réparer portable
 - [x] TGV MAX ANNAEL ✅ 2026-06-01
-- [ ] RDV COIFFEUR
+- [x] RDV COIFFEUR ✅ 2026-06-01
 - [ ] acheter fleur pour maman
 - [ ] Plus de renseignements sur formations
 - [ ] Envoyé message et mails à contacts sélectionnés 

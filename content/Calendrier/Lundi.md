@@ -9,7 +9,9 @@
 	
 	Qu'est ce que t'en penses ?
 	
-	Pour la thèse (je t'ai joint le pdf si ça t'interesse de regarder ) qui m'interesse la limite de candidature est le 31 aout donc je vais prendre deux semaines pour faire un projet de deep learning pour le traitement d'images CT de mammographie (les données sur lesquels je travaillerais pour cette thèse )
+	Pour la thèse (je t'ai joint le pdf si ça t'intéresse de regarder ) qui m'intéresse la limite de candidature est le 31 aout donc je vais prendre deux semaines pour faire un projet de deep learning pour le traitement d'images CT de mammographie (les données sur lesquels le doctorant est sensé travailler pour la thèse).  J'envTu penses que c'est une bonne stratégie ? 
+	
+	
 - [x] TGV MAX ANNAEL ✅ 2026-06-01
 - [x] RDV COIFFEUR ✅ 2026-06-01
 - [x] acheter fleur pour maman ✅ 2026-06-01

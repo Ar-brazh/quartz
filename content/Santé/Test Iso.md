@@ -25,7 +25,8 @@ Depuis je vois kiné tout les mois pour compte rendue et établissement de routi
 	- 2 semaine : 5* Quadriceps 3* M-I-F
 	- 1 semaine : 2* Quadriceps 2* Ischios 1 * mollet  1* fessier
 
-Je co
+Je cours aussi parfois de 15 à 30 minutes
+
 Constat : 
 - Genou plus sec que en février mais quand même gonflé quelques jours après exercice 
 - Gonflé facilement avec mauvais sommeil ou prise d'alcool également 

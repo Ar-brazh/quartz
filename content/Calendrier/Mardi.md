@@ -1,5 +1,6 @@
 - [ ] Réparer portable
 - [ ] Verifier contact France Travail demande ARE
+- [ ] Projet pytorch mammo
 - [ ] [[Test Iso]]  15h
 - [ ] Compte rendu test iso a Chloé 
 - [ ] Dernières candidatures / formations

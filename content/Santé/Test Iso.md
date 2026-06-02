@@ -5,7 +5,7 @@ Mais également quadriceps pas assez développé
 
 Depuis je vois kiné tout les mois pour compte rendue et établissement de routines +  routine et exercice plusieurs fois par semaine : 
 
-- du 23 février au 20 Avril : 3-4 fois par semaine quadriceps 6kg jusqu'a epuisement ou echec, exercices variés ( chaise une jambe 1min à 1min30, pistol squat sur chaise, )
+- du 23 février au 20 Avril : 3-4 fois par semaine quadriceps 6kg jusqu'a epuisement ou echec, exercices variés ( chaise une jambe 1min à 1min30, pistol squat sur chaise, Equilibre une jambe avec desiquilibre, fentes, squat)
 - De 20 avril à Aujourd'hui programme définit : 
 	- 
 

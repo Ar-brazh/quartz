@@ -7,8 +7,10 @@ Depuis je vois kiné tout les mois pour compte rendue et établissement de routi
 
 - du 23 février au 20 Avril : 3-4 fois par semaine quadriceps 6kg jusqu'a epuisement ou echec, exercices variés ( chaise une jambe 1min à 1min30, pistol squat sur chaise, Equilibre une jambe avec desiquilibre, fentes, squat)  2 fois par semaine Fessiers 1 à 2 fois par semaine mollet et ischio
 
-- De 20 avril à Aujourd'hui programme définit : 
-	- 4 fois par semaine quadriceps 
+- De 20 avril à Aujourd'hui programme définit : (6 semaines)
+	- Exo q
+	- 3 * 4 fois par semaine Quadriceps 
+	- quadriceps (semaine derniere 3 et semaine 15-21 5 fois ) 
 
 Constat : 
 - Genou plus sec que en février mais quand même gonflé quelques jours après exercice 

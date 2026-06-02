@@ -20,18 +20,18 @@
 - [x] Dragets à la menthe ✅ 2026-06-02
 - [x] Brosse à dents ✅ 2026-06-02
 - [x] Dentifirce ✅ 2026-06-02
-- [ ] Mouchoirs
-- [ ] Ecouteurs
-- [ ] produit pour lentilles
+- [x] Mouchoirs ✅ 2026-06-02
+- [x] Ecouteurs ✅ 2026-06-02
+- [x] produit pour lentilles ✅ 2026-06-02
 - [x] bouteille d'eau
 - [x] Maillot de bain
-- [ ] Creme solaire
+- [x] Creme solaire ✅ 2026-06-02
 - [x] Elsatique
 - [x] Sac de couchage
-- [ ] Chargeur
-- [ ] ecouteurs filaires
-- [ ] Poche de glace
-- [ ] Arnigel
+- [x] Chargeur ✅ 2026-06-02
+- [x] ecouteurs filaires ✅ 2026-06-02
+- [x] Poche de glace ✅ 2026-06-02
+- [x] Arnigel ✅ 2026-06-02
 - [x] Creme hydratante
 - [ ] Gel hydroalcoolique
 - [x] Love letters
@@ -55,12 +55,12 @@
 - [x] Bandage
 - [x] Bequille
 - [x] Glace
-- [ ] antidouleur
+- [x] antidouleur ✅ 2026-06-02
 - [x] Ecocup
 - [x] matelas
-- [ ] cigarettes
+- [x] cigarettes ✅ 2026-06-02
 - [x] briquette
-- [ ] drap
+- [x] drap ✅ 2026-06-02
 - [ ] clé maison
 - [x] jeux de société
 - [x] Frigo trucs qui vont périmé

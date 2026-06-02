@@ -23,10 +23,7 @@ Tu fais un projet propre, pas trop ambitieux :
 Un papier récent utilise justement VinDr-Mammo pour classifier la densité mammaire en binaire **low A/B vs high C/D**, ce qui valide que ce choix est pertinent et compréhensible pour un recruteur ou encadrant.
 
 ## Structure GitHub conseillée
-
-```
 vindr-mammo-density-classification/├── README.md├── requirements.txt├── configs/│   └── resnet18_density.yaml├── notebooks/│   └── 01_dataset_exploration.ipynb├── src/│   ├── dataset.py│   ├── preprocessing.py│   ├── model.py│   ├── train.py│   ├── evaluate.py│   └── utils.py├── reports/│   ├── confusion_matrix.png│   └── results.md└── .gitignore
-```
 
 Dans le README, mets clairement :
 

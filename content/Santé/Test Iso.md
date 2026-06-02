@@ -1,23 +1,24 @@
 
-Test précédent pas fait car : douleur au genou 23 Février Mais également quadriceps pas assez développé 
+Test précédent pas fait car : douleur au genou 23 Février, Mais également quadriceps pas assez développé 
 
 Depuis je vois kiné tout les mois pour compte rendue et établissement de routines +  routine et exercice plusieurs fois par semaine : 
 
 - du 23 février au 20 Avril : 
-- 3-4 fois par semaine quadriceps 6kg jusqu'a epuisement ou echec, exercices variés ( chaise une jambe 1min à 1min30, pistol squat sur chaise, Equilibre une jambe avec desiquilibre, fentes, squat) 
-- 2 fois par semaine Fessiers 
-- 1 à 2 fois par semaine mollet et ischio
+	- 3-4 fois par semaine quadriceps 6kg jusqu'a epuisement ou echec, exercices variés ( chaise une jambe 1min à 1min30, pistol squat sur chaise, Equilibre une jambe avec desiquilibre, fentes, squat) 
+	- 2 fois par semaine Fessiers 
+	- 1 à 2 fois par semaine mollet et ischio
 
 - De 20 avril à Aujourd'hui programme fixe : (6 semaines)
 	- Exo quadriceps poids 8 kg :
 		- 3 * Chaise une jambe 1 minute
 		- 3 * 10 pistol squat chaise 
-		- 2 *  1 minute d'equilibre 
-		- 3 * 10 squates sautés ou fentes statiques ou dynamiques ou 1 de chaque en plus des nommés 
+		- 2 *  1 minute d'équilibre 
+		- 3 * 10 squats sautés ou fentes statiques ou dynamiques ou 1 de chaque en plus des nommés 
 		- depuis 3 semaines : Etirements 
 	- Mollet : 2 * 20 montées sur pointe des pieds 
-	- Ischio : 2 * 15 montées de bassin avec jambe sureleve 
-	- 
+	- Ischio : 2 * 15 montées de bassin avec jambes surélevés 
+	- Fessier : 3 * Aller-retour crabe élastique + 2 *  20 élastique sur les chevilles et écartements des jambes 
+		
 
 
 	- 3 semaine:  4* Quadriceps 2* M-I-F

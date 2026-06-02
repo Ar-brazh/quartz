@@ -1,25 +1,25 @@
 ****
 
 - [ ] Porte monnaie
-- [ ] Serviettes
-- [ ] Savon
-- [ ] parfum
-- [ ] enceinte
-- [ ] Cidre
+- [x] Serviettes ✅ 2026-06-02
+- [x] Savon ✅ 2026-06-02
+- [x] parfum ✅ 2026-06-02
+- [x] enceinte ✅ 2026-06-02
+- [x] Cidre ✅ 2026-06-02
 - [x] Sandwich
-- [ ] Batterie portable
-- [ ] Chqrgeur batterie
+- [x] Batterie portable ✅ 2026-06-02
+- [x] Chqrgeur batterie ✅ 2026-06-02
 - [ ] lunettes
 - [ ] lentille
-- [ ] casque
+- [x] casque ✅ 2026-06-02
 - [ ] Ordi chargeur siuris
 - [x] Livre
 - [x] mots croise
-- [ ] carnet
-- [ ] crayons
-- [ ] Dragets à la menthe
-- [ ] Brosse à dents
-- [ ] Dentifirce
+- [x] carnet ✅ 2026-06-02
+- [x] crayons ✅ 2026-06-02
+- [x] Dragets à la menthe ✅ 2026-06-02
+- [x] Brosse à dents ✅ 2026-06-02
+- [x] Dentifirce ✅ 2026-06-02
 - [ ] Mouchoirs
 - [ ] Ecouteurs
 - [ ] produit pour lentilles

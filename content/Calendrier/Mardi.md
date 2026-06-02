@@ -1,6 +1,6 @@
 
 - [x] Verifier contact France Travail demande ARE ✅ 2026-06-02
-- [ ] Projet pytorch mammo
+- [ ] Projet pytorch mammo 🏁 
 - [ ] Dernières candidatures / formations
 - [ ] Observer un peu plus thèse et envoyé potentiellement candidature 
 - [ ] Finalisation dossier ARE

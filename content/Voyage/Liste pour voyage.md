@@ -1,6 +1,6 @@
 ****
 
-- [ ] Porte monnaie
+- [x] Porte monnaie ✅ 2026-06-02
 - [x] Serviettes ✅ 2026-06-02
 - [x] Savon ✅ 2026-06-02
 - [x] parfum ✅ 2026-06-02
@@ -23,7 +23,7 @@
 - [x] Mouchoirs ✅ 2026-06-02
 - [x] Ecouteurs ✅ 2026-06-02
 - [x] produit pour lentilles ✅ 2026-06-02
-- [x] bouteille d'eau
+- [ ] bouteille d'eau
 - [x] Maillot de bain
 - [x] Creme solaire ✅ 2026-06-02
 - [x] Elsatique
@@ -69,10 +69,10 @@
 - [x] Rasoir
 - [x] Mousse à raser
 - [x] sacoche
-- [x] à ma'ger
+- [ ] à ma'ger
 - [x] glacière
-- [x] à boire
+- [ ] à boire
 - [x] affaires de sport ✅ 2026-05-29
-- [x] chaussures de <u>sport</u> ✅ 2026-05-29
+- [ ] chaussures de <u>sport</u>
 - [x] chuassure rando
 - [x] Truc en bois qui tiens téléphone

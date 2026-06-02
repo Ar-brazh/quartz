@@ -1,5 +1,5 @@
-- [ ] Réparer portable
-- [ ] Verifier contact France Travail demande ARE
+
+- [x] Verifier contact France Travail demande ARE ✅ 2026-06-02
 - [ ] Projet pytorch mammo
 - [ ] [[Test Iso]]  15h
 - [ ] Compte rendu test iso a Chloé 

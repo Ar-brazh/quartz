@@ -1,2 +1,4 @@
-Envoi Dossier ARE 
-Plus de rensignements sur formations
+- [ ] Réparer portable
+- [ ] Envoi Dossier ARE 
+- [ ] Plus de rensignements sur formations
+- [ ] Nettoyer ordi

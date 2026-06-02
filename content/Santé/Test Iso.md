@@ -14,8 +14,8 @@ Depuis je vois kiné tout les mois pour compte rendue et établissement de routi
 		- 2 *  1 minute d'equilibre 
 		- 3 * 10 squates sautés ou fentes statiques ou dynamiques ou 1 de chaque en plus des nommés 
 	- 3 semaine:  4* Quadriceps 2* M-I-F
-	- 2 semaine : 5* Quadriceps 3*
-	- 1 semaine : 2* Quadriceps 2* Ischios 1 * mollet 
+	- 2 semaine : 5* Quadriceps 3* M-I-F
+	- 1 semaine : 2* Quadriceps 2* Ischios 1 * mollet  1* fessier
 
 Constat : 
 - Genou plus sec que en février mais quand même gonflé quelques jours après exercice 

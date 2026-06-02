@@ -2,7 +2,7 @@
 - [ ] Nettoyer ordi
 
 - [ ] Projet pytorch mammo 🏁 
-- [ ] Dernières candidatures / formations
+- [ ] Candiatures/Formations
 - [ ] Observer un peu plus thèse et envoyé potentiellement candidature 
 - [ ] Finalisation dossier ARE
 - [ ] Plus de renseignements sur formations

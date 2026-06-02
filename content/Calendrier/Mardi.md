@@ -4,7 +4,7 @@
 - [ ] Dernières candidatures / formations
 - [ ] Observer un peu plus thèse et envoyé potentiellement candidature 
 - [ ] Finalisation dossier ARE
-- [ ] Plus de rensignements sur formations
+- [ ] Plus de renseignements sur formations
 - [ ] Envoi de messages 
 
 - [ ] [[Test Iso]]  15h

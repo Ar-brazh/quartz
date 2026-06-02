@@ -12,9 +12,9 @@ Depuis je vois kiné tout les mois pour compte rendue et établissement de routi
 		- 3 * Chaise une jambe 1 minute
 		- 3 * 10 pistol squat chaise 
 		- 2 *  1 minute d'equilibre 
-		- 
-	- 3 semaine:  4* Quadriceps 
-	- 2 semaine : 5* Quadriceps
+		- 3 * 10 squates sautés ou fentes statiques ou dynamiques ou 1 de chaque en plus des nommés 
+	- 3 semaine:  4* Quadriceps 2* M-I-F
+	- 2 semaine : 5* Quadriceps 3*
 	- 1 semaine : 2* Quadriceps 2* Ischios 1 * mollet 
 
 Constat : 

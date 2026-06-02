@@ -1308,3 +1308,4 @@
 "event_logs:sources:modified": {"key":"sources:modified","ct":13310,"first_at":1779830227520,"last_at":1780398834749,"class_name":"EventLog","event_sources":{"obsidian:vault.modify":2023,"obsidian:workspace.editor-change":11287}},
 "event_logs:sources:modified": {"key":"sources:modified","ct":13311,"first_at":1779830227520,"last_at":1780398835758,"class_name":"EventLog","event_sources":{"obsidian:vault.modify":2023,"obsidian:workspace.editor-change":11288}},
 "event_logs:sources:modified": {"key":"sources:modified","ct":13312,"first_at":1779830227520,"last_at":1780398837768,"class_name":"EventLog","event_sources":{"obsidian:vault.modify":2024,"obsidian:workspace.editor-change":11288}},
+"event_logs:sources:modified": {"key":"sources:modified","ct":13314,"first_at":1779830227520,"last_at":1780416401958,"class_name":"EventLog","event_sources":{"obsidian:vault.modify":2025,"obsidian:workspace.editor-change":11289}},

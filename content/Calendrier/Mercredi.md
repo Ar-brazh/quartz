@@ -6,6 +6,7 @@
 	- [ ] Compte rendu test iso envoyé a Chloé 
 
 - [ ] Projet pytorch mammo 🏁 
+	- [ ] Github i
 - [ ] Formation Kaggle
 - [ ] Continuer de lister formations IA (prix, deadline candidature, temps, BAC+4)
 

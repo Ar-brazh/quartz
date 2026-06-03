@@ -2,11 +2,11 @@
 - [ ] Nettoyer ordi
 
 - [ ] Projet pytorch mammo 🏁 
-- [ ] Candiatures/Formations
-- [ ] Observer un peu plus thèse et envoyé potentiellement candidature 
+- [ ] Candidatures thèse, ingénieur 
 - [ ] Finalisation dossier ARE
 - [ ] Plus de renseignements sur formations
 - [ ] Envoi de messages 
+- [ ] Décision Forum 1er Emploi
 
 - [ ] Compte rendu test iso a Chloé 
 

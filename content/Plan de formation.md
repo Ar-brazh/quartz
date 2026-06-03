@@ -1,2 +1,6 @@
 
-me former sur kaggle, bourrer mon github de projets, rajouter ça sur mon CV et postuler en même temps, et si je galère trop je passerais une certif ou 6 mois de cours dans un master data science
+Me former sur kaggle
+Bourrer mon github de projets
+Rajouter ça sur mon CV
+Postuler en même temps
+Si je galère trop -> certif ou 6 mois de cours dans un master data science

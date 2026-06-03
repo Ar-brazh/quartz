@@ -1,5 +1,6 @@
 - [ ] Réparer portable
 - [ ] Nettoyer ordi
+- [ ] Transfert Données OneDrive sur disque dur 1TO
 
 - [ ] Projet pytorch mammo 🏁 
 - [ ] Formation Kaggle

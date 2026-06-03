@@ -1,7 +1,7 @@
 - [x] Réparer portable ✅ 2026-06-03
 - [ ] Nettoyer ordi
-- [ ] Transfert Données OneDrive sur disque dur 1TO
-	- [ ] Checker mail quand Espace Microsoft cloud plus saturé
+- [x] Transfert Données OneDrive sur disque dur 1TO ✅ 2026-06-03
+	- [x] Checker mail quand Espace Microsoft cloud plus saturé ✅ 2026-06-03
 	- [ ] Noter compte rendue TEST ISO
 	- [ ] Compte rendu test iso envoyé a Chloé 
 

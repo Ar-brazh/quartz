@@ -2,7 +2,7 @@
 2. [ ] [[Formation IA chômage ]]  📅 2026-06-02 ⏫ 
 3. [ ] Rdv psychiatre⏫ 
 4. [ ] Permis de conduire ⏫ 
-5. [ ] [[Programme routine code/IA]] ⏫ 
+5. [x] [[Programme routine code/IA]] ⏫ ✅ 2026-06-03
 6. [ ]  [[Site web - Notes]] 🔽 
 7. [ ] [[Relancer groupes vacances]] 🔼
 8. [ ] [[Gérer données ordi téléphone]] 🔽 

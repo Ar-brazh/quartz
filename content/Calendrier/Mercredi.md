@@ -7,7 +7,7 @@
 
 - [ ] Candidatures thèse, ingénieur 
 - [ ] Finalisation dossier ARE
-- 
+- [ ] Suivre Discussions France Travail
 - [ ] Décision Forum 1er Emploi
 
 - [ ] Compte rendu test iso a Chloé 

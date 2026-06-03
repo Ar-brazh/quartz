@@ -3,7 +3,6 @@
 - [ ] Projet pytorch mammo 🏁 
 - [ ] Dernières candidatures / formations
 - [ ] Observer un peu plus thèse et envoyé potentiellement candidature 
-- [ ] Finalisation dossier ARE
 - [ ] Plus de renseignements sur formations
 - [ ] Envoi de messages 
 

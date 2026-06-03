@@ -1,6 +1,9 @@
 - [ ] Réparer portable
 - [ ] Nettoyer ordi
 - [ ] Transfert Données OneDrive sur disque dur 1TO
+	- [ ] Checker mail quand Espace Microsoft cloud plus saturé
+	- [ ] Noter compte rendue ISO
+	- [ ] Compte rendu test iso a Chloé 
 
 - [ ] Projet pytorch mammo 🏁 
 - [ ] Formation Kaggle
@@ -11,5 +14,5 @@
 - [ ] Suivre Discussions France Travail
 - [ ] Décision Forum 1er Emploi
 
-- [ ] Compte rendu test iso a Chloé 
+- [ ]
 

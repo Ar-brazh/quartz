@@ -13,7 +13,7 @@
 - [ ] Continuer de lister formations IA (prix, deadline candidature, temps, BAC+4)
 
 - [ ] Candidatures thèse, ingénieur 
-- [ ] Ajout tout les liens de sites carrières pertinents dans favoris Jobs
+- [x] Ajout  liens de sites carrières pertinents dans favoris Jobs ✅ 2026-06-03
 - [ ] Finalisation dossier ARE
 - [ ] Suivre Discussions France Travail
 - [ ] Appeler UTC pour relevé de notes

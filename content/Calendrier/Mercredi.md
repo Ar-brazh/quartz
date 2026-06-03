@@ -15,6 +15,7 @@
 - [ ] Candidatures thèse, ingénieur 
 - [ ] Finalisation dossier ARE
 - [ ] Suivre Discussions France Travail
+- [ ] Appeler UTC pour relevé de notes
 - [ ] Décision Forum 1er Emploi
 
 

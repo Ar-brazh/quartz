@@ -8,7 +8,6 @@
 - [ ] Plus de renseignements sur formations
 - [ ] Envoi de messages 
 
-- [ ] [[Test Iso]]  15h
 - [ ] Compte rendu test iso a Chloé 
 
 - [ ] Suivre Discussions France Travail

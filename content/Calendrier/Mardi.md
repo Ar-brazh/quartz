@@ -7,8 +7,7 @@
 - [ ] Plus de renseignements sur formations
 - [ ] Envoi de messages 
 
-- [ ] [[Test Iso]]  15h
-- [ ] Compte rendu test iso a Chloé 
+- [x] [[Test Iso]]  15h ✅ 2026-06-03
 
 - [ ] Suivre Discussions France Travail
 

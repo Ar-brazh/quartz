@@ -33,24 +33,7 @@
 - **Avis :** Très intéressant si tu veux l’alternance. Mais comme tu as déjà un diplôme d’ingénieur, à évaluer : utile si tu veux un vrai repositionnement IA / data santé en entreprise.
     
 
-# 3. **MBA Santé, expertises IA & IoT**
 
-- **Établissement :** Epitech, Paris possible
-    
-- **Format :** 2 ans, classique ou alternance
-    
-- **Intégration bac+4 :** Oui, admission post bac+3 / bac+4
-    
-- **Prix indicatif :**
-    
-    - Alternance : **0 €**
-        
-    - Initial : **990 € + 9 960 €** ou 12 × 852,50 €
-        
-- **Deadline / candidature :** Rentrée octobre ou février selon cas ; candidature en ligne, deadline non clairement publiée
-    
-- **Avis :** Bon choix professionnalisant si tu veux une alternance en **santé numérique / IA / IoT**, mais moins académique / recherche qu’un master public.
-    
 
 # 4. **DU Intelligence artificielle appliquée en santé**
 

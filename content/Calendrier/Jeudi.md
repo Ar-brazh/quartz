@@ -3,6 +3,7 @@
 	- [ ] Questions
 	- [ ] Tableau prix et type de formation
 - [ ] Projet pytorch mammo 🏁 
+- [ ] CV modifié avec ajout du projet 
 
 - [ ] 11h45  coiffeur
 

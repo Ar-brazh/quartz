@@ -8,6 +8,7 @@
 - [ ] Projet pytorch mammo 🏁 
 	- [ ] Github initialisé 
 	- [ ] CV modifié avec ajout du projet 
+- [ ] Updater repository GUI_colored_pixels
 - [ ] Formation Kaggle
 - [ ] Continuer de lister formations IA (prix, deadline candidature, temps, BAC+4)
 

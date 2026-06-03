@@ -13,7 +13,7 @@
     
 - **Intégration bac+4 :** Oui, M2 après bac+4
     
-- **Prix indicatif :** Mail envoyé pour renseignement 
+- **Prix indicatif :** 
     
 - **Deadline / candidature :** Candidatures M2 
     

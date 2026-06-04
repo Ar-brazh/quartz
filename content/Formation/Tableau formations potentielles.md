@@ -39,26 +39,25 @@ Vous explorerez également l’univers des **LLM et des systèmes RAG**, en app
 - 
 - 4 mois 
 - 2 360 €
-# 2. Bootcamp Openclassrooms  Déployez vos modèles de Machine Learning
+# 2. Bootcamp Openclassrooms  Construisez, entraînez et déployez vos modèles d’intelligence artificielle 
 
-Vous souhaitez aller au-delà de l’entraînement de modèles et apprendre à les **déployer, surveiller et optimiser en production** ? Ce bootcamp intensif vous plonge au cœur du **MLOps et des applications de l’IA moderne**, avec un parcours structuré autour de projets concrets et professionnalisants.
+Vous êtes passionné par les données et leur potentiel ? Ce bootcamp intensif est fait pour vous ! À travers 4 projets concrets, vous serez plongé dans l’univers du **machine learning supervisé et non supervisé**, du **traitement d’images** et du **déploiement de systèmes intelligents**.
 
-Vous apprendrez à gérer le **cycle de vie complet d’un modèle de machine learning**, de l’entraînement initial jusqu’au suivi en production. Vous serez initié aux bonnes pratiques du **monitoring**, de l’**automatisation des pipelines** et du **déploiement via API**.  
-Vous explorerez également l’univers des **LLM et des systèmes RAG**, en apprenant à évaluer leurs performances et à structurer des pipelines reproductibles. Enfin, vous consoliderez vos acquis en construisant un **moteur de recommandations** appliqué à l’agriculture de précision, intégrant des pipelines MLOps et des outils modernes comme **MLflow** et **CI/CD**.
+Vous apprendrez à construire vos premiers modèles prédictifs, à classer automatiquement des données complexes, à exploiter des approches avancées comme le **semi-supervisé en vision par ordinateur**, et à concevoir un système **RAG (Retrieval-Augmented Generation)** basé sur des modèles de langage de pointe tels que **Mistral** orchestrés avec **LangChain**.
+
+Cette formation complète vous permettra de développer une vision globale des techniques modernes de la data science et du MLOps, en allant de la préparation des données au déploiement de modèles en production.
 
 **Ce que vous apprendrez :**
 
-- **La gestion du cycle de vie d’un modèle ML**, de l’entraînement au suivi en production ;
+- **La préparation et le nettoyage des données** pour entraîner vos modèles ;
     
-- **Le déploiement et le monitoring** d’un modèle via API et sur le cloud ;
+- **L’implémentation d’algorithmes supervisés** (régression, classification) et **non supervisés** (clustering, PCA) ;
     
-- **L’évaluation de systèmes RAG et de LLM**, avec les bonnes pratiques de validation et de test ;
+- **L’analyse d’images** avec des **modèles pré-entraînés** et des **approches semi-supervisées** ;
     
-- **La conception d’un moteur de recommandation** multi-sources, appliqué à un cas métier concret ;
-    
-- **L’utilisation d’outils incontournables** comme MLflow et CI/CD pour automatiser et fiabiliser vos workflows
+- **Le développement d’un chatbot intelligent** avec un **système RAG**, **LangChain** et **Mistral.**
 - 
-- 4 mois 
+- 3 mois
 - 2 360 €
 # 5. **Certificat de spécialisation IA en Santé**
 

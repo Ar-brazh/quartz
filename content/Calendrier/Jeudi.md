@@ -9,12 +9,15 @@
 - [ ] Projet pytorch mammo 🏁 
 - [ ] CV modifié avec ajout du projet 
 - [ ] Candidatures thèse, ingénieur 
-- [ ] Finalisation dossier ARE ⏫ 
+- [x] Finalisation dossier ARE ⏫ ✅ 2026-06-04
 - [x] Suivre Discussions France Travail ✅ 2026-06-04
 - [ ] Appeler UTC pour relevé de notes
 - [ ] Décision Forum 1er Emploi
 
-- [ ] 11h45  coiffeur
+- [x] 11h45  coiffeur ✅ 2026-06-04
+
+- [ ] Ramener Vignette 
+- [ ] Orga dependance pour papa maman dodo dimanche soir 
 
 - [ ] Checker si mail pour compte rendue test iso
 - [ ] Noter compte rendue TEST ISO

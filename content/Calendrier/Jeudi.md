@@ -1,13 +1,13 @@
 
-- [ ] Préparer rdv France Travail Vendredi 9
+- [ ] Préparer rdv France Travail Vendredi 9 ⏫ 
 	- [ ] Questions
 	- [ ] Tableau prix et type de formation
 
 - [ ] Projet pytorch mammo 🏁 
 - [ ] CV modifié avec ajout du projet 
 - [ ] Candidatures thèse, ingénieur 
-- [ ] Finalisation dossier ARE
-- [ ] Suivre Discussions France Travail
+- [ ] Finalisation dossier ARE ⏫ 
+- [x] Suivre Discussions France Travail ✅ 2026-06-04
 - [ ] Appeler UTC pour relevé de notes
 - [ ] Décision Forum 1er Emploi
 

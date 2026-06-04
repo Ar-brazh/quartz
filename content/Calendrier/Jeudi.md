@@ -18,7 +18,7 @@
 
 - [x] 11h45  coiffeur ✅ 2026-06-04
 
-- [ ] Ramener Vignette 
+- [x] Ramener Vignette ✅ 2026-06-04
 - [ ] Orga dependance pour papa maman dodo dimanche soir 
 - [ ] Voir comment aller à soirée Eno
 

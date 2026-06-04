@@ -13,7 +13,7 @@
 - [ ] Candidatures thèse, ingénieur 
 - [x] Finalisation dossier ARE ⏫ ✅ 2026-06-04
 - [x] Suivre Discussions France Travail ✅ 2026-06-04
-- [ ] Appeler UTC pour relevé de notes
+- [x] Appeler UTC pour relevé de notes ✅ 2026-06-04
 - [ ] Décision Forum 1er Emploi
 
 - [x] 11h45  coiffeur ✅ 2026-06-04

@@ -28,7 +28,7 @@
 - Date de candidature : **10 au 23 juin 2026**
 - Période des entretiens : **29 juin au 10 juillet 2026**
 - Publication des résultats à partir du **mercredi 22 juillet 2026**
-- 
+- **Frais de formation** : 4 775 euros
 # 2. Bootcamp Openclassrooms  Déployez vos modèles de Machine Learning
 
 Vous souhaitez aller au-delà de l’entraînement de modèles et apprendre à les **déployer, surveiller et optimiser en production** ? Ce bootcamp intensif vous plonge au cœur du **MLOps et des applications de l’IA moderne**, avec un parcours structuré autour de projets concrets et professionnalisants.

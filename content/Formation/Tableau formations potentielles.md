@@ -39,7 +39,7 @@ Vous explorerez également l’univers des **LLM et des systèmes RAG**, en app
 - 
 - 4 mois 
 - 2 360 €
-5. **Certificat de spécialisation IA en Santé**
+# 5. **Certificat de spécialisation IA en Santé**
 
 - **Établissement :** Cnam Paris
     

@@ -1,6 +1,7 @@
 
 - [ ] Préparer rdv France Travail Vendredi 9 ⏫ 
 	- [ ] Questions
+		- [ ] 
 	- [ ] Tableau prix et type de formation
 
 - [ ] Projet pytorch mammo 🏁 

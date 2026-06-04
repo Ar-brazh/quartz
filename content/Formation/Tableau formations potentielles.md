@@ -58,7 +58,7 @@ Cette formation complète vous permettra de développer une vision globale des t
 - **Le développement d’un chatbot intelligent** avec un **système RAG**, **LangChain** et **Mistral.**
 - 
 - 3 mois
-- 2 360 €
+- 1650 €
 # 5. **Certificat de spécialisation IA en Santé**
 
 - **Établissement :** Cnam Paris

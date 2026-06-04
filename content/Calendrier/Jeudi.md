@@ -1,6 +1,6 @@
 
-- [ ] Préparer rdv France Travail Vendredi 9 ⏫ 
-	- [ ] Questions
+- [x] Préparer rdv France Travail Vendredi 9 ⏫ ✅ 2026-06-04
+	- [x] Questions ✅ 2026-06-04
 		- [ ] Financement de toute formation ou juste une partie 
 		- [ ] Quand est ce que le financement doit etre transmis ? D'abord inscription ? 
 		- [ ] Si je trouve un job avant rentrée est ce que je peux annuler ? 

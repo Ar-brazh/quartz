@@ -20,9 +20,11 @@
 
 - [ ] Ramener Vignette 
 - [ ] Orga dependance pour papa maman dodo dimanche soir 
+- [ ] Voir comment aller à soirée Eno
 
 - [ ] Checker si mail pour compte rendue test iso
 - [ ] Noter compte rendue TEST ISO
 - [ ] Compte rendu test iso envoyé a Chloé 
 
 - [ ] Nettoyer ordi
+- [ ] 

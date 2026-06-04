@@ -1,6 +1,7 @@
 
 - [ ] RDV 9h FT 
-Projet 
+Projet :
+- Projet IA en cours finis semaine prochaine -> Candidatures a these et postes d'ingenieurs deja 14-15-15 
  Questions
 - [ ] Financement de toute formation ou juste une partie 
 - [ ] Quand est ce que le financement doit être transmis ? D'abord inscription ? 

@@ -3,6 +3,7 @@
  Questions
 - [ ] Financement de toute formation ou juste une partie 
 - [ ] Quand est ce que le financement doit etre transmis ? D'abord inscription ? 
+- [ ] Plusieurs candiadt
 - [ ] Si je trouve un job avant rentrée est ce que je peux annuler ? 
 - [ ] Formation à Paris ok ? 
 - [ ] Conseil sur le type de formation 

@@ -1,5 +1,6 @@
 
 - [ ] RDV 9h FT 
+Projet 
  Questions
 - [ ] Financement de toute formation ou juste une partie 
 - [ ] Quand est ce que le financement doit être transmis ? D'abord inscription ? 

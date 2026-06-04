@@ -24,7 +24,7 @@
 - Un Projet IA a lieu de début novembre à fin janvier (3 mois) dans un laboratoire de l’ENS Paris Saclay. Pour les normaliens, ce projet doit impérativement se dérouler dans un laboratoire ne relevant pas de leur Département d’origine. Le projet IA constitue une première expérience de recherche sur des thématiques IA, et sera encadré par un tuteur de projet qui suit l’étudiant en stage, éventuellement épaulé d’un expert IA issu de l’équipe pédagogique du Parcours IA.
 - Le stage de recherche d’une durée minimale de 20 semaines au sein d’un laboratoire ou d’une entreprise, en France ou à l’étranger sur un sujet IA validé au préalable par le conseil pédagogique du diplôme ARIA.
 - **2ème CAMPAGNE**
-
+_À titre exceptionnel, les candidats de la formation professionnelle continue peuvent candidater en dehors des deux campagnes._
 - Date de candidature : **10 au 23 juin 2026**
 - Période des entretiens : **29 juin au 10 juillet 2026**
 - Publication des résultats à partir du **mercredi 22 juillet 2026**

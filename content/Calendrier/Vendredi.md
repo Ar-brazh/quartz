@@ -1,7 +1,8 @@
 
 - [ ] RDV 9h FT 
 Projet :
-- Projet IA en cours finis semaine prochaine, update de CV avec  -> Candidatures a these et postes d'ingenieurs deja reperes le 14-15-16 Juin attendre reponse et entre temps prendre contact avec formation IRIA pour possibilité d'inscription, si pas de reponse positive, places disponibles et financement possible, inscription pour une annee 
+- Projet IA en cours finis semaine prochaine, update de CV avec  -> Candidatures a these et postes d'ingenieurs deja reperes le 14-15-16 Juin attendre reponse et entre temps prendre contact avec formation IRIA pour possibilité d'inscription, si pas de réponse positive, places disponibles et financement possible, inscription pour une année 
+
  Questions
 - [ ] Financement de toute formation ou juste une partie 
 - [ ] Quand est ce que le financement doit être transmis ? D'abord inscription ? 

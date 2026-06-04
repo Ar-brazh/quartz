@@ -2,8 +2,8 @@
 - [ ] Préparer rdv France Travail Vendredi 9 ⏫ 
 	- [ ] Questions
 		- [ ] Financement de toute formation ou juste une partie 
+		- [ ] Si je trouve un job avant rentrée est ce que je peux annuler ? 
 		- [ ] 
-		- [ ] Si j'ai financement et inscription
 	- [ ] Tableau prix et type de formation
 
 - [ ] Projet pytorch mammo 🏁 

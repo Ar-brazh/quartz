@@ -3,7 +3,8 @@
 	- [ ] Questions
 		- [ ] Financement de toute formation ou juste une partie 
 		- [ ] Si je trouve un job avant rentrée est ce que je peux annuler ? 
-		- [ ] 
+		- [ ] Conseil sur le type de formation 
+		- [ ] Financement Open classrooms ? 
 	- [ ] Tableau prix et type de formation
 
 - [ ] Projet pytorch mammo 🏁 

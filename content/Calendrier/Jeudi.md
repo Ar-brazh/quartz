@@ -1,7 +1,9 @@
 
 - [ ] Préparer rdv France Travail Vendredi 9 ⏫ 
 	- [ ] Questions
+		- [ ] Financement de toute formation ou juste une partie 
 		- [ ] 
+		- [ ] Si j'ai financement et inscription
 	- [ ] Tableau prix et type de formation
 
 - [ ] Projet pytorch mammo 🏁 

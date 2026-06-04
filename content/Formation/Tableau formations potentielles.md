@@ -18,22 +18,12 @@
 - **Deadline / candidature :** Candidatures M2 
     
 
-### 2. **Cycle ingénieur IA & Données de Santé**
-
-- **Établissement :** ESIEE-IT
-    
-- **Format :** Alternance, 2 ans
-    
-- **Intégration bac+4 :** Oui, concours ouvert bac+2 à bac+4
-    
-- **Prix indicatif :** En alternance : **0 €**, pris en charge par OPCO / entreprise
-    
-- **Deadline / candidature :** Candidature via concours GalaxYSup / dossier + entretien ; deadline exacte à confirmer
-    
-- **Avis :** Très intéressant si tu veux l’alternance. Mais comme tu as déjà un diplôme d’ingénieur, à évaluer : utile si tu veux un vrai repositionnement IA / data santé en entreprise.
-    
+# 2. Bootcamp Openclassrooms  Déployez vos modèles de Machine Learning
 
 
+- 
+- 4 mois 
+- 2 360 €
 
 # 4. **DU Intelligence artificielle appliquée en santé**
 

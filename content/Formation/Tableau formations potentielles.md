@@ -39,6 +39,27 @@ Vous explorerez également l’univers des **LLM et des systèmes RAG**, en app
 - 
 - 4 mois 
 - 2 360 €
+# 2. Bootcamp Openclassrooms  Déployez vos modèles de Machine Learning
+
+Vous souhaitez aller au-delà de l’entraînement de modèles et apprendre à les **déployer, surveiller et optimiser en production** ? Ce bootcamp intensif vous plonge au cœur du **MLOps et des applications de l’IA moderne**, avec un parcours structuré autour de projets concrets et professionnalisants.
+
+Vous apprendrez à gérer le **cycle de vie complet d’un modèle de machine learning**, de l’entraînement initial jusqu’au suivi en production. Vous serez initié aux bonnes pratiques du **monitoring**, de l’**automatisation des pipelines** et du **déploiement via API**.  
+Vous explorerez également l’univers des **LLM et des systèmes RAG**, en apprenant à évaluer leurs performances et à structurer des pipelines reproductibles. Enfin, vous consoliderez vos acquis en construisant un **moteur de recommandations** appliqué à l’agriculture de précision, intégrant des pipelines MLOps et des outils modernes comme **MLflow** et **CI/CD**.
+
+**Ce que vous apprendrez :**
+
+- **La gestion du cycle de vie d’un modèle ML**, de l’entraînement au suivi en production ;
+    
+- **Le déploiement et le monitoring** d’un modèle via API et sur le cloud ;
+    
+- **L’évaluation de systèmes RAG et de LLM**, avec les bonnes pratiques de validation et de test ;
+    
+- **La conception d’un moteur de recommandation** multi-sources, appliqué à un cas métier concret ;
+    
+- **L’utilisation d’outils incontournables** comme MLflow et CI/CD pour automatiser et fiabiliser vos workflows
+- 
+- 4 mois 
+- 2 360 €
 # 5. **Certificat de spécialisation IA en Santé**
 
 - **Établissement :** Cnam Paris

@@ -9,7 +9,7 @@
 	- [ ] Tableau prix et type de formation
 
 - [ ] Projet pytorch mammo 🏁 
-- [ ] CV modifié avec ajout du projet 
+- [ ] CV modifié avec ajout du projet + Github
 - [ ] Candidatures thèse, ingénieur 
 - [x] Finalisation dossier ARE ⏫ ✅ 2026-06-04
 - [x] Suivre Discussions France Travail ✅ 2026-06-04

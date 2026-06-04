@@ -17,7 +17,7 @@
     
 - **Deadline / candidature :** Candidatures M2 
     
-
+# 2. Diplôme ARIA (Intelligence artificielle)
 # 2. Bootcamp Openclassrooms  Déployez vos modèles de Machine Learning
 
 Vous souhaitez aller au-delà de l’entraînement de modèles et apprendre à les **déployer, surveiller et optimiser en production** ? Ce bootcamp intensif vous plonge au cœur du **MLOps et des applications de l’IA moderne**, avec un parcours structuré autour de projets concrets et professionnalisants.
@@ -39,7 +39,7 @@ Vous explorerez également l’univers des **LLM et des systèmes RAG**, en app
 - 
 - 4 mois 
 - 2 360 €
-# 2. Bootcamp Openclassrooms  Construisez, entraînez et déployez vos modèles d’intelligence artificielle 
+# 3. Bootcamp Openclassrooms  Construisez, entraînez et déployez vos modèles d’intelligence artificielle 
 
 Vous êtes passionné par les données et leur potentiel ? Ce bootcamp intensif est fait pour vous ! À travers 4 projets concrets, vous serez plongé dans l’univers du **machine learning supervisé et non supervisé**, du **traitement d’images** et du **déploiement de systèmes intelligents**.
 

@@ -18,6 +18,17 @@
 - **Deadline / candidature :** Candidatures M2 
     
 # 2. Diplôme ARIA (Intelligence artificielle)
+
+- modules de Renforcement IA apportant les concepts théoriques et outils fondamentaux associés à l’IA sont proposés sous forme de modules de Renforcement IA.
+- D’autres workshops, séminaires, écoles d’été, ou modules d’enseignement pourront compléter cette formation.
+- Un Projet IA a lieu de début novembre à fin janvier (3 mois) dans un laboratoire de l’ENS Paris Saclay. Pour les normaliens, ce projet doit impérativement se dérouler dans un laboratoire ne relevant pas de leur Département d’origine. Le projet IA constitue une première expérience de recherche sur des thématiques IA, et sera encadré par un tuteur de projet qui suit l’étudiant en stage, éventuellement épaulé d’un expert IA issu de l’équipe pédagogique du Parcours IA.
+- Le stage de recherche d’une durée minimale de 20 semaines au sein d’un laboratoire ou d’une entreprise, en France ou à l’étranger sur un sujet IA validé au préalable par le conseil pédagogique du diplôme ARIA.
+- **2ème CAMPAGNE**
+
+- Date de candidature : **10 au 23 juin 2026**
+- Période des entretiens : **29 juin au 10 juillet 2026**
+- Publication des résultats à partir du **mercredi 22 juillet 2026**
+- 
 # 2. Bootcamp Openclassrooms  Déployez vos modèles de Machine Learning
 
 Vous souhaitez aller au-delà de l’entraînement de modèles et apprendre à les **déployer, surveiller et optimiser en production** ? Ce bootcamp intensif vous plonge au cœur du **MLOps et des applications de l’IA moderne**, avec un parcours structuré autour de projets concrets et professionnalisants.

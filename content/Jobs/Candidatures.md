@@ -12,28 +12,24 @@
 	
 	- [ ] Entreprises et labos liées à ces postes -> Remplir liste entreprise et labo intéressants⏫ 
 	
-	- [ ] Trouver offres pour [[Entreprises ou labos intéressants]]
+	- [x] Trouver offres pour [[Entreprises ou labos intéressants]] ✅ 2026-06-05
 	
 	- [ ] Voir ce qui manque à mon profil 
 
-	- [ ] Récup contacts Recruteurs ou ingénieurs dans boite médicale intéressante
+	- [x] Récup contacts Recruteurs ou ingénieurs dans boite médicale intéressante ✅ 2026-06-05
 	
-	- [ ] Demander Formation recherché
+	- [x] Demander Formation recherché ✅ 2026-06-05
 
 	- [ ] Centraliser annonces offres 
 		- [ ] Scrapping python 
 		- [ ] Alertes
-		
-- [ ] Candidatures à faire : 📅 2026-06-02 
 
-	- [ ] Modifier et envoyer lettres de motivations deja faite 
-
-- [ ] Complément utile : 📅 2026-06-02 
+- [ ] Complément utile :
 
 	- [ ] Savoir comment utiliser LinkedIn premium 
 	
 - [ ] Offres de thèse CNRS :
-	- [ ] Adapter CV et recuperer releve de notes ?
+	- [x] Adapter CV et recuperer releve de notes ? ✅ 2026-06-05
 	- [ ] Resigner sur conditions pour contrat doctoral dans ma situation 
 
 

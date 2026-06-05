@@ -2,7 +2,7 @@ Alternance meilleur solution ->
 financement FT + employeur sur un an pour combler 
 Région financement formation IA :  0223206000 
 RFFT - 775 euros 
-
+Mission locale pour les -26 ans -> 
 ### 1. [[Master Santé publique de Paris cité]]
 
 - **M2 Méthodes et Outils pour les Données des Entrepôts en Santé** (26 juin 2026)

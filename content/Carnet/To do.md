@@ -9,7 +9,7 @@
 9. [ ] [[Article C-PETRUS]] 🔼 
 10. [ ] Remplir Carnet 🔽 
 11. [ ] Post insta Suisse-Allemagne ⏬ 
-12. [ ] [[Acheter tenue anniv Eno]] 🔼 
+12. [x] [[Acheter tenue anniv Eno]] 🔼 ✅ 2026-06-05
 13. [ ] Rappels actualisation France travail 🔼 
 14. [ ] Trains 🔁 every day 
 15. [ ] Sport 🔁 every day 

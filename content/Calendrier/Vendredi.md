@@ -19,7 +19,8 @@ Projet :
 - [ ] Candidatures thèse, ingénieur (dossier favoris)
 - [ ] Décision Forum 1er Emploi
 
-- [ ] Orga dependance pour papa maman dodo dimanche soir 
+- [x] Orga dependance pour papa maman dodo dimanche soir ✅ 2026-06-05
+- [ ] Nettoyer dependance
 - [ ] Voir comment aller à soirée Eno
 - [ ] Nettoyer ordi
 - [ ] Courrir ou sport

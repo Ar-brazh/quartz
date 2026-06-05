@@ -1,5 +1,5 @@
-Alternance meilleur solution 
-
+Alternance meilleur solution ->  
+financement FT + employeur sur un an pour combler 
 
 ### 1. [[Master Santé publique de Paris cité]]
 

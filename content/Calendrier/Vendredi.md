@@ -22,8 +22,9 @@ Projet :
 - [ ] Orga dependance pour papa maman dodo dimanche soir 
 - [ ] Voir comment aller à soirée Eno
 - [ ] Nettoyer ordi
+- [ ] Courrir ou sport
 
-AVANT 15
+AVANT 15H
 - [ ] Checker si mail pour compte rendue test iso
 - [ ] Noter compte rendue TEST ISO
 - [ ] Compte rendu test iso envoyé a Chloé 

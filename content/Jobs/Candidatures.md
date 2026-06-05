@@ -32,8 +32,6 @@
 	- [x] Adapter CV et recuperer releve de notes ? ✅ 2026-06-05
 	- [ ] Resigner sur conditions pour contrat doctoral dans ma situation 
 
-
-
 - [ ] Refaire CV ? :
 
 	- [ ] Checker [[ATS ]]

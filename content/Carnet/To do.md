@@ -1,5 +1,5 @@
 1. [ ] [[Candidatures]] 📅 2026-06-02⏫ 
-2. [ ] [[Formation IA chômage ]]  📅 2026-06-02 ⏫ 
+2. [ ] [[Formation IA chômage ]]  ⏫ 
 3. [ ] Rdv psychiatre⏫ 
 4. [ ] Permis de conduire ⏫ 
 5. [x] [[Programme routine code/IA]] ⏫ ✅ 2026-06-03

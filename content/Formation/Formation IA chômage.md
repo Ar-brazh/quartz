@@ -1,4 +1,8 @@
 
+Alternance 
+
+
+
 ## Financements 
 
 #### 1. AIF — Aide Individuelle à la Formation ✅ Votre meilleure option

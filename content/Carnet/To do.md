@@ -11,8 +11,9 @@
 11. [ ] Post insta Suisse-Allemagne ⏬ 
 12. [x] [[Acheter tenue anniv Eno]] 🔼 ✅ 2026-06-05
 13. [ ] Rappels actualisation France travail 🔼 
-14. [ ] Trains 🔁 every day 
+14. [x] Trains 🔁 every day ✅ 2026-06-05
 15. [ ] Sport 🔁 every day 
 16. [x] Ranger appart ⏳ 2026-06-01 ✅ 2026-06-03
 17. [x] Savoir quand arrive papa et maman dépendance 🏁 ✅ 2026-05-26  : le 03 juin
-18. [ ] Appel Mme Eon 🔽
+18. [ ] Appel Dr Eon 🔼 
+19. [ ] Appel Dr Frey 🔼 

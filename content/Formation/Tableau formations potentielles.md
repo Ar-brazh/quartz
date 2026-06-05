@@ -1,7 +1,7 @@
 Alternance meilleur solution ->  
 financement FT + employeur sur un an pour combler 
 Région financement formation IA :  0223206000 
-
+RFFT - 775 euros 
 
 ### 1. [[Master Santé publique de Paris cité]]
 

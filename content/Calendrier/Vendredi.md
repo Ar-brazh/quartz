@@ -12,7 +12,7 @@ Projet :
 - [x] Conseil sur le type de formation ✅ 2026-06-05
 - [x] Financement Open classrooms ? ✅ 2026-06-05
 
-- [ ] Trouver truc à paillette 
+- [x] Trouver truc à paillette 
 
 - [ ] Projet pytorch mammo 🏁 
 - [ ] CV modifié avec ajout du projet + Github
@@ -21,13 +21,13 @@ Projet :
 
 - [x] Orga dependance pour papa maman dodo dimanche soir ✅ 2026-06-05
 - [ ] Nettoyer dependance
-- [ ] Voir comment aller à soirée Eno
+- [x] Voir comment aller à soirée Eno ✅ 2026-06-05
 - [ ] Nettoyer ordi
-- [ ] Courrir ou sport
+- [x] Courrir ou sport ✅ 2026-06-05
 
 AVANT 15H
 - [ ] Checker si mail pour compte rendue test iso
 - [ ] Noter compte rendue TEST ISO
 - [ ] Compte rendu test iso envoyé a Chloé 
 - [ ] Nouveau programme exo sport axé ischio 
-- [ ] RDV Mme Eon
+- [x] RDV Mme Eon ✅ 2026-06-05

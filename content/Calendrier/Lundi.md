@@ -2,10 +2,10 @@
 - [ ] Ménage pour visite 
 - [ ] Nettoyer ordi 
 
-- [ ] Projet pytorch mammo 🏁 
+- [ ] Projet pytorch mammo 🏁 -
 	- [ ] Importer tout les DICOMS VINdr
 - [ ] CV modifié avec ajout du projet + Github
-- [ ] Candidatures thèse, ingénieur (dossier favoris)
+
 - [ ] Décision Forum 1er Emploi
 - [ ] Contact PB
 

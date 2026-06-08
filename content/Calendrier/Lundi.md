@@ -1,2 +1,2 @@
 - [ ] Salle sport Jimmos
-- [ ] 
+- [ ] Ménage pour visite 

@@ -8,3 +8,7 @@
 - [ ] Candidatures thèse, ingénieur (dossier favoris)
 - [ ] Décision Forum 1er Emploi
 - [ ] Contact PB
+
+- [ ] Appeler pour compte rendue ISO
+- [ ] Preparer rdv medecin
+

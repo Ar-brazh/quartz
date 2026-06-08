@@ -10,6 +10,7 @@
 
 - [ ] Appeler pour compte rendue ISO
 - [ ] Preparer rdv medecin
+- [ ] Tondr
 
 
 

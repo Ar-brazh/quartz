@@ -1,13 +1,18 @@
+- [ ] Salle sport Jimmos
+- [ ] Ménage pour visite 
+- [ ] Nettoyer ordi 
 
-- [x] Verifier contact France Travail demande ARE ✅ 2026-06-02
-- [ ] Projet pytorch mammo 🏁 
-- [ ] Dernières candidatures / formations
-- [ ] Observer un peu plus thèse et envoyé potentiellement candidature 
-- [ ] Plus de renseignements sur formations
-- [ ] Envoi de messages 
+- [ ] Projet pytorch mammo 🏁 ->  Candidatures thèse, ingénieur (dossier favoris) quand terminé
+	- [ ] Importer tout les DICOMS VINdr
+- [ ] CV modifié avec ajout du projet + Github
+- [ ] Décision Forum 1er Emploi
+- [ ] Contact PB
 
-- [x] [[Test Iso]]  15h ✅ 2026-06-03
+- [ ] Appeler pour compte rendue ISO
+- [ ] Preparer rdv medecin
 
-- [ ] Suivre Discussions France Travail
+
+
+
 
 

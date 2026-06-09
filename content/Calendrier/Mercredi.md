@@ -1,7 +1,8 @@
 
-- [ ] Salle sport Jimmos
 MATIN :
 - [ ] Ménage pour visite 
+- [ ] Candidature Thèse 
+- [ ] 
 
 
 - [ ] Projet pytorch mammo 🏁 ->  Candidatures thèse, ingénieur (dossier favoris) quand terminé

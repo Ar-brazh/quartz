@@ -1,22 +1,18 @@
-- [x] Réparer portable ✅ 2026-06-03
-- [ ] Nettoyer ordi
-- [x] Transfert Données OneDrive sur disque dur 1TO ✅ 2026-06-03
-	- [x] Checker mail quand Espace Microsoft cloud plus saturé ✅ 2026-06-03
-	- [ ] Noter compte rendue TEST ISO
-	- [ ] Compte rendu test iso envoyé a Chloé 
 
-- [ ] Projet pytorch mammo 🏁 
-	- [x] Github initialisé ✅ 2026-06-03
-	- [ ] CV modifié avec ajout du projet 
-- [x] Updater repository GUI_colored_pixels ✅ 2026-06-03
-- [ ] Formation Kaggle
-- [ ] Continuer de lister formations IA (prix, deadline candidature, temps, BAC+4)
+- [ ] Salle sport Jimmos
+MATIN :
+- [ ] Ménage pour visite 
 
-- [ ] Candidatures thèse, ingénieur 
-- [x] Ajout  liens de sites carrières pertinents dans favoris Jobs ✅ 2026-06-03
-- [ ] Finalisation dossier ARE
-- [ ] Suivre Discussions France Travail
-- [ ] Appeler UTC pour relevé de notes
+
+- [ ] Projet pytorch mammo 🏁 ->  Candidatures thèse, ingénieur (dossier favoris) quand terminé
+	- [ ] Importer tout les DICOMS VINdr (en cours )
+	- [x] Lettre motivation ✅ 2026-06-09
+- [x] CV modifié avec ajout du projet + Github ✅ 2026-06-09
 - [ ] Décision Forum 1er Emploi
+- [ ] Contact PB
 
-
+- [ ] Appeler pour compte rendue ISO
+- [ ] Preparer rdv medecin
+- [ ] Tondre
+- [ ]  Nettoyer ordi 
+- [ ] Sport salle de sport ou pas

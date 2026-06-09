@@ -15,7 +15,7 @@ APREM :
 - [ ] Candidature Thèse/Ingé
 
 - [ ] Appeler pour compte rendue ISO
-- [ ] Preparer rdv medecin
+- [ ] Préparer rdv médecin
 - [ ] Tondre
 - [ ] Nettoyer ordi 
 - [ ] Sport salle 

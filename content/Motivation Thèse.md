@@ -18,6 +18,5 @@ Bien cordialement,
 
 Goulwen Le Bras  
 +33 7 68 25 07 30  
-[Goulwen.le-bras@outlook.fr](mailto:Goulwen.le-bras@outlook.fr)  
 [https://github.com/goulwen-lebras](https://github.com/goulwen-lebras)  
 [https://linkedin.com/in/goulwen-le-bras-9714a0249/](https://linkedin.com/in/goulwen-le-bras-9714a0249/)

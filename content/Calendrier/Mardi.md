@@ -11,7 +11,8 @@
 
 - [ ] Appeler pour compte rendue ISO
 - [ ] Preparer rdv medecin
-- [ ] Tondre
+
+- [ ] Tondree
 
 
 

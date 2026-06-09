@@ -7,7 +7,10 @@ MATIN :
 
 APREM :
 
+- [ ] Tondre
 - [ ] Visite 14h [[Location visiteurs]]
+- [ ] RDV 16h30 medecin
+- [ ] 18h30 VELO Sport salle 
 
 - [ ] Projet pytorch mammo 🏁 ->  Candidatures thèse, ingénieur (dossier favoris) quand terminé
 	- [ ] Importer tout les DICOMS VINdr (en cours )
@@ -16,6 +19,5 @@ APREM :
 - [ ] Contact PB
 - [ ] Candidature Thèse/Ingé
 
-- [ ] Tondre
+
 - [ ] Nettoyer ordi 
-- [ ] Sport salle 

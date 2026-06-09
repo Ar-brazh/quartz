@@ -7,3 +7,4 @@ Ce projet de thèse m'interesse énromement de part son ambition d'approches com
 
 Mon interet pour l'intelligence artificielle aplliqués aux données médicales à motivé ma formation sur kaggle.com et oprnclassroomsnotamment à l'IA. J'ai voulu mobiliser mes connaisances theoriques dan sun projet de deepleraning mobilisant pytroch et les données de mammographies fdu dataseet vinDr-mammo mentionnée dans le sujet de these pour montrer mes competences et mon apetences pour ce sujet et initié a un travail de thèse potentielle. N'hésitez pas à observer mon github pour plus d'informations sur l'ambition et l'etat de ce projet. 
 
+Je vous joint mon CV, une lettre de reccomendation, 

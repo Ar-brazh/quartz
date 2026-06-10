@@ -3,7 +3,7 @@
 - [ ] Sport
 - [ ] Déplacer affaires de maison et nettoyer 
 
-- [ ] Recup Portable 
+- [ ] Récup Portable a réparateur 
 - [ ] Eponge sur les chaises 
 
 

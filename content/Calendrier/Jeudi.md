@@ -2,7 +2,8 @@
 - [ ] RDV Médicaux
 - [ ] Sport
 - [ ] Déplacer affaires de maison et nettoyer 
-- [ ] 
+
+- [ ] Recup Portable 
 
 
 - [ ] Entrainement Python/IA

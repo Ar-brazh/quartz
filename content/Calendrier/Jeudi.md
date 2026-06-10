@@ -4,6 +4,7 @@
 - [ ] Déplacer affaires de maison et nettoyer 
 
 - [ ] Recup Portable 
+- [ ] Eponge sur les chaises 
 
 
 - [ ] Entrainement Python/IA

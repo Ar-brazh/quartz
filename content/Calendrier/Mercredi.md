@@ -2,7 +2,7 @@
 MATIN :
 - [x] Ménage pour visite ✅ 2026-06-10
 - [x] Candidature Thèse ✅ 2026-06-10
-- [ ] Préparer consultation
+- [x] Préparer consultation ✅ 2026-06-10
 	- [ ] Gene au niveau de mon genou 
 	- [ ] Test de glycemie a jeun 
 	- [ ] Bilan sanguin globale pour controler cholesterol nottament 
@@ -11,7 +11,7 @@ MATIN :
 
 APREM :
 
-- [ ] Tondre
+- [x] Tondre ✅ 2026-06-10
 - [x] Visite 14h [[Location visiteurs]] ✅ 2026-06-10
 - [x] Lire article ✅ 2026-06-10
 - [x] RDV 16h30 medecin

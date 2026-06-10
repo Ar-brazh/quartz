@@ -7,7 +7,9 @@
 - [ ] Eponge sur les chaises 
 
 
-- [ ] Entrainement Python/IA
+- [ ] Entrainement Python/IA 
+	- [ ] Exercism
+	- [ ] Kaggle
 - [ ] Projet pytorch mammo 🏁 ->  Candidatures thèse, ingénieur (dossier favoris) quand terminé
 	- [ ] Importer tout les DICOMS VINdr (en cours )
 

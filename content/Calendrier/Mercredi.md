@@ -14,7 +14,7 @@ APREM :
 - [ ] Tondre
 - [x] Visite 14h [[Location visiteurs]] ✅ 2026-06-10
 - [x] Lire article ✅ 2026-06-10
-- [ ] RDV 16h30 medecin
+- [x] RDV 16h30 medecin
 - [ ] 18h30 VELO Sport salle 
 
 - [ ] Projet pytorch mammo 🏁 ->  Candidatures thèse, ingénieur (dossier favoris) quand terminé

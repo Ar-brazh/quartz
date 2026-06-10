@@ -2,6 +2,7 @@
 - [ ] RDV Médicaux
 - [ ] Sport
 - [ ] Déplacer affaires de maison et nettoyer 
+- [ ] 
 
 
 - [ ] Entrainement Python/IA

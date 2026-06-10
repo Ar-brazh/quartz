@@ -13,7 +13,7 @@ APREM :
 
 - [ ] Tondre
 - [x] Visite 14h [[Location visiteurs]] ✅ 2026-06-10
-- [ ] Lire article
+- [x] Lire article ✅ 2026-06-10
 - [ ] RDV 16h30 medecin
 - [ ] 18h30 VELO Sport salle 
 

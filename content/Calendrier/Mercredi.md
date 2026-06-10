@@ -1,7 +1,7 @@
 
 MATIN :
 - [x] Ménage pour visite ✅ 2026-06-10
-- [ ] Candidature Thèse 
+- [x] Candidature Thèse ✅ 2026-06-10
 - [ ] Préparer consultation
 - [ ] Appeler pour compte rendue ISO
 

@@ -12,7 +12,7 @@ Curieux de nature et habitué à travailler de façon autonome, j'ai souhaité a
 
 Je serais ravi d'échanger avec vous sur ma candidature et sur la manière dont mon expérience en imagerie multimodale, développement logiciel scientifique et gestion de systèmes médicaux pourrait contribuer à ce projet doctoral.
 
-Je vous adresse en pièce jointe mon CV, mon relevé de notes, une lettre de recommandation du Dr Guillaume Goudot, ainsi que ma publication présentée à IWISH 2023.
+Je vous adresse en pièce jointe mon CV, une lettre de recommandation du Dr Guillaume Goudot, mon relevé de notes de mon cursus d'ingénieur, ainsi que ma publication présentée à IWISH 2023.
 
 Bien cordialement,
 

@@ -4,6 +4,8 @@ MATIN :
 - [x] Candidature Thèse ✅ 2026-06-10
 - [ ] Préparer consultation
 	- [ ] Gene au niveau de mon genou 
+	- [ ] Test de glycemie a jeun 
+	- [ ] Bilan sanguin globale pour controler cholesterol nottament 
 	- [ ] 
 - [ ] Appeler pour compte rendue ISO
 

@@ -3,10 +3,9 @@ MATIN :
 - [x] Ménage pour visite ✅ 2026-06-10
 - [x] Candidature Thèse ✅ 2026-06-10
 - [x] Préparer consultation ✅ 2026-06-10
-	- [ ] Gene au niveau de mon genou 
-	- [ ] Test de glycemie a jeun 
-	- [ ] Bilan sanguin globale pour controler cholesterol nottament 
-	- [ ] 
+	- [x] Gene au niveau de mon genou ✅ 2026-06-10
+	- [x] Test de glycemie a jeun ✅ 2026-06-10
+	- [x] Bilan sanguin globale pour controler cholesterol nottament ✅ 2026-06-10
 - [ ] Appeler pour compte rendue ISO
 
 APREM :

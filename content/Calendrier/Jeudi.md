@@ -1,4 +1,5 @@
-- [ ] Appeler pour compte rendue ISO
+- [ ] Appeler pour compte rendue ISO + appel chiurgie
+- [ ] Medecin 
 - [ ] RDV Médicaux
 - [ ] Sport
 - [ ] Déplacer affaires de maison et nettoyer 

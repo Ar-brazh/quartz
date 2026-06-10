@@ -7,7 +7,8 @@
 
 
 - [ ] Entrainement Python/IA 
-	- [ ] Exercism
+	- [ ] Exercism 2h
+	- [ ] Écriture script 
 	- [ ] Kaggle
 - [ ] Projet pytorch mammo 🏁 ->  Candidatures thèse, ingénieur (dossier favoris) quand terminé
 	- [ ] Importer tout les DICOMS VINdr (en cours ) -> - [ ] Nettoyer ordi 

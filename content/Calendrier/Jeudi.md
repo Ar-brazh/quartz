@@ -9,7 +9,6 @@ SANTE :
 	- [x] Bilan sanguin ✅ 2026-06-11
 	- [ ] Radio
 	- [ ] Kine -> Par rapport à trains et radio
-	- [ ] Chirugien (apres radio) ⏫ (Avant 16h)
 	- [ ] bilan neuropsy
 - [ ] Sport
 

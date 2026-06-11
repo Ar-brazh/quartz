@@ -3,11 +3,11 @@
 	- [x] Bilan sanguin ✅ 2026-06-11
 	- [ ] Radio
 	- [ ] Kine -> Par rapport à trains et radio
-	- [ ] Chirugien (apres radio) ⏫ 
+	- [ ] Chirugien (apres radio) ⏫ (Avant 16h)
 	- [ ] bilan neuropsy
 - [ ] Sport
 
-- [ ] Récup Portable a réparateur 
+- [ ] Récup Portable a réparateur  (Avant 19h)
 - [x] Planification conduite ✅ 2026-06-11
 
 

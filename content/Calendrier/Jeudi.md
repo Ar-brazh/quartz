@@ -1,7 +1,9 @@
 
 
 SANTE :
-- [ ] Appeler pour compte rendue ISO + appel chirurgie 
+- [x] Appeler pour compte rendue ISO + appel chirurgie ✅ 2026-06-11
+	- [x] Mail envoyé ✅ 2026-06-11
+	- [ ] attente de réponse
 - [ ] RDV Médicaux
 	- [x] Bilan sanguin ✅ 2026-06-11
 	- [ ] Radio

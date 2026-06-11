@@ -29,8 +29,10 @@ CANDIDATURES :
 - [ ] Décision Forum 1er Emploi
 - [ ] Contact PB
 - [ ] Candidature Thèse/Ingé
-
-
+- [ ] Centraliser annonces offres 
+		- [ ] Scrapping python 
+		- [ ] Alertes
+- [ ] Savoir comment utiliser LinkedIn premium
 
 SOIR :
 - [ ] Déplacer affaires de maison et nettoyer 

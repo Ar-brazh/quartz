@@ -4,6 +4,7 @@ SANTE :
 - [x] Appeler pour compte rendue ISO + appel chirurgie ✅ 2026-06-11
 	- [x] Mail envoyé ✅ 2026-06-11
 	- [x] attente de réponse ✅ 2026-06-11
+	- [x] Message et documents envoyé à Chloé ✅ 2026-06-11
 - [ ] RDV Médicaux
 	- [x] Bilan sanguin ✅ 2026-06-11
 	- [ ] Radio

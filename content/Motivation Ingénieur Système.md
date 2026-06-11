@@ -1,2 +1,2 @@
 
-Etre actif au plus possible du devellopement, se sentir actif  et impactant pour le develleoemnt de dispositifs medicaux a meliorant le diagnostic de patients, touché à tout, Attise ma curiosité et 
+Etre actif au plus possible du devellopement, se sentir actif  et impactant pour le develleoemnt de dispositifs medicaux a meliorant le diagnostic de patients, touché à tout, Attise ma curiosité et me fait sentir utile. Travailler dans une entreprise à la pointe de sa science en terme de scanner sensation, d'etre a lendroit ideale ou contribu:er mes talents 

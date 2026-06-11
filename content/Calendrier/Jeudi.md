@@ -1,4 +1,7 @@
-- [ ]Appeler pour compte rendue ISO + appel chirurgie 
+
+
+SANTE :
+- [ ] Appeler pour compte rendue ISO + appel chirurgie 
 - [ ] RDV Médicaux
 	- [x] Bilan sanguin ✅ 2026-06-11
 	- [ ] Radio
@@ -7,12 +10,14 @@
 	- [ ] bilan neuropsy
 - [ ] Sport
 
+
+ORGA :
 - [ ] Récup Portable a réparateur  (Avant 19h)
 - [x] Planification conduite ✅ 2026-06-11
 
 
 
-ROUTINE-PROJETS IA-PYTHON
+ROUTINE-PROJETS IA-PYTHON :
 - [ ] Entrainement Python/IA 
 	- [ ] Exercism 2h
 	- [ ] Écriture script 
@@ -20,7 +25,7 @@ ROUTINE-PROJETS IA-PYTHON
 - [ ] Projet pytorch mammo 🏁 ->  Candidatures thèse, ingénieur (dossier favoris) quand terminé
 	- [ ] Importer tout les DICOMS VINdr (en cours ) -> - [ ] Nettoyer ordi 
 
-CANDIDATURES
+CANDIDATURES :
 - [ ] Décision Forum 1er Emploi
 - [ ] Contact PB
 - [ ] Candidature Thèse/Ingé

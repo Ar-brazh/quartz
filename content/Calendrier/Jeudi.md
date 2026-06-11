@@ -1,6 +1,6 @@
 - [ ] Appeler pour compte rendue ISO + appel chirurgie 
 - [ ] RDV Médicaux
-	- [ ] Bilan sanguin
+	- [x] Bilan sanguin ✅ 2026-06-11
 	- [ ] Radio
 	- [ ] Kine
 	- [ ] Chirugien (apres radio)

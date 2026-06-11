@@ -8,7 +8,7 @@
 - [ ] Sport
 
 - [ ] Récup Portable a réparateur 
-- [ ] Planification conduite
+- [x] Planification conduite ✅ 2026-06-11
 
 
 - [ ] Entrainement Python/IA 

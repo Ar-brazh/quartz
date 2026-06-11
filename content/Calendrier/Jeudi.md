@@ -29,7 +29,8 @@ CANDIDATURES :
 - [ ] Décision Forum 1er Emploi
 - [ ] Contact PB
 - [x] Candidature GE Ingénieur système ✅ 2026-06-11
-- [ ] Candidatur
+- [ ] Candidature Thèse elasto
+- [ ] Candidature Thèse Institut du cerveau
 - [ ] Centraliser annonces offres 
 		- [ ] Scrapping python 
 		- [ ] Alertes

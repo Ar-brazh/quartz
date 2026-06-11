@@ -3,7 +3,7 @@
 	- [x] Bilan sanguin ✅ 2026-06-11
 	- [ ] Radio
 	- [ ] Kine -> Par rapport à trains et radio
-	- [ ] Chirugien (apres radio)
+	- [ ] Chirugien (apres radio) ⏫ 
 	- [ ] bilan neuropsy
 - [ ] Sport
 

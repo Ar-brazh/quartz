@@ -21,8 +21,8 @@ ORGA :
 
 ROUTINE-PROJETS IA-PYTHON :
 - [ ] Entrainement Python/IA 
-	- [ ] Exercism 2h
-	- [ ] Écriture script 
+	- [ ] Exercism
+	- [x] Écriture script 2h ✅ 2026-06-11
 	- [ ] Kaggle
 - [ ] Projet pytorch mammo 🏁 ->  Candidatures thèse, ingénieur (dossier favoris) quand terminé
 	- [ ] Importer tout les DICOMS VINdr (en cours ) -> - [ ] Nettoyer ordi 

@@ -9,8 +9,8 @@ SANTE :
 
 
 ROUTINE-PROJETS IA-PYTHON :
-- [ ] Entrainement Python/IA 
-	- [ ] Exercism 2h
+- [ ] Entrainement Python/IA 2h
+	- [ ] Exercism
 	- [ ] Écriture script 
 	- [ ] Kaggle
 - [ ] Projet pytorch mammo 🏁 ->  Candidatures thèse, ingénieur (dossier favoris) quand terminé

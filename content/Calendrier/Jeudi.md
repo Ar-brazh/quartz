@@ -4,7 +4,7 @@
 	- [ ] Radio
 	- [ ] Kine
 	- [ ] Chirugien (apres radio)
-	- [ ] bilan neuop
+	- [ ] bilan neuropsy
 - [ ] Sport
 
 - [ ] Récup Portable a réparateur 

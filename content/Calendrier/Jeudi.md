@@ -14,7 +14,7 @@ SANTE :
 
 
 ORGA :
-- [ ] Récup Portable a réparateur  (Avant 19h)
+- [x] Récup Portable a réparateur  (Avant 19h) ✅ 2026-06-11
 - [x] Planification conduite ✅ 2026-06-11
 
 

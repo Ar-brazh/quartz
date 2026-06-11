@@ -1,6 +1,6 @@
 ### Très maîtrisé / cœur de profil
 
-Python, MATLAB, traitement d’images médicales, imagerie multimodale, échographie, CT, TEP/PET, recalage multimodal, MATLAB App Designer, PyQt5, visualisation 3D, validation expérimentale, protocoles expérimentaux, rédaction technique, guides utilisateurs, Git, GitHub, gestion d’exigences, documentation ANSM, dispositifs médicaux, conception de bancs d’essais, gestion de projet R&D, coordination pluridisciplinaire, encadrement de stagiaires,modélisation biomédicale, diagrammes de Gantt, Overleaf, Obsidian, anglais C1.
+Python, MATLAB, traitement d’images médicales, imagerie multimodale, échographie, CT, TEP/PET, recalage multimodal, MATLAB App Designer, PyQt5, visualisation 3D, validation expérimentale, protocoles expérimentaux, rédaction technique, guides utilisateurs, Git, GitHub, gestion d’exigences, documentation ANSM, Intégration système, dispositifs médicaux, conception de bancs d’essais, gestion de projet R&D, coordination pluridisciplinaire, encadrement de stagiaires,modélisation biomédicale, diagrammes de Gantt, Overleaf, Obsidian, anglais C1.
 
 ### Bon niveau / utilisé en contexte projet réel
 

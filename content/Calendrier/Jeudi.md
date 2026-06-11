@@ -28,7 +28,8 @@ ROUTINE-PROJETS IA-PYTHON :
 CANDIDATURES :
 - [ ] Décision Forum 1er Emploi
 - [ ] Contact PB
-- [ ] Candidature Thèse/Ingé
+- [x] Candidature GE Ingénieur système ✅ 2026-06-11
+- [ ] Candidatur
 - [ ] Centraliser annonces offres 
 		- [ ] Scrapping python 
 		- [ ] Alertes

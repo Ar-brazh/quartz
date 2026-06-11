@@ -1,5 +1,10 @@
 - [ ] Appeler pour compte rendue ISO + appel chirurgie 
 - [ ] RDV Médicaux
+	- [ ] Bilan sanguin
+	- [ ] Radio
+	- [ ] Kine
+	- [ ] Chirugien (apres radio)
+	- [ ] 
 - [ ] Sport
 
 - [ ] Récup Portable a réparateur 

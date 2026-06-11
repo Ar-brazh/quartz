@@ -4,7 +4,7 @@ SANTE :
 - [ ] Bilan sanguin 10h
 - [ ] RDV Médicaux
 	- [ ] Kine -> Par rapport à trains et radio
-	- [ ] - [ ] Radio
+	- [ ] Radio -> Par rapport à kiné
 - [ ] Sport
 
 
@@ -19,14 +19,9 @@ ROUTINE-PROJETS IA-PYTHON :
 CANDIDATURES :
 - [ ] Décision Forum 1er Emploi
 - [ ] Contact PB
-- [x] Candidature GE Ingénieur système ✅ 2026-06-11
 - [ ] Candidature Thèse elasto
 - [ ] Candidature Thèse Institut du cerveau
 - [ ] Centraliser annonces offres 
 		- [ ] Scrapping python 
 		- [ ] Alertes
 - [ ] Savoir comment utiliser LinkedIn premium
-
-SOIR :
-- [ ] Déplacer affaires de maison et nettoyer 
-- [ ] Nettoyer crotte de pigeons

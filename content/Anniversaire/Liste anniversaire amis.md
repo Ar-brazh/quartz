@@ -49,7 +49,6 @@ Novembre :
 10 Rubens  
 22 Baptiste Gr  
 24 Antoine  
-26 Elise bebou  
 
 Décembre :  
 19 Baptiste

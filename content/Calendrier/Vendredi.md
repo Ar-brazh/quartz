@@ -1,7 +1,7 @@
 
 SANTE :
 
-- [ ] Bilan sanguin 10h
+
 - [ ] RDV Médicaux
 	- [ ] Kine -> Par rapport à trains et radio
 	- [ ] Radio -> Par rapport à kiné

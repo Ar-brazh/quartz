@@ -1,1 +1,1 @@
-Comprendre, decouvrir etre a la poi
+Comprendre, decouvrir etre a la point e de l'innovation , de la recherche, du developpment, exploiter tout ce qui peut etre exploitzblr  des données utiles par l'intermediaire de technologies à la pointe de l'innovation, est un privilege. Je penses avoir deve

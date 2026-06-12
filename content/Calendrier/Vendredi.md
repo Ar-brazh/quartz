@@ -5,7 +5,7 @@ SANTE :
 - [ ] RDV Médicaux
 	- [ ] Kine -> Par rapport à trains et radio
 	- [ ] Radio -> Par rapport à kiné
-- [ ] Sport
+- [x] Sport ✅ 2026-06-12
 
 
 ROUTINE-PROJETS IA-PYTHON :
@@ -17,7 +17,6 @@ ROUTINE-PROJETS IA-PYTHON :
 	- [ ] Importer tout les DICOMS VINdr (en cours ) -> - [ ] Nettoyer ordi 
 
 CANDIDATURES :
-- [ ] Décision Forum 1er Emploi
 - [ ] Contact PB
 - [ ] Candidature Thèse elasto
 - [ ] Candidature Thèse Institut du cerveau

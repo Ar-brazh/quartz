@@ -26,23 +26,30 @@ Goulwen Le Bras
 
 Dear Dr. Walker, Dr. Papadacci and Dr. Pernot,
 
-I am writing to apply for the PhD position on AI-driven cardiac elastography at Physics for Medicine Paris.
+I am writing to apply for the PhD position “AI-driven cardiac elastography” at Physics for Medicine Paris.
 
-I am a biomedical engineer from Université de Technologie de Compiègne, with experience in medical imaging, scientific software development, multimodal image processing and experimental validation. Your project strongly interests me because it combines ultrasound physics, 3D reconstruction, deep learning and a clinically meaningful objective: improving the characterization of cardiac pathologies through quantitative elastography.
+I am a biomedical engineer from Université de Technologie de Compiègne, with a background at the interface between medical imaging, scientific software development, physiological signal modeling and experimental validation. I have been particularly impressed by the work conducted at Physics for Medicine, especially the way your laboratory combines wave physics, ultrafast ultrasound imaging and clinical applications. I had the opportunity to attend Dr. Mickaël Tanter’s presentation on functional ultrasound neuroimaging during the Heart-Brain Interfaces conference held at PARCC on November 4, 2024, which strongly contributed to my interest in your research environment.
 
-During my research engineering experience at PARCC / Inserm, I was responsible for the development of C-PETRUS, a multimodal imaging platform combining CT-PET and robot-assisted ultrasound. This work involved multimodal registration, 3D visualization, image processing, geometric error analysis and experimental validation on imaging phantoms. I developed a MATLAB App Designer interface for robotic control, data processing and visualization of registered volumes, and I also worked on a Python/PyQt5 tool for ultrasound microflow image analysis in a vascular clinical context.
+My connection with your laboratory is also directly related to my recent work at PARCC / Inserm, within Prof. Bertrand Tavitian’s team. I was responsible for the development of C-PETRUS, a multimodal imaging platform combining CT-PET and robot-assisted ultrafast ultrasound for vascular intervention planning. This project is a direct continuation of PETRUS, developed through the collaboration between Prof. Tavitian’s team and Physics for Medicine, and gave me a concrete appreciation of the scientific and clinical potential of advanced ultrasound imaging.
 
-This experience gave me a strong interest in ultrasound-based medical imaging and in the challenge of extracting clinically useful information from complex imaging data. I particularly appreciated working at the interface between physics, software, experimental constraints and clinical interpretation. Your PhD project represents a natural continuation of this trajectory, with a stronger focus on AI-based reconstruction and diagnostic modeling.
+Within C-PETRUS, I worked on multimodal medical imaging data and developed a MATLAB App Designer application integrating robotic control, image processing, multimodal registration, 3D visualization and geometric error assessment. I also led experimental validation on imaging phantoms and contributed to the structuring and documentation of multimodal datasets.
 
-I am especially interested in the first objective of the project: developing a physics-informed neural network for 3D shear wave velocity estimation. The combination of wave propagation equations, anisotropic tissue modeling and validation on in vitro and clinical data is exactly the type of interdisciplinary challenge I would like to pursue. I am also motivated by the second objective, which aims to integrate SWE, echocardiographic loops and ECG data into an AI-based diagnostic tool for cardiology.
+In parallel, I developed a Python/PyQt5 application for the post-acquisition processing and quantitative analysis of ultrafast ultrasound microflow images in a vascular clinical setting. This work aimed to quantify perivascular microvascularization through a vascularity index, in the context of inflammation-associated superficial vein thrombosis. It strengthened my interest in quantitative ultrasound imaging and in the extraction of clinically meaningful biomarkers from complex image sequences.
 
-I bring solid experience in Python, MATLAB, medical image processing, multimodal data handling, experimental protocols and technical documentation. I am currently strengthening my deep learning skills through personal projects in medical imaging using PyTorch, with a focus on reproducible pipelines, model evaluation and clinically relevant metrics.
+My previous research experience at the BMBI laboratory also contributes to my interest in this PhD. I worked on a physiological model of pennated muscle for the simulation of HD-sEMG signals, combining Python development, physiological signal processing and 3D geometric modeling of muscle fiber organization. This gave me a first approach to the relationship between tissue structure, physiological signals and computational modeling.
 
-I would be very pleased to discuss how my background in ultrasound imaging, multimodal medical imaging, software development and experimental validation could contribute to this PhD project.
+Your PhD project particularly interests me because it brings together these dimensions in a highly coherent way: ultrafast ultrasound physics, 3D shear wave elastography, deep learning and clinical diagnosis. The development of a Physics-Informed Neural Network for 3D shear wave velocity estimation is especially appealing to me, as it aims to combine physical modeling, image reconstruction and AI-based analysis while remaining grounded in experimental and clinical data.
+
+To strengthen my profile in this direction, I have started developing my skills in deep learning through a PyTorch project in medical imaging. This project includes data preprocessing, model training, performance evaluation and error analysis, and reflects my motivation to build practical AI skills while keeping a strong focus on data quality, reproducibility and clinical relevance.
+
+I would be very pleased to discuss how my background in Python/MATLAB development, ultrafast ultrasound image analysis, physiological signal modeling, multimodal medical imaging and experimental validation could contribute to this PhD project.
 
 Sincerely,
 
-Goulwen Le Bras
+Goulwen Le Bras  
++33 7 68 25 07 30  
+linkedin.com/in/goulwen-le-bras-9714a0249/  
+github.com/goulwen-lebras
 
 ---
 

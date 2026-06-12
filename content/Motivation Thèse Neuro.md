@@ -1,1 +1,1 @@
-Spécialisation, projet long terme ambiyieux pour comprendre et decouvrir plus sur le cerveau, le systeme le plus fascinant. 
+Spécialisation, projet long terme ambiyieux pour comprendre et decouvrir plus sur le cerveau, le systeme le plus fascinant. EEG , IRMf , fUS beaucoup de technologies se devellope vite, gros intret sur exploitation données utiles part ces modalités et comprehension , diagnostic analyse. 

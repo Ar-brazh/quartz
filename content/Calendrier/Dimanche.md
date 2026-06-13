@@ -1,3 +1,3 @@
 Candidature PHD physique pour la medecine
 Critérium du Dauphine 
-Noter occupations mia
+Noter occupations maison et papa maman annael dans dépendance

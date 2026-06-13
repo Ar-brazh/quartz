@@ -1,6 +1,8 @@
 ****
 Discipline  
 
+Anxieux pour le bonjour
+
 Peur de s'engager  
 
 Difficulté de communiquer avec Elise emménagement à deux compliqué parfois  

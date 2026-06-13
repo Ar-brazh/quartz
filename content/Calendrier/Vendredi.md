@@ -19,6 +19,7 @@ ROUTINE-PROJETS IA-PYTHON :
 CANDIDATURES :
 - [ ] Contact PB
 - [ ] Candidature Thèse elasto
+- [x] Début de travail thèse elasto + autres offres 
 - [ ] Candidature Thèse Institut du cerveau
 - [ ] Centraliser annonces offres 
 		- [ ] Scrapping python 

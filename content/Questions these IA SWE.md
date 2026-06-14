@@ -18,3 +18,7 @@ carte 3D de rigidité
 carte dynamique SWV pendant le cycle
 paramètres mécaniques anisotropes
 ```
+
+
++ entraînement sur données in vitro  ?
++ validation sur in vivo ? Comment valider données in vivo ? Comment 

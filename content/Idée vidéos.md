@@ -1,2 +1,3 @@
-Idée de Jimmos, ouverture booster chips -> Peut s'etendre a d'autres 
-Gars dans wagon conversation horrible au tel (Ouais je me suis tartienr de merde hier soir haha )
+- Idée de Jimmos, ouverture booster chips -> Peut s'etendre a d'autres 
+- Gars dans wagon conversation horrible au tel ("Ouais je me suis tartienr de merde hier soir haha" ) -> Caption genre les seuls qui vont  pas entre les wagons pour prendre des appels 
+- C'est bon je suis en rodage 

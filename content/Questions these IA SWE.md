@@ -15,6 +15,13 @@ Décider ce que le modèle doit produire : 3D shear wave velocity (SWV) estimati
 
 + entraînement sur données in vitro  ?
 + validation sur in vivo ? Comment valider données in vivo ? Comment carte rigidité ou vitesse ondes cisaillements est defini ? 
+Donc la validation in vivo consiste plutôt à vérifier que la méthode produit des résultats :
+
+```
+reproductibles,physiquement cohérents,compatibles avec la physiologie cardiaque,corrélés à des données cliniques,capables de distinguer des groupes pathologiques.
+```
+
+Ce n’est pas une validation “vérité terrain parfaite”, c’est une validation de **crédibilité scientifique et clinique**.
 
 1. Acquisition 3D SWE sur fantôme ou patient
 2. Reconstruction de volumes ultrasonores

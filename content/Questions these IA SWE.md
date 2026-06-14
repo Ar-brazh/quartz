@@ -10,14 +10,7 @@ synchronisation ECG ?
 
 ## éfinir la sortie attendue
 
-Décider ce que le modèle doit produire :
-
-```
-carte 3D de SWV
-carte 3D de rigidité
-carte dynamique SWV pendant le cycle
-paramètres mécaniques anisotropes
-```
+Décider ce que le modèle doit produire : 3D shear wave velocity (SWV) estimation based on 3D elastic wave propagation
 
 
 + entraînement sur données in vitro  ?

@@ -2,3 +2,4 @@
 - Gars dans wagon conversation horrible au tel ("Ouais je me suis tartienr de merde hier soir haha" ) -> Caption genre les seuls qui vont  pas entre les wagons pour prendre des appels 
 - C'est bon je suis en rodage 
 - (attention peut etre nul) sur "Haine et sexe" de Gazo ou tu te cognes contre un pieds de table et tu commences a flirter plans ou tu discutes, tu te fais marrer et apres shatta. 
+- Demande d'explication a un prof 

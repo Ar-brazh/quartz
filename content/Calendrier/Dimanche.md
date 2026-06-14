@@ -1,4 +1,6 @@
 Candidature PHD physique pour la medecine
+	- [ ] Cours sur physique ultrasons
+	- [ ] 
 Mail suite a refus 
 Autres Candidatures
 
@@ -12,8 +14,8 @@ ROUTINE-PROJETS IA-PYTHON :
 	- [ ] Importer tout les DICOMS VINdr (en cours ) -> - [ ] Nettoyer ordi 
 
 
-Critérium du Dauphine 14h
-F1 15h 
+- [x] Critérium du Dauphine 14h ✅ 2026-06-14
+- [x] F1 15h ✅ 2026-06-14
 CDM 19h
 
 Noter occupations maison et papa maman annael dans dépendance

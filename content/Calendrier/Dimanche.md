@@ -1,6 +1,12 @@
 - Candidature PHD physique pour la medecine
 	- [x] Cours sur physique ultrasons ✅ 2026-06-14
-	- [ ] Sujet de la thése 
+	- [ ] Sujet de la thése compris 
+	- [ ] Lecture d'articles 
+	- [ ] Position coherente, technique et par rapport au projet doctoral 
+	- [ ] listing competences demandes dans sujet de these, implicite et explicite
+	- [ ] Complement de CV 
+	- [ ] Reecriture lettre de motivation
+	- [ ] Idee de projet IA a de
 Mail suite a refus 
 Autres Candidatures
 

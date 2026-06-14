@@ -1,5 +1,7 @@
 Candidature PHD physique pour la medecine
-Critérium du Dauphine 
+Critérium du Dauphine 14h
+F1 15h 
+CDM 19h
 Noter occupations maison et papa maman annael dans dépendance
 Message permis monitrice
 liste accomplissemnts

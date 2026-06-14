@@ -246,3 +246,7 @@
 "event_logs:sources:reimport_started": {"key":"sources:reimport_started","ct":634,"first_at":1779828173270,"last_at":1781437164144,"class_name":"EventLog","event_sources":{"run_re_import":634}},
 "event_logs:sources:reimport_progress": {"key":"sources:reimport_progress","ct":635,"first_at":1779828173271,"last_at":1781437164146,"class_name":"EventLog","event_sources":{"run_re_import":635}},
 "event_logs:sources:reimport_completed": {"key":"sources:reimport_completed","ct":563,"first_at":1779828173570,"last_at":1781437175454,"class_name":"EventLog","event_sources":{"run_re_import":563}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1595,"first_at":1779827644872,"last_at":1781437697070,"class_name":"EventLog","event_sources":{"active-leaf-change":1594,"file-open":1}},
+"event_logs:sources:created": {"key":"sources:created","ct":236,"first_at":1779828160250,"last_at":1781437696898,"class_name":"EventLog","event_sources":{"obsidian:vault.create":236}},
+"event_logs:sources:renamed": {"key":"sources:renamed","ct":342,"first_at":1779830468225,"last_at":1781437702526,"class_name":"EventLog","event_sources":{"obsidian:vault.rename":342}},
+"event_logs:sources:modified": {"key":"sources:modified","ct":9100,"first_at":1780733892343,"last_at":1781437703702,"class_name":"EventLog","event_sources":{"obsidian:vault.modify":1023,"obsidian:workspace.editor-change":8077}},

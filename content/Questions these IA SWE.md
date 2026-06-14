@@ -22,3 +22,22 @@ paramètres mécaniques anisotropes
 
 + entraînement sur données in vitro  ?
 + validation sur in vivo ? Comment valider données in vivo ? Comment carte rigidité ou vitesse ondes cisaillements est defini ? 
+
+1. Acquisition 3D SWE sur fantôme ou patient
+2. Reconstruction de volumes ultrasonores
+3. Estimation des micro-déplacements u(x,y,z,t)
+4. Nettoyage / filtrage / sélection des zones exploitables
+5. Synchronisation avec ECG
+6. Construction d’un dataset deep learning
+7. Développement d’un PINN
+8. Apprentissage de la propagation 3D
+9. Estimation de la carte SWV
+10. Validation in vitro
+11. Validation in vivo
+12. Analyse de variation pendant le cycle cardiaque
+13. Extraction de biomarqueurs
+14. Intégration possible dans un modèle diagnostic
+
+https://pubmed.ncbi.nlm.nih.gov/26067040/
+
+https://pubmed.ncbi.nlm.nih.gov/32857692/

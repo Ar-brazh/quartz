@@ -8,7 +8,7 @@ champs de déplacement ?
 cartes préliminaires ?
 synchronisation ECG ?
 
-## éfinir la sortie attendue
+## définir la sortie attendue
 
 Décider ce que le modèle doit produire : 3D shear wave velocity (SWV) estimation based on 3D elastic wave propagation
 

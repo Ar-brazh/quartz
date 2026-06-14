@@ -6,7 +6,7 @@
 	- [ ] listing competences demandes dans sujet de these, implicite et explicite
 	- [ ] Complement de CV 
 	- [ ] Reecriture lettre de motivation
-	- [ ] Idee de projet IA a de
+	- [ ] Idee de projet IA a develloper 
 Mail suite a refus 
 Autres Candidatures
 

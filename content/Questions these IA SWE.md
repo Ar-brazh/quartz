@@ -41,3 +41,17 @@ paramètres mécaniques anisotropes
 https://pubmed.ncbi.nlm.nih.gov/26067040/
 
 https://pubmed.ncbi.nlm.nih.gov/32857692/
+
+
+Loss_data :
+le déplacement prédit ressemble au déplacement mesuré
+
+Loss_wave :
+le déplacement prédit respecte l’équation d’onde
+
+Loss_smooth :
+la carte de vitesse ne varie pas de manière absurde entre voxels voisins
+
+Loss_boundary :
+conditions aux limites ou contraintes anatomiques
+

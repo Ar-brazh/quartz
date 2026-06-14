@@ -1,5 +1,7 @@
 - Candidature PHD physique pour la medecine
 	- [x] Cours sur physique ultrasons ✅ 2026-06-14
+	- [x] premier jet de lettre de motivation ✅ 2026-06-14
+	- [ ] 
 	- [ ] Sujet de la thése compris 
 	- [ ] Lecture d'articles 
 	- [ ] Position coherente, technique et par rapport au projet doctoral 

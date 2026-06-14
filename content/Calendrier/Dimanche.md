@@ -1,6 +1,6 @@
 - Candidature PHD physique pour la medecine
-	- [ ] Cours sur physique ultrasons
-	- [ ] 
+	- [x] Cours sur physique ultrasons ✅ 2026-06-14
+	- [ ] Sujet de la thése 
 Mail suite a refus 
 Autres Candidatures
 

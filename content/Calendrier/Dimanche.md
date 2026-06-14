@@ -24,7 +24,7 @@ ROUTINE-PROJETS IA-PYTHON :
 
 - [x] Critérium du Dauphine 14h ✅ 2026-06-14
 - [x] F1 15h ✅ 2026-06-14
-CDM 19h
+- [x] CDM 19h ✅ 2026-06-14
 
 Noter occupations maison et papa maman annael dans dépendance
 Message permis monitrice

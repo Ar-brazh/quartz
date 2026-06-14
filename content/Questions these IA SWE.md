@@ -21,4 +21,4 @@ paramètres mécaniques anisotropes
 
 
 + entraînement sur données in vitro  ?
-+ validation sur in vivo ? Comment valider données in vivo ? Comment 
++ validation sur in vivo ? Comment valider données in vivo ? Comment carte rigidité ou vitesse ondes cisaillements est defini ? 

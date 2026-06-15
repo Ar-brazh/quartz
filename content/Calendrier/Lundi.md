@@ -16,3 +16,11 @@ ROUTINE-PROJETS IA-PYTHON :
 	- [ ] Kaggle
 - [ ] Projet pytorch mammo 🏁 ->  Candidatures thèse, ingénieur (dossier favoris) quand terminé
 	- [ ] Importer tout les DICOMS VINdr (en cours ) -> - [ ] Nettoyer ordi 
+
+Noter occupations maison et papa maman annael dans dépendance
+- [x] Message permis monitrice ✅ 2026-06-15
+liste accomplissements
+transfert données tel sur disquue dur
+notes de xiaomi a obsidian
+
+RDV Kiné + Radio + Trains 

@@ -3,3 +3,4 @@
 - C'est bon je suis en rodage 
 - (attention peut etre nul) sur "Haine et sexe" de Gazo ou tu te cognes contre un pieds de table et tu commences a flirter plans ou tu discutes, tu te fais marrer et apres shatta. 
 - Demande d'explication a un prof, reponds a chaque qu'avtn d'expmiquer ça il faut bien qu'on comprenne un sujet louphoque q'il a envie d'expliquer mais qui a rien avoir genre l'anatomie des pieds de pregannt sonic 
+- Ecrit a GPT en mode cro magnon il comprends direct, mais quand il se trompe tres arrogant sur de la merde

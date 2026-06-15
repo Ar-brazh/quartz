@@ -8,6 +8,7 @@
 	- [x] Complement de CV ✅ 2026-06-15
 	- [x] Reecriture lettre de motivation ✅ 2026-06-15
 	- [ ] Idee de projet IA a develloper 
+
 Mail suite a refus 
 Autres Candidatures
 

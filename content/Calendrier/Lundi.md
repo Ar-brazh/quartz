@@ -7,6 +7,7 @@ PHD IA-elastography :
 - [ ] listing competences demandes dans sujet de these, implicite et explicite
 - [ ] Idee de projet IA a develloper 
 
+Candidature :
 - [ ] Mail suite a refus 
 - [ ] Autres Candidatures
 
@@ -18,7 +19,7 @@ ROUTINE-PROJETS IA-PYTHON :
 - [ ] Projet pytorch mammo 🏁 ->  Candidatures thèse, ingénieur (dossier favoris) quand terminé
 	- [ ] Importer tout les DICOMS VINdr (en cours ) -> - [ ] Nettoyer ordi 
 
-- [ ] Noter occupations maison et papa maman annael dans dépendance
+- [x] Noter occupations maison et papa maman annael dans dépendance ✅ 2026-06-15
 - [x] Message permis monitrice ✅ 2026-06-15
 - [ ] liste accomplissements
 - [ ] transfert données tel sur disquue dur

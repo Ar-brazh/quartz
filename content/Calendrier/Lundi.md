@@ -21,6 +21,8 @@ ROUTINE-PROJETS IA-PYTHON :
 
 - [x] Noter occupations maison et papa maman annael dans dépendance ✅ 2026-06-15
 - [x] Message permis monitrice ✅ 2026-06-15
+- [x] Course ✅ 2026-06-15
+- [x] Coordonier double de clef ✅ 2026-06-15
 - [ ] liste accomplissements
 - [ ] transfert données tel sur disquue dur
 - [ ] Notes de xiaomi a obsidian

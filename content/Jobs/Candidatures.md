@@ -25,12 +25,11 @@
 		- [ ] Alertes
 
 - [ ] Complément utile :
-
 	- [ ] Savoir comment utiliser LinkedIn premium 
 	
-- [ ] Offres de thèse CNRS :
+- [x] Offres de thèse CNRS : ✅ 2026-06-16
 	- [x] Adapter CV et recuperer releve de notes ? ✅ 2026-06-05
-	- [ ] Resigner sur conditions pour contrat doctoral dans ma situation 
+	- [x] Resigner sur conditions pour contrat doctoral dans ma situation ✅ 2026-06-16
 
 - [ ] Refaire CV ? :
 

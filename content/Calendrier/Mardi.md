@@ -6,8 +6,7 @@ PHD IA-elastography :
 - [ ] Idee de projet IA a develloper 
 
 Candidature :
-- [ ] Mail suite a refus 
-- [ ] Autres Candidatures
+- [x] Mail suite a refus ✅ 2026-06-16
 
 ROUTINE-PROJETS IA-PYTHON :
 - [ ] Entrainement Python/IA 2h

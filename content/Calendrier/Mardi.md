@@ -25,7 +25,7 @@ ROUTINE-PROJETS IA-PYTHON :
 	- [ ] Importer tout les DICOMS VINdr (en cours ) -> - [ ] Nettoyer ordi 
 
 
-
+- []
 - [ ] liste accomplissements
 - [ ] transfert données tel sur disque dur
 - [ ] Notes de xiaomi a obsidian

@@ -20,6 +20,6 @@ ROUTINE-PROJETS IA-PYTHON :
 
 
 - [ ] liste accomplissements
-- [ ] transfert données tel sur disquue dur
+- [ ] transfert données tel sur disque dur
 - [ ] Notes de xiaomi a obsidian
 - [ ] RDV Kiné + Radio + Trains 

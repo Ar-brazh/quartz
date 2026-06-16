@@ -7,6 +7,14 @@ PHD IA-elastography :
 
 Candidature :
 - [x] Mail suite a refus ✅ 2026-06-16
+- [ ] Savoir comment utiliser LinkedIn premium 
+- [ ] Checker [[ATS ]]
+- [ ] Offres de Job 
+	- [ ] Scrapping python 
+	- [ ] Alertes
+	- [ ] Rajouter au favoris entreprises et labos
+- [ ] Rapport sur compétences manquantes à offre qui me plaise
+- [ ] Plan pour candidature Conseil, Boîte de PB, autres 
 
 ROUTINE-PROJETS IA-PYTHON :
 - [ ] Entrainement Python/IA 2h

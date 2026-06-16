@@ -5,11 +5,8 @@
 	- [x] Formation machine learning et deep learning open clasrooms ✅ 2026-06-05
 	- [x] Capture d'ecran rdv demande rensignement FT ✅ 2026-06-05
 
-- [ ]  Métier idéal et formation complémentaire : ⏫  📅 2026-06-02 
-	- [ ] Trouver métier utiles et sympa dans domaine connexe au mien ⏫ 
-	- [ ] Entreprises et labos liées à ces postes -> Remplir liste entreprise et labo intéressants⏫ 
+- [x] Métier idéal et formation complémentaire : ⏫ 📅 2026-06-02 ✅ 2026-06-16
 	- [x] Trouver offres pour [[Entreprises ou labos intéressants]] ✅ 2026-06-05
-	- [ ] Voir ce qui manque à mon profil 
 	- [x] Récup contacts Recruteurs ou ingénieurs dans boite médicale intéressante ✅ 2026-06-05
 	- [x] Demander Formation recherché ✅ 2026-06-05
 	
@@ -25,4 +22,5 @@
 	- [ ] Scrapping python 
 	- [ ] Alertes
 	- [ ] Rajouter au favoris entreprises et labos
-	- [ ] 
+- [ ] Rapport sur compétences manquantes à offre qui me plaise
+- [ ] Autres 

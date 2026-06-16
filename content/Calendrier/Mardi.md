@@ -7,6 +7,7 @@ PHD IA-elastography :
 
 Candidature :
 - [x] Mail suite a refus ✅ 2026-06-16
+- [x] Tri favoris ✅ 2026-06-16
 - [ ] Savoir comment utiliser LinkedIn premium 
 - [ ] Checker [[ATS ]]
 - [ ] Offres de Job 
@@ -25,7 +26,8 @@ ROUTINE-PROJETS IA-PYTHON :
 	- [ ] Importer tout les DICOMS VINdr (en cours ) -> - [ ] Nettoyer ordi 
 
 
-- []
+- [x] Brainsto cadeau fete des peres ✅ 2026-06-16
+
 - [ ] liste accomplissements
 - [ ] transfert données tel sur disque dur
 - [ ] Notes de xiaomi a obsidian

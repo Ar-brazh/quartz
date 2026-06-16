@@ -32,3 +32,5 @@ ROUTINE-PROJETS IA-PYTHON :
 - [ ] transfert données tel sur disque dur
 - [ ] Notes de xiaomi a obsidian
 - [ ] RDV Kiné + Radio + Trains 
+
+- [ ] Objectif avant 

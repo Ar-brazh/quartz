@@ -33,4 +33,6 @@ ROUTINE-PROJETS IA-PYTHON :
 - [ ] Notes de xiaomi a obsidian
 - [ ] RDV Kiné + Radio + Trains 
 
-- [ ] Objectif avant 
+- [ ] Objectif avant 26 Juin : 
+	- [ ] Candidater à tout spontanés et offres favorites 
+	- [ ] Finir projet IA-Pytorch et connaitre outils pertinents

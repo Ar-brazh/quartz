@@ -21,7 +21,8 @@
 	- [ ] Savoir comment utiliser LinkedIn premium 
 - [ ] Refaire CV ? :
 	- [ ] Checker [[ATS ]]
-- [ ] nnonces offres 
+- [ ] Offres de Job 
 	- [ ] Scrapping python 
 	- [ ] Alertes
+	- [ ] Rajouter au favoris entreprises et labos
 	- [ ] 

@@ -1,6 +1,5 @@
 - Idée de Jimmos, ouverture booster chips -> Peut s'etendre a d'autres 
 - Gars dans wagon conversation horrible au tel ("Ouais je me suis tartienr de merde hier soir haha" ) -> Caption genre les seuls qui vont  pas entre les wagons pour prendre des appels 
 - C'est bon je suis en rodage 
-- (attention peut etre nul) sur "Haine et sexe" de Gazo ou tu te cognes contre un pieds de table et tu commences a flirter plans ou tu discutes, tu te fais marrer et apres shatta. 
 - Demande d'explication a un prof, reponds a chaque qu'avtn d'expmiquer ça il faut bien qu'on comprenne un sujet louphoque q'il a envie d'expliquer mais qui a rien avoir genre l'anatomie des pieds de pregannt sonic 
 - Ecrit a GPT en mode cro magnon il comprends direct, mais quand il se trompe tres arrogant sur de la merde

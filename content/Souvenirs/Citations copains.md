@@ -10,3 +10,4 @@ Gus qui marque mon nom en mayonnaise
 "Revenez j'ai faim" Jimmy après avoir entendu des meufs crié depuis leur voiture  
 "Jai vu des parties de ta mère que ta jamais vu"  
 Gus a jimmy le 14/03/26/ 19h00
+Je l’ai troncule, complément de vus

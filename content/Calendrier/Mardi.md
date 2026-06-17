@@ -20,7 +20,7 @@ Candidature :
 ROUTINE-PROJETS IA-PYTHON :
 - [ ] Entrainement Python/IA 2h
 	- [ ] Exercism
-	- [ ] Écriture script 
+	- [x] Écriture script (30 min) ✅ 2026-06-17 
 	- [ ] Kaggle
 - [ ] Projet pytorch mammo 🏁 ->  Candidatures thèse, ingénieur (dossier favoris) quand terminé
 	- [ ] Importer tout les DICOMS VINdr (en cours ) -> - [ ] Nettoyer ordi 

@@ -1,9 +1,9 @@
-Tondre
-Laver ranger maison et dépendance 
-Récup colis maman
-Rembourser gus pizza
-Rembourser jimmos
-Remettre clef dans cachette
+- [ ] Tondre
+- [ ] Laver ranger maison et dépendance 
+- [ ] Récup colis maman
+- [ ] Rembourser gus pizza
+- [ ] Rembourser jimmos
+- [ ] Remettre clef dans cachette
 - [ ] liste accomplissements
 - [ ] transfert données tel sur disque dur
 - [ ] Notes de xiaomi a obsidian
@@ -14,6 +14,23 @@ Remettre clef dans cachette
 	- [ ] Finir projet IA-Pytorch et connaitre outils pertinents
 
 
+ROUTINE-PROJETS IA-PYTHON :
+- [ ] Entrainement Python/IA 2h
+	- [ ] Exercism
+	- [x] Écriture script (30 min) ✅ 2026-06-17 
+	- [ ] Kaggle
+- [ ] Projet pytorch mammo 🏁 ->  Candidatures thèse, ingénieur (dossier favoris) quand terminé
+	- [ ] Importer tout les DICOMS VINdr (en cours ) -> - [ ] Nettoyer ordi 
+
+Candidatures : 
+- [ ] Savoir comment utiliser LinkedIn premium 
+- [ ] Checker [[ATS ]]
+- [ ] Offres de Job 
+	- [ ] Scrapping python 
+	- [ ] Alertes
+	- [ ] Rajouter au favoris entreprises et labos
+- [ ] Rapport sur compétences manquantes à offre qui me plaise
+- [ ] Plan pour candidature Conseil, Boîte de PB, autres 
 
 PHD IA-elastography :
 - [ ] Lecture d'articles 

@@ -27,6 +27,8 @@ ROUTINE-PROJETS IA-PYTHON :
 
 
 - [x] Brainsto cadeau fete des peres ✅ 2026-06-16
+- [x] Match France Senegal ✅ 2026-06-17
+- [x] Palet avec Annael ✅ 2026-06-17
 
 - [ ] liste accomplissements
 - [ ] transfert données tel sur disque dur

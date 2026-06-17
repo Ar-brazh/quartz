@@ -1,4 +1,4 @@
-1. [ ] [[Candidatures]] 📅 2026-06-02⏫ 
+1. [ ] [[Candidatures]] ⏫ 
 2. [ ]  [[Programme routine code/IA]] ⏫
 3. [ ] Rdv psychiatre⏫ 
 4. [ ] Permis de conduire ⏫ 
@@ -8,7 +8,7 @@
 8. [ ] [[Article C-PETRUS]] 🔼 
 9. [ ] Remplir Carnet 🔽 
 10. [ ] Post insta Suisse-Allemagne ⏬ 
-11. [ ] Trains + RDV Kiné + Radio
+11. [ ] Trains + RDV Kiné + Radio 🔼 
 12. [x] [[Acheter tenue anniv Eno]] 🔼 ✅ 2026-06-05
 13. [ ] Rappels actualisation France travail 🔼 
 14. [x] Trains 🔁 every day ✅ 2026-06-05

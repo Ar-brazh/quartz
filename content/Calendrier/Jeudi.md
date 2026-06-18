@@ -1,9 +1,9 @@
-- [ ] Tondre
-- [ ] Laver ranger maison et dépendance 
-- [ ] Récup colis maman
-- [ ] Rembourser gus pizza
-- [ ] Rembourser jimmos
-- [ ] Remettre clef dans cachette
+- [ ] Tondre ⏫ 
+- [ ] Laver ranger maison et dépendance  📅 2026-06-21 
+- [ ] Récup colis maman  ⏫ 
+- [ ] Rembourser gus pizza ⏫ 
+- [ ] Rembourser jimmos ⏫ 
+- [ ] Remettre clef dans cachette  ⏫ 
 - [ ] liste accomplissements
 - [ ] transfert données tel sur disque dur
 - [ ] Notes de xiaomi a obsidian

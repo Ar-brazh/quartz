@@ -1,7 +1,7 @@
 - [ ] Tondre ⏫ 
 - [ ] Laver ranger maison et dépendance  📅 2026-06-21 
-- [ ] Récup colis maman  ⏫ 
-- [ ] Rembourser gus pizza ⏫ 
+- [x] Récup colis maman ⏫ ✅ 2026-06-18
+- [x] Rembourser gus pizza ⏫ ✅ 2026-06-18
 - [x] Rembourser jimmos ⏫ ✅ 2026-06-18
 - [ ] Remettre clef dans cachette  ⏫ 
 - [ ] liste accomplissements

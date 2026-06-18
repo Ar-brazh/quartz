@@ -623,3 +623,7 @@
 "event_logs:sources:reimport_completed": {"key":"sources:reimport_completed","ct":625,"first_at":1779828173570,"last_at":1781778662919,"class_name":"EventLog","event_sources":{"run_re_import":625}},
 "event_logs:sources:opened": {"key":"sources:opened","ct":1805,"first_at":1779827644872,"last_at":1781779017743,"class_name":"EventLog","event_sources":{"active-leaf-change":1804,"file-open":1}},
 "event_logs:sources:opened": {"key":"sources:opened","ct":1807,"first_at":1779827644872,"last_at":1781784692480,"class_name":"EventLog","event_sources":{"active-leaf-change":1806,"file-open":1}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1808,"first_at":1779827644872,"last_at":1781788658847,"class_name":"EventLog","event_sources":{"active-leaf-change":1807,"file-open":1}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1809,"first_at":1779827644872,"last_at":1781788659791,"class_name":"EventLog","event_sources":{"active-leaf-change":1808,"file-open":1}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1810,"first_at":1779827644872,"last_at":1781788706717,"class_name":"EventLog","event_sources":{"active-leaf-change":1809,"file-open":1}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1811,"first_at":1779827644872,"last_at":1781788708548,"class_name":"EventLog","event_sources":{"active-leaf-change":1810,"file-open":1}},

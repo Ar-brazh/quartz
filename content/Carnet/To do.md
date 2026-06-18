@@ -3,9 +3,9 @@
 3. [ ] [[Rdv psychiatre]]⏫ 
 4. [ ] [[Permis de conduire]] ⏫ 
 5. [ ]  [[Relancer groupes vacances]] 🔼
-6. [ ]  [[Site web - Notes]] 🔽 
-7. [ ] [[Gérer données ordi téléphone]] 🔽 
-8. [ ] [[Article C-PETRUS]] 🔼 
+6. [ ] [[Article C-PETRUS]] 🔼 
+7. [ ]  [[Site web - Notes]] 🔽 
+8. [ ] [[Gérer données ordi téléphone]] 🔽 
 9. [ ] Remplir Carnet 🔽 
 10. [ ] Post insta Suisse-Allemagne ⏬ 
 11. [ ] Trains + RDV Kiné + Radio 🔼 

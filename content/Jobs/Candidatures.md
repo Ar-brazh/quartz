@@ -18,9 +18,11 @@
 	- [ ] Savoir comment utiliser LinkedIn premium 
 - [ ] Refaire CV ? :
 	- [ ] Checker [[ATS ]]
-- [ ] Offres de Job 
+- [ ] Trouver offres
 	- [ ] Scrapping python 
 	- [ ] Alertes
 	- [ ] Rajouter au favoris entreprises et labos
+- [ ] Candidater
+	- [ ] Workflow IA pour candidature
 - [ ] Rapport sur compétences manquantes à offre qui me plaise
 - [ ] Autres 

@@ -1,9 +1,9 @@
 1. [ ] [[Candidatures]] ⏫ 
 2. [ ]  [[IA-Code]] ⏫
-3. [ ] Rdv psychiatre⏫ 
+3. [ ] [[Rdv psychiatre]]⏫ 
 4. [ ] [[Permis de conduire]] ⏫ 
-5. [ ]  [[Site web - Notes]] 🔽 
-6. [ ] [[Relancer groupes vacances]] 🔼
+5. [ ]  [[Relancer groupes vacances]] 🔼
+6. [ ]  [[Site web - Notes]] 🔽 
 7. [ ] [[Gérer données ordi téléphone]] 🔽 
 8. [ ] [[Article C-PETRUS]] 🔼 
 9. [ ] Remplir Carnet 🔽 

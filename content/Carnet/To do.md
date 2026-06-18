@@ -1,7 +1,7 @@
 1. [ ] [[Candidatures]] ⏫ 
-2. [ ]  [[Programme routine code/IA]] ⏫
+2. [ ]  [[IA-Code]] ⏫
 3. [ ] Rdv psychiatre⏫ 
-4. [ ] Permis de conduire ⏫ 
+4. [ ] [[Permis de conduire]] ⏫ 
 5. [ ]  [[Site web - Notes]] 🔽 
 6. [ ] [[Relancer groupes vacances]] 🔼
 7. [ ] [[Gérer données ordi téléphone]] 🔽 

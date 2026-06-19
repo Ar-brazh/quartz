@@ -79,6 +79,7 @@ Il faut éviter de te présenter uniquement comme “développeur Python/MATLAB�
 ## 6. Questions qu’ils peuvent te poser
 
 **Pourquoi ce poste chez GE HealthCare ?**  
+- Pourquoi je fit bien ? 
 Réponse à viser : parce que le poste combine imagerie médicale, besoin clinique, spécification système, ==prototypage==, intégration, vérification et documentation. C’est exactement la continuité de C-PETRUS, mais dans un cadre industriel.
 
 **Pourquoi l’ingénierie système plutôt qu’un poste purement logiciel ?**  

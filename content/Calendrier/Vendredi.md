@@ -1,3 +1,8 @@
+- [ ] Tondre ⏫ 
+- [ ] Laver ranger maison et dépendance  📅 2026-06-21 
+- [ ] liste accomplissements
+- [ ] transfert données tel sur disque dur
+- [ ] Notes de xiaomi a obsidian
 
 SANTE :
 
@@ -25,3 +30,7 @@ CANDIDATURES :
 		- [ ] Scrapping python 
 		- [ ] Alertes
 - [ ] Savoir comment utiliser LinkedIn premium
+
+- [ ] Objectif avant 26 Juin : 
+	- [ ] Candidater à tout spontanés et offres favorites 
+	- [ ] Finir projet IA-Pytorch et connaitre outils pertinents

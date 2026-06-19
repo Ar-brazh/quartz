@@ -18,6 +18,8 @@ ROUTINE-PROJETS IA-PYTHON :
 
 Candidatures : 
 - [ ] Préparer [[Entretien GE ]]
+	- [ ] Prépa commancer 
+- [ ] Préparer[[ Entretien Physique pour la médecine]] 
 - [ ] Savoir comment utiliser LinkedIn premium 
 - [ ] Checker [[ATS ]]
 - [ ] Offres de Job 

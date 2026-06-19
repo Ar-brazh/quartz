@@ -81,7 +81,7 @@ Réponse à viser : parce que le poste combine imagerie médicale, besoin cliniq
 **Pourquoi l’ingénierie système plutôt qu’un poste purement logiciel ?**  
 Dis que le logiciel t’intéresse, mais que ce que tu as préféré dans C-PETRUS était la vision globale : comprendre le besoin, intégrer logiciel/imagerie/robotique, tester sur fantômes, analyser les défauts, documenter et rendre le système utilisable.
 
-**Pourquoi système plutôt que recherche pur** ? 
+**Pourquoi système plutôt que recherche pur** **?** 
 
 
 
@@ -105,6 +105,8 @@ MATLAB App Designer, Python/PyQt5, ROS, Git. Tu peux dire que tu n’es pas dév
 
 **Prétentions salariales ?**  
 Pour un premier appel, évite d’être trop fermé : “Je suis ouvert à en discuter selon le périmètre exact du poste, le niveau de responsabilité et la grille GE HealthCare.” Si elle insiste : “autour de 45–50 k€ brut annuel” est cohérent avec ton profil.
+
+
 
 **D'autres entretiens ?** 
 

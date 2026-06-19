@@ -21,20 +21,17 @@ Candidatures :
 - [ ] Préparer [[Entretien GE ]]
 	- [x] Prépa commancer ✅ 2026-06-19
 - [ ] Préparer[[ Entretien Physique pour la médecine]] 
+	- [x] Mail entretien repondu ✅ 2026-06-19
 - [ ] Savoir comment utiliser LinkedIn premium 
-- [ ] Checker [[ATS ]]
-- [ ] Offres de Job 
-	- [ ] Scrapping python 
-	- [ ] Alertes
-	- [ ] Rajouter au favoris entreprises et labos
-- [ ] Rapport sur compétences manquantes à offre qui me plaise
-- [ ] Plan pour candidature Conseil, Boîte de PB, autres 
 
-PHD IA-elastography :
-- [ ] Lecture d'articles 
-- [ ] Position coherente, technique et par rapport au projet doctoral 
-- [ ] listing competences demandes dans sujet de these, implicite et explicite
-- [ ] Idee de projet IA a develloper 
 
-DIMANCHE MATIN AVANT 11H APPEL YANN
+~~On Hold :~~
+- [ ] ~~Checker [[ATS ]]~~
+- [ ] ~~Offres de Job~~ 
+	- [ ] ~~Scrapping python~~ 
+	- [ ] ~~Alertes~~
+	- [ ] ~~Rajouter au favoris entreprises et labos~~
+- [ ] ~~Rapport sur compétences manquantes à offre qui me plaise~~
+- [ ] ~~Plan pour candidature Conseil, Boîte de PB, autres~~ 
+
 

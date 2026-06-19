@@ -16,9 +16,10 @@ ROUTINE-PROJETS IA-PYTHON :
 - [ ] Projet pytorch mammo 🏁 ->  Candidatures thèse, ingénieur (dossier favoris) quand terminé
 	- [ ] Importer tout les DICOMS VINdr (en cours ) -> - [ ] Nettoyer ordi 
 
+- [x] Orga pour entretiens ✅ 2026-06-19
 Candidatures : 
 - [ ] Préparer [[Entretien GE ]]
-	- [ ] Prépa commancer 
+	- [x] Prépa commancer ✅ 2026-06-19
 - [ ] Préparer[[ Entretien Physique pour la médecine]] 
 - [ ] Savoir comment utiliser LinkedIn premium 
 - [ ] Checker [[ATS ]]

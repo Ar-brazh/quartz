@@ -62,13 +62,15 @@ Ils vont aussi chercher une vraie logique **cycle en V / validation / documentat
 
 Enfin, ils vont regarder ton **aisance relationnelle** : collaboration avec médecins, chercheurs, ingénieurs, techniciens, encadrement de stagiaires, anglais, travail avec des équipes internationales.
 
-## 3. Ton angle de présentation
+## 3. Présentation
 
 Ton positionnement doit être :
 
 > Ingénieur biomédical orienté intégration système, imagerie médicale, logiciel scientifique et validation expérimentale, avec une expérience concrète sur une plateforme médicale multimodale en environnement clinique.
 
 Il faut éviter de te présenter uniquement comme “développeur Python/MATLAB” ou uniquement comme “profil IA/imagerie”. Pour cette offre, tu dois surtout apparaître comme quelqu’un qui sait **faire converger un système médical vers une solution testée, documentée et utilisable**.
+
+
 
 
 ## 6. Questions qu’ils peuvent te poser

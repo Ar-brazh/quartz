@@ -10,10 +10,6 @@ https://www.gehealthcare.fr/products/interventional-image-guided-systems
 En tant qu'ingénieur(e) système, vous participerez à la caractérisation des besoins cliniques et la spécification du système vasculaire interventionnel pour une fonction donnée.  
   
 **Job Description  
-  
-Description de l'emploi  
-  
-**
 
 - Analyse des besoins client, spécifications, design système en incluant la documentation.
 - Prototyper les solutions, qu’elles soient logicielles ou physiques.

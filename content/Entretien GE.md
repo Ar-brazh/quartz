@@ -83,10 +83,10 @@ Dis que le logiciel t’intéresse, mais que ce que tu as préféré dans C-PETR
 Oui : médecins, chercheurs, ingénieurs et techniciens ; contexte HEGP, médecine nucléaire, médecine vasculaire ; traduction de contraintes cliniques en solutions techniques ; tests et documentation.
 
 **Avez-vous une expérience en vérification/validation ?**  
-Oui : tests sur fantômes, analyse d’erreurs de recalage, évaluation de précision géométrique, protocoles expérimentaux, documentation des résultats, tests logiciels, logique cycle en V.
+Oui : tests sur fantômes, analyse d’erreurs de recalage, évaluation de précision géométrique, protocoles expérimentaux, documentation des résultats, tests logiciels, logique ==cycle en V==.
 
 **Avez-vous déjà rédigé des exigences ou de la documentation ?**  
-Oui : exigences fonctionnelles/techniques sur C-PETRUS, protocoles, manuel utilisateur, éléments de dossier ANSM, documentation technique.
+Oui : exigences ==fonctionnelles/techniques== sur C-PETRUS, protocoles, manuel utilisateur, éléments de dossier ANSM, documentation technique.
 
 **Niveau d’anglais ?**  
 C1, expérience professionnelle en environnement anglophone chez ZEISS Innovation Hub en Allemagne, échanges techniques en anglais.

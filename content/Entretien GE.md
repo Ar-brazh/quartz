@@ -8,7 +8,9 @@ Les systèmes d’angiographie interventionnelle permettent de réaliser des exa
 https://www.gehealthcare.fr/products/interventional-image-guided-systems  
   
 En tant qu'ingénieur(e) système, vous participerez à la caractérisation des besoins cliniques et la spécification du système vasculaire interventionnel pour une fonction donnée.  
-  
+
+Pour chaque po
+
 **Job Description  
 
 - Analyse des besoins client, spécifications, design système en incluant la documentation.

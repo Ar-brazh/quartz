@@ -1,15 +1,10 @@
-- [ ] Tondre ⏫ 
-- [ ] Laver ranger maison et dépendance  📅 2026-06-21 
-- [ ] liste accomplissements
-- [ ] transfert données tel sur disque dur
-- [ ] Notes de xiaomi a obsidian
 
 SANTE :
 
 
-- [x] RDV Médicaux ✅ 2026-06-19
-	- [x] Kine -> Par rapport à trains et radio ✅ 2026-06-19
-	- [x] Radio -> Par rapport à kiné ✅ 2026-06-19
+- [ ] RDV Médicaux
+	- [ ] Kine -> Par rapport à trains et radio
+	- [ ] Radio -> Par rapport à kiné
 - [x] Sport ✅ 2026-06-12
 
 
@@ -30,7 +25,3 @@ CANDIDATURES :
 		- [ ] Scrapping python 
 		- [ ] Alertes
 - [ ] Savoir comment utiliser LinkedIn premium
-
-- [ ] Objectif avant 26 Juin : 
-	- [ ] Candidater à tout spontanés et offres favorites 
-	- [ ] Finir projet IA-Pytorch et connaitre outils pertinents

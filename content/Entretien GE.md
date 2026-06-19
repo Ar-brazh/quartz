@@ -122,6 +122,9 @@ Tu peux préparer 3–4 questions. Pour un appel de 15 minutes, n’en pose pas 
 **Sur l’équipe :**  
 “Quelle est l’organisation entre l’équipe système, les équipes software, hardware et les utilisateurs cliniques ?”
 
+**A quelle point on va coder :** 
+Travailler en collaboration avec les concepteurs HW et SW sur les choix de conception
+
 **Sur la phase projet :**  
 “Le poste concerne-t-il plutôt des développements amont, du prototypage, de l’intégration-vérification ou le suivi de fonctionnalités proches du produit final ?”
 

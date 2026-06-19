@@ -3,11 +3,11 @@
 - [x] Récup colis maman ⏫ ✅ 2026-06-18
 - [x] Rembourser gus pizza ⏫ ✅ 2026-06-18
 - [x] Rembourser jimmos ⏫ ✅ 2026-06-18
-- [ ] Remettre clef dans cachette  ⏫ 
+- [x] Remettre clef dans cachette ⏫ ✅ 2026-06-19
 - [ ] liste accomplissements
 - [ ] transfert données tel sur disque dur
 - [ ] Notes de xiaomi a obsidian
-- [ ] RDV Kiné + Radio + Trains 
+- [x] RDV Kiné + Radio + Trains ✅ 2026-06-19
 
 - [ ] Objectif avant 26 Juin : 
 	- [ ] Candidater à tout spontanés et offres favorites 

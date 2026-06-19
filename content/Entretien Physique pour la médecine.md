@@ -6,3 +6,6 @@ PHD IA-elastography :
 - [ ] techniques traitemtn d'images utilisés 
 - [ ] Modules, fonctions Matlab python mobilisés 
 
+[[Qu]]
+
+![[Offre_PhD_SWE_AI.pdf]]

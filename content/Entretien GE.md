@@ -81,6 +81,10 @@ Réponse à viser : parce que le poste combine imagerie médicale, besoin cliniq
 **Pourquoi l’ingénierie système plutôt qu’un poste purement logiciel ?**  
 Dis que le logiciel t’intéresse, mais que ce que tu as préféré dans C-PETRUS était la vision globale : comprendre le besoin, intégrer logiciel/imagerie/robotique, tester sur fantômes, analyser les défauts, documenter et rendre le système utilisable.
 
+Pourquoi plus recherche ? 
+
+
+
 **Avez-vous déjà travaillé avec des cliniciens ?**  
 Oui : médecins, chercheurs, ingénieurs et techniciens ; contexte HEGP, médecine nucléaire, médecine vasculaire ; traduction de contraintes cliniques en solutions techniques ; tests et documentation.
 

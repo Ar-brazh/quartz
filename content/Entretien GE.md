@@ -125,7 +125,7 @@ Tu peux préparer 3–4 questions. Pour un appel de 15 minutes, n’en pose pas 
 
 Prépare des réponses courtes sur ces exemples :
 
-Pré
+==Prépa sur l'angiographie== 
 
 **C-PETRUS — ton exemple principal**  
 Besoin clinique → plateforme multimodale → exigences → MATLAB App Designer → intégration robot/imagerie/logiciel → tests sur fantômes → erreurs géométriques → documentation ANSM/utilisateur → coordination.

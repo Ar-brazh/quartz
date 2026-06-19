@@ -5,7 +5,8 @@ PHD IA-elastography :
 - [ ] Idee de projet IA a develloper 
 - [ ] techniques traitemtn d'images utilisés 
 - [ ] Modules, fonctions Matlab python mobilisés 
+- [ ] Se rensigner sur PINN
 
-[[Qu]]
+[[Questions these IA SWE]]
 
 ![[Offre_PhD_SWE_AI.pdf]]

@@ -4,12 +4,13 @@
 Vous travaillerez pour le département études de l'équipe système qui fait partie de l'organisation des systèmes interventionnels X-Ray de GE Healthcare. Votre poste est basé à Buc, France avec de fréquentes interactions avec des équipes mondiales.  
   
 Les systèmes d’angiographie interventionnelle permettent de réaliser des examens à visée diagnostique ou interventionnelle pour diverses pathologies: problèmes cardiaques, vasculaires, neurologiques, cancer du foie…  
-  
+
+==Descriptif de ces systèmes== 
 https://www.gehealthcare.fr/products/interventional-image-guided-systems  
   
 En tant qu'ingénieur(e) système, vous participerez à la caractérisation des besoins cliniques et la spécification du système vasculaire interventionnel pour une fonction donnée.  
 
-Pour chaque po
+==Pour chaques points bien décrire ce que je comprends et en quoi je fit== 
 
 **Job Description  
 

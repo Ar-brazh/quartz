@@ -2,9 +2,9 @@
 SANTE :
 
 
-- [ ] RDV Médicaux
-	- [ ] Kine -> Par rapport à trains et radio
-	- [ ] Radio -> Par rapport à kiné
+- [x] RDV Médicaux ✅ 2026-06-19
+	- [x] Kine -> Par rapport à trains et radio ✅ 2026-06-19
+	- [x] Radio -> Par rapport à kiné ✅ 2026-06-19
 - [x] Sport ✅ 2026-06-12
 
 

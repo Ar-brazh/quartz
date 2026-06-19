@@ -9,6 +9,7 @@
 - [ ] Notes de xiaomi a obsidian
 - [x] RDV Kiné + Radio + Trains ✅ 2026-06-19
 
+
 - [ ] Objectif avant 26 Juin : 
 	- [ ] Candidater à tout spontanés et offres favorites 
 	- [ ] Finir projet IA-Pytorch et connaitre outils pertinents
@@ -23,6 +24,7 @@ ROUTINE-PROJETS IA-PYTHON :
 	- [ ] Importer tout les DICOMS VINdr (en cours ) -> - [ ] Nettoyer ordi 
 
 Candidatures : 
+- [ ] Préparer [[Entretien GE ]]
 - [ ] Savoir comment utiliser LinkedIn premium 
 - [ ] Checker [[ATS ]]
 - [ ] Offres de Job 

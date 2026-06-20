@@ -52,3 +52,8 @@
 "event_logs:sources:opened": {"key":"sources:opened","ct":1957,"first_at":1779827644872,"last_at":1781949249355,"class_name":"EventLog","event_sources":{"active-leaf-change":1956,"file-open":1}},
 "event_logs:sources:opened": {"key":"sources:opened","ct":1958,"first_at":1779827644872,"last_at":1781949251713,"class_name":"EventLog","event_sources":{"active-leaf-change":1957,"file-open":1}},
 "event_logs:sources:opened": {"key":"sources:opened","ct":1960,"first_at":1779827644872,"last_at":1781949254715,"class_name":"EventLog","event_sources":{"active-leaf-change":1959,"file-open":1}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1961,"first_at":1779827644872,"last_at":1781949497483,"class_name":"EventLog","event_sources":{"active-leaf-change":1960,"file-open":1}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1962,"first_at":1779827644872,"last_at":1781949509408,"class_name":"EventLog","event_sources":{"active-leaf-change":1961,"file-open":1}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1963,"first_at":1779827644872,"last_at":1781949514631,"class_name":"EventLog","event_sources":{"active-leaf-change":1962,"file-open":1}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1964,"first_at":1779827644872,"last_at":1781949515564,"class_name":"EventLog","event_sources":{"active-leaf-change":1963,"file-open":1}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1965,"first_at":1779827644872,"last_at":1781949517043,"class_name":"EventLog","event_sources":{"active-leaf-change":1964,"file-open":1}},

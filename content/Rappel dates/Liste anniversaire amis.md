@@ -1,6 +1,6 @@
 ****
 Janvier :  
-- [ ] 25 Gus  @2027-01-25 11:00
+- [ ] 25 Gus (@)
 
 Février :  
 12 Victor  

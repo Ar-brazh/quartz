@@ -1,6 +1,6 @@
 ****
 Janvier :  
-25 Gus  @2027-01-DD HH:mm
+- [ ] 25 Gus  @2027-01-25 11:00
 
 Février :  
 12 Victor  
@@ -18,7 +18,7 @@ Mai :
 21 Eno  
 28 Guillaume  
 
-Juin :  
+Juin : 
 02 Martin  
 08 Julie  
 12 Yohann  

@@ -1,6 +1,6 @@
 ****
 Janvier :  
-25 Gus  
+- [ ] 25 Gus  (@📅 )
 
 Février :  
 12 Victor  

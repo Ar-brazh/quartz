@@ -3,13 +3,13 @@ Janvier :
 - [ ] 25 Gus (@2027-01-25 10:30) 🔁 every year 
 
 Février :  
-12 Victor  (@2027-02-12 10:30) 🔁 every year 
+- [ ] 12 Victor  (@2027-02-12 10:30) 🔁 every year 
 
 Mars  :  
-3 Jean  (@2027-03-03 10:30) 🔁 every year 
-25 Pe  (@2027-03-25 10:30) 🔁 every year 
-27 Adèle  (@2027-02-12 10:30) 🔁 every year 
-28 Assane  
+- [ ] 3 Jean  (@2027-03-03 10:30) 🔁 every year 
+- [ ] 25 Pe  (@2027-03-25 10:30) 🔁 every year 
+- [ ] 27 Adèle  (@2027-03-27 10:30) 🔁 every year 
+- [ ] 28 Assane  (@2027-03-28 10:30) 🔁 every year 
 
 Avril :  
 28 Kevin  
@@ -23,7 +23,7 @@ Juin :
 08 Julie  
 12 Yohann  
 13 Adrien  
-23 Méline  
+23 Méline  (@2026-06-23 10:30) 🔁 every year 
 28 Mélanie  
 
 Juillet :  

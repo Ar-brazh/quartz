@@ -8,7 +8,7 @@
 8. [ ] [[Gérer données ordi téléphone]] 🔽 
 9. [ ] Remplir Carnet 🔽 
 10. [ ] Post insta Suisse-Allemagne ⏬ 
-11. [ ] Trains + RDV Kiné + Radio 🔼 
+11. [x] Trains + RDV Kiné + Radio 🔼 ✅ 2026-06-20
 12. [x] [[Acheter tenue anniv Eno]] 🔼 ✅ 2026-06-05
 13. [ ] Rappels actualisation France travail 🔼 
 14. [x] Trains 🔁 every day ✅ 2026-06-05

@@ -1,6 +1,6 @@
 ****
 Janvier :  
-25 Gus  (@)
+25 Gus  @2027-01-DD HH:mm
 
 Février :  
 12 Victor  

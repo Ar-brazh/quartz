@@ -20,7 +20,7 @@ Mai :
 Juin :  
 2 Antoine  
 11 Gael  
-25 Morgane  
+- [ ] 25 Morgane  (@2026-06-25 10:30) 🔁 every year 
 
 Juillet :  
 15 Eliott  

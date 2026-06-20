@@ -23,7 +23,7 @@ Juin :
 08 Julie  
 12 Yohann  
 13 Adrien  
-23 Méline  (@2026-06-23 10:30) 🔁 every year 
+- [ ] 23 Méline  (@2026-06-23 10:30) 🔁 every year 
 28 Mélanie  
 
 Juillet :  

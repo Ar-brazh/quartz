@@ -9,4 +9,7 @@ PHD IA-elastography :
 
 [[Questions these IA SWE]]
 
+Enseignements ? Si oui, quoi ? 
+
+
 ![[Offre_PhD_SWE_AI.pdf]]
